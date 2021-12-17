@@ -35,7 +35,7 @@ Generate a random website design.
 Find a unusual, but interesting dataset. -- let other's vote on the
 "interestingness", e.g. by giving a mark 0 (boring), 1, 2, 3 (cool).
 
-## Method
+## Method and Tools
 
 * use etherpad
 * use polls; poll site
@@ -43,3 +43,11 @@ Find a unusual, but interesting dataset. -- let other's vote on the
 * look into existing options: codepen, replit
 * breakout with task; maybe 5-6 people
 * visualize git execution
+
+## Server
+
+* lv22.info/user, e.g. lv22.info/~martin
+* quiz.lv22.info/q/bfq9cd
+* poll.lv22.info/p/haiw1y
+* code.lv22.info
+
