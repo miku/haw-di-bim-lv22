@@ -51,3 +51,6 @@ Find a unusual, but interesting dataset. -- let other's vote on the
 * poll.lv22.info/p/haiw1y
 * code.lv22.info
 
+## Data and Formats
+
+* [https://pro4bib.github.io/pica/#/](https://pro4bib.github.io/pica/#/), [https://av.tib.eu/media/48737](https://av.tib.eu/media/48737), via [https://mobile.twitter.com/nichtich/status/1314115548658139136](https://mobile.twitter.com/nichtich/status/1314115548658139136), [https://github.com/orgs/pro4bib/repositories](https://github.com/orgs/pro4bib/repositories)
