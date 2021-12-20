@@ -54,3 +54,8 @@ Find a unusual, but interesting dataset. -- let other's vote on the
 ## Data and Formats
 
 * [https://pro4bib.github.io/pica/#/](https://pro4bib.github.io/pica/#/), [https://av.tib.eu/media/48737](https://av.tib.eu/media/48737), via [https://mobile.twitter.com/nichtich/status/1314115548658139136](https://mobile.twitter.com/nichtich/status/1314115548658139136), [https://github.com/orgs/pro4bib/repositories](https://github.com/orgs/pro4bib/repositories)
+
+## Reading and Projects
+
+* http://ceur-ws.org/Vol-1155/paper-07.pdf
+* https://tailwindcss.com/
