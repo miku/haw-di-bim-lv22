@@ -13,6 +13,12 @@ Due dates:
 
 ## About
 
+* [Protocols](#protocols)
+* [Current Developments](#current-developments)
+* [Content](#content)
+* [Data Fusion](#data-fusion)
+* [Programming](#programming)
+
 ### Protocols
 
 > Web Protokolle und Standards, Anwendungs-Architekturen (z.B. Client-Server,
