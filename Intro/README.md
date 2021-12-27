@@ -13,6 +13,8 @@ Due dates:
 
 ## About
 
+### Protocols
+
 > Web Protokolle und Standards, Anwendungs-Architekturen (z.B. Client-Server,
 verteilte Systeme, dienstorientierte Architekturen, Web-Services) sowie
 standardisierte Webtechnologien (HTML, CSS, JSON, RDF, Web APIs) und de-facto
@@ -36,6 +38,8 @@ Web services are typically not built from scratch, but leverage existing code in
 form of [web frameworks](https://en.wikipedia.org/wiki/Web_framework). Most
 mainstream programming languages have one or more web frameworks.
 
+### Current Developments
+
 > aktuelle Entwicklungen der Web- und Internettechnologie kennen und ihre
 Relevanz einschätzen
 
@@ -49,11 +53,11 @@ The web evolves. There are a few directions:
 * we see a drift towards more decentralized technologies (distribution
   technologies, like [ipfs](https://ipfs.io/),
   [web3](https://blog.cloudflare.com/what-is-web3/)); which in short is a
-  strange world ([Blockchains Are a Bad
-  Idea(https://www.youtube.com/watch?v=15RTC22Z2xI))
-* from static pages to applications (e.g. [web
-  assembly](https://developer.mozilla.org/en-US/docs/WebAssembly))
-* immersive, creative applications; examples: [marzipano](https://www.marzipano.net/demos.html), 
+  strange world ([Blockchains Are a Bad Idea](https://www.youtube.com/watch?v=15RTC22Z2xI))
+* from static pages to applications (e.g. [web assembly](https://developer.mozilla.org/en-US/docs/WebAssembly))
+* immersive, creative applications; examples: [marzipano](https://www.marzipano.net/demos.html),
+
+### Content
 
 > die Entwicklung und ggf. cloud-basierte Bereitstellung von Webauftritten via
 modularisierter Content Management Systeme an einem praktischen Beispiel
@@ -66,5 +70,42 @@ functionality and hosting options.
 * self-hosted to managed
 
 Most systems are modular. Plugins enhance functionality or appearance, via
-application specific set of interfaces. 
+application specific set of interfaces.
+
+### Data Fusion
+
+> Vorgehensweisen für die Anreicherung von Webinhalten mit
+strukturierten, semantischen und graph-basierten, ggf. öffentlich verfügbaren
+Daten kennen und anwenden lernen,
+
+The data process is straight-forward (but *god is in the details*):
+
+* data curation (finding, selecting data)
+* data acquisition (API, scraping, manual labor, ...)
+* data preparation (refinement, cleanup, ...)
+* data fusion (combine data source, enhance existing applications)
+* data products
+
+There is a myriad of options to improve existing an existing document with
+another data set. Examples:
+
+* include microdata in a webpage; improve machine readability (e.g. catalog
+  item, available for loan, structured metadata) -- this will happen mostly
+server-side
+* availability information for a catalog (separate metadata from live system status)
+* recommendation systems (e.g. [litmaps](https://app.litmaps.co/?seedId=3174407535) for arxiv.org)
+
+Other examples:
+
+* fuse catalog data with citation data (offline or on-the-fly)
+* fuse catalog data with authority data (GND)
+* fuse ISIL data with map data
+
+There are millions of datasets openly available on the web right now:
+
+* [LOD cloud](https://lod-cloud.net/)
+* [Dataset search](https://datasetsearch.research.google.com/)
+
+See: [Datasets on the Internet](Datasets.md)
+
 
