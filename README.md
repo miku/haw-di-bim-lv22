@@ -34,8 +34,8 @@ Hackathon (07.05.2022 &mdash; 24.06.2022):
 
 # Inhalt
 
-* [1 Werkstatt-Umgebung](#1-werkstattumgebung)
-* [2 Projektverwaltung mit Git](#2-projektverwaltung-mit-git)
+* [1 Werkstatt-Umgebung](#1-werkstattumgebung), [Intro](Intro/README.md), [Datasets](Intro/Datasets.md), [Setup](Setup/README.md)
+* [2 Projektverwaltung mit Git](#2-projektverwaltung-mit-git), [VersionControl](VersionControl/README.md)
 * [3 Standards](#3-standards)
 * [4 Publizieren im Web 1](#4-publizieren-im-web-1)
 * [5 Publizieren im Web 2](#5-publizieren-im-web-2)
