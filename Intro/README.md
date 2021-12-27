@@ -5,11 +5,11 @@
 ## Admin
 
 * 3 online quizzes during the course
-* 1 final project
+* 1 final project (various options)
 
 Due dates:
 
-* 2022-XX-XX
+* final project: 2022-XX-XX
 
 ## About
 
@@ -137,7 +137,7 @@ Software is a key component of automation; software has capability to scale
 * Software is an expensive artifact
 * Software is written 10% of the time and maintained 90% of the time (often forgotten)
 
-> Data is more agile than code (Peter Norvig, Talk tt [Startup School
+> Data is more agile than code (Peter Norvig, Talk at [Startup School
 > 2008](https://www.youtube.com/watch?v=LNjJTgXujno))
 
 * data ages like wine, code ages like fish
