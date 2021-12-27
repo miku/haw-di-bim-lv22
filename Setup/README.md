@@ -10,6 +10,8 @@ Coding workshop setup. We will need:
 
 > [In the beginning was the command line](https://people.cs.georgetown.edu/~clay/classes/spring2010/os/inthebeginning.pdf)
 
+* [Case Study: Two Ways to Write a Calculator Program](http://www.catb.org/esr/writings/taoup/html/graphics/taoup.pdf#page=300)
+
 
 ## Command line tools
 
