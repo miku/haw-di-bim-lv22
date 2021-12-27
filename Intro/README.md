@@ -109,3 +109,40 @@ There are millions of datasets openly available on the web right now:
 See: [Datasets on the Internet](Datasets.md)
 
 
+### Programming
+
+> auf diese Weise die Grundkenntnisse der Programmierung anhand eigener
+> Projekte festigen und vertiefen um die Anforderungen an die Bereitstellung
+> von semantisch angereicherten Informationen im Rahmen des Berufsfeldes
+> "Bibliothek/Information“ für den praktischen Einsatz zu bewerten und
+> innovativ weiterzuentwickeln.
+
+* software is a fast moving field; millions of developers and researchers are
+  working to push the boundaries every day
+* we have trends, megatrends, adoption cycles, paradigm shifts ([Kuhn](https://plato.stanford.edu/entries/thomas-kuhn/))
+
+Software is a key component of automation; software has capability to scale
+(and to not scale).
+
+* Software is all about the details (but is surprisingly simple to talk about,
+  ignoring all the details)
+* Software development is more like craftmanship - you get better at it, if you
+  practice (like, every day)
+* Software is an expensive artifact
+* Software is written 10% of the time and maintained 90% of the time (often forgotten)
+
+> Data is more agile than code (Peter Norvig, Talk tt [Startup School
+> 2008](https://www.youtube.com/watch?v=LNjJTgXujno))
+
+* data ages like wine, code ages like fish
+* build on boring, working software if applicable ([meme](https://img.devrant.com/devrant/rant/r_1838652_nvNdj.jpg))
+* use and contribute to [free software](https://en.wikipedia.org/wiki/Free_software), if possible ([public code](https://publiccode.eu/))
+* more code, more bugs ([Dangers of complexity](https://www.techrepublic.com/blog/it-security/the-danger-of-complexity-more-code-more-bugs/))
+* KISS
+
+> "Our aim," he said, "is to get results cheaper, sooner, and better through
+> application of common sense to tough problems. If it works, don’t fix it."
+> "Keep it simple, stupid—KISS—is our constant reminder." -- [Clarence L Johnson](http://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/johnson-clarence.pdf#page=13)
+
+* personal traits: humility, "Augenmaß", appreciation of detail, big picture thinking
+
