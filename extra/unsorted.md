@@ -59,3 +59,8 @@ Find a unusual, but interesting dataset. -- let other's vote on the
 
 * http://ceur-ws.org/Vol-1155/paper-07.pdf
 * https://tailwindcss.com/
+
+
+## API
+
+* [iiif](https://iiif.io/)
