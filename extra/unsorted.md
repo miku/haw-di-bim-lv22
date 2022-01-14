@@ -64,3 +64,9 @@ Find a unusual, but interesting dataset. -- let other's vote on the
 ## API
 
 * [iiif](https://iiif.io/)
+
+## W3 standards
+
+* ActivityPub, https://www.w3.org/TR/activitypub/
+
+> The ActivityPub protocol is a decentralized social networking protocol based upon the [ActivityStreams] 2.0 data format.
