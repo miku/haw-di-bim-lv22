@@ -74,3 +74,8 @@ Find a unusual, but interesting dataset. -- let other's vote on the
 ## Misc
 
 * https://indieweb.org/POSSE; Publish (on your) Own Site, Syndicate Elsewhere
+
+## Project Ideas
+
+* what could be made of a dataset? how to make it more accessible? queries?
+* implement a retrieval application; data -> web application -> frontend; separate html, css, xml
