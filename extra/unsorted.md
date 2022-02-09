@@ -79,3 +79,8 @@ Find a unusual, but interesting dataset. -- let other's vote on the
 
 * what could be made of a dataset? how to make it more accessible? queries?
 * implement a retrieval application; data -> web application -> frontend; separate html, css, xml
+
+## CDV OST3
+
+* 42 datasets; "1 min madness" - preproduced
+* 19/20 MAR
