@@ -11,11 +11,18 @@ Modul B2: IT-Grundlagen und Coding
 
 Schwerpunkte:
 
-* Webtechnologien, Protokolle und Standards, Kollaboration, Arbeit mit Daten, Publikation
+* Webtechnologien  [W], Protokolle und Standards [S], Kollaboration [K], Arbeit mit Daten [D], Publikation [P]
 
-Paralleler zu der Veranstaltung (SS2022) statt findender Wettbewerb: [Coding da
-Vinci BW 2022](https://codingdavinci.de/de/events/baden-wuerttemberg-2022)
-Hackathon (07.05.2022 &mdash; 24.06.2022):
+Paralleler zu der Veranstaltung (SS2022) statt findende Wettbewerbe:
+
+* [Coding da Vinci Ost3](https://codingdavinci.de/index.php/de/events/ost3-2022)
+
+> Coding da Vinci, der Kultur-Hackathon, vernetzt die Kultur- und die
+> Technikwelt miteinander. Im Frühjahr 2022 kommt Coding da Vinci nach Sachsen,
+> Polen und in die Tschechische Republik und zeigt einmal mehr, welche
+> überraschenden Möglichkeiten in offenen Kulturdaten stecken.
+
+* [Coding da Vinci BW 2022](https://codingdavinci.de/de/events/baden-wuerttemberg-2022) Hackathon (07.05.2022 &mdash; 24.06.2022):
 
 > Seit 2014 vernetzt Coding da Vinci, der Kulturhackathon, Kultur- und
 > Technikwelten miteinander und zeigt, welche überraschenden Möglichkeiten in
@@ -28,27 +35,28 @@ Hackathon (07.05.2022 &mdash; 24.06.2022):
 
 # Material
 
-* Lecture notes; md docs; pdf export
+* Skript (github); PDF export
 * Cheat sheets
-* Credentials
 
-# Inhalt
+# Inhalt (wip)
 
-* [1 Werkstatt-Umgebung](#1-werkstattumgebung), [Intro](Intro/README.md), [Datasets](Intro/Datasets.md), [Setup](Setup/README.md)
-* [2 Projektverwaltung mit Git](#2-projektverwaltung-mit-git), [VersionControl](VersionControl/README.md)
-* [3 Standards](#3-standards)
-* [4 Publizieren im Web 1](#4-publizieren-im-web-1)
-* [5 Publizieren im Web 2](#5-publizieren-im-web-2)
-* [6 Dokumente Transformieren](#6-dokumente-transformieren)
-* [7 Daten: Formate und Standards](#7-daten-formate-und-standards)
-* [8 Daten: Finden](#8-daten-finden)
-* [9 Daten: Speichern](#9-daten-speichern)
-* [10 Daten: Verarbeiten](#10-daten-verarbeiten)
-* [11 Web: Microframeworks](#11-web-microframeworks)
-* [12 Web: Wir sind live!](#12-web-wir-sind-live)
-* [13 Lab: Strings](#13-lab-strings)
-* [14 Lab: Python](#14-lab-python)
-* [15 Lab: Challenge](#15-lab-challenge)
+* [1 Willkommen](#1-Willkommen)
+* [2 Werkstatt-Umgebung](#2-werkstattumgebung), [Intro](Intro/README.md), [Datasets](Intro/Datasets.md), [Setup](Setup/README.md)
+* [3 Projektverwaltung mit Git](#3-projektverwaltung-mit-git), [VersionControl](VersionControl/README.md)
+* [4 Standards](#4-standards)
+* [5 Publizieren im Web 1](#5-publizieren-im-web-1)
+* [6 Publizieren im Web 2](#6-publizieren-im-web-2)
+* [7 Dokumente Transformieren](#7-dokumente-transformieren)
+* [8 Daten: Formate und Standards](#8-daten-formate-und-standards)
+* [9 Daten: Finden](#9-daten-finden)
+* [10 Daten: Speichern](#10-daten-speichern)
+* [11 Daten: Verarbeiten](#11-daten-verarbeiten)
+* [12 Web: Microframeworks](#12-web-microframeworks)
+* [13 Web: Wir sind live!](#13-web-wir-sind-live)
+* [14 Lab: Strings](#14-lab-strings)
+* [15 Lab: Python](#15-lab-python)
+* [16 Lab: Challenge](#16-lab-challenge)
+* [17 Lab: Hacking](#17-lab-hacking)
 * [Idee A: Erstellung eines Datensatzes](#idee-a-erstellung-eines-datensatzes)
 * [Idee B: Publikationspipeline](#idee-b-publikationspipeline)
 * [Idee C: Daten-Intensive Applikation](#idee-c-datenintensive-applikation)
@@ -56,8 +64,10 @@ Hackathon (07.05.2022 &mdash; 24.06.2022):
 * [Idee E: Beitrag zu Coding da Vinci](#idee-e-beitrag-zu-coding-da-vinci)
 
 
+## 1 Willkommen
 
-## 1 Werkstatt-Umgebung
+
+## 2 Werkstatt-Umgebung
 
 * Betriebssystem, Linux
 * Command line
@@ -77,7 +87,7 @@ theory of the matters at hand. This suggestion is in contrast to what appears
 to be a more common notion, that programming should be regarded as production
 of a program and certain other texts
 
-## 2 Projektverwaltung mit Git
+## 3 Projektverwaltung mit Git
 
 * Versionskontrolle
 * Projektverwaltung
@@ -96,7 +106,7 @@ length to short fixed length output strings. In their 1976 seminal paper on
 public- key cryptography [31], Diffie and Hellman identified the need for a
 one-way hash function as a building block of a digital signature scheme.
 
-## 3 Standards
+## 4 Standards
 
 * URL/URI/URN, persistent identifiers
 * HTTP, Hypertext; layer 7 protocol (OSI)
@@ -117,7 +127,7 @@ Theory:
 > labor to be saved by its use, since all it could accomplish could be
 > duplicated by sufficient use of pencil and paper.
 
-## 4 Publizieren im Web 1
+## 5 Publizieren im Web 1
 
 * FB / https://tilde.club / [https://heycloud.cc](https://heycloud.cc)
 * Markdown
@@ -148,14 +158,14 @@ have  become dominant  1n our  social  development.
 
 * [http://www.newmediareader.com/book_samples/nmr-21-nelson.pdf](http://www.newmediareader.com/book_samples/nmr-21-nelson.pdf)
 
-## 5 Publizieren im Web 2
+## 6 Publizieren im Web 2
 
 * Hosting-Optionen
 * Lab: Deployment
 
 
 
-## 6 Dokumente und Semantic Markup
+## 7 Dokumente und Semantic Markup
 
 * Pandoc
 * Pandoc Filters
@@ -171,7 +181,7 @@ Projects:
 
 * [https://schema.org/](https://schema.org/)
 
-## 7 Daten: Formate, Standards, APIs
+## 8 Daten: Formate, Standards, APIs
 
 * XML
 * JSON
@@ -194,7 +204,7 @@ Papers:
 * [http://www.sgmlsource.com/history/roots.htm](http://www.sgmlsource.com/history/roots.htm)
 
 
-## 8 Daten: Finden
+## 9 Daten: Finden
 
 * Web APIs
 * datasets
@@ -204,7 +214,7 @@ Papers:
 
 > google dataset search, pup, DDB API, fatcat API, ISSN API, crossref API, DOAJ API, metha
 
-## 9 Daten: Speichern
+## 10 Daten: Speichern
 
 * files
 * sqlite3
@@ -213,7 +223,7 @@ Papers:
 
 > open, close, connect, iconv, file
 
-## 10 Daten: Verarbeiten
+## 11 Daten: Verarbeiten
 
 * Automatisierung
 * Transformation
@@ -221,39 +231,39 @@ Papers:
 
 > python, pandas, openrefine, cron
 
-## 11 Web: Microframeworks
+## 12 Web: Microframeworks
 
 * Web Applicationss
 * Micro-Framework
 
 > python, flask, bottle
 
-## 12 Web: Wir sind live!
+## 13 Web: Wir sind live!
 
 * Deployment; heycloud
 
 > scp, ssh, hosting, exposing local port (ngrok)
 
-## 13 Lab: Strings
+## 14 Lab: Strings
 
 * Reguläre Ausdrücke
 
 > re
 
-## 14 Lab: Python
+## 15 Lab: Python
 
 * Hilfreiche Bibliotheken
 
 > dateparser, pandas, seaborn, jupyter
 
-## 15 Lab: Challenge
+## 16 Lab: Challenge
 
 * Typische Probleme im Umgang mit Daten
 * Schnittstellen
 
 > sort, uniq, comm
 
-## 16 Lab: Hacking
+## 17 Lab: Hacking
 
 * hacking, questions, ideas
 
