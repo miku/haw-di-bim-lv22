@@ -15,7 +15,7 @@ Schwerpunkte:
 
 Paralleler zu der Veranstaltung (SS2022) statt findende Wettbewerbe:
 
-* [Coding da Vinci Ost3](https://codingdavinci.de/index.php/de/events/ost3-2022)
+* [Coding da Vinci Ost3](https://codingdavinci.de/index.php/de/events/ost3-2022) -- 19.03.2022 &mdash; 30.04.2022
 
 > Coding da Vinci, der Kultur-Hackathon, vernetzt die Kultur- und die
 > Technikwelt miteinander. Im Frühjahr 2022 kommt Coding da Vinci nach Sachsen,
