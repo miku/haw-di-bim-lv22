@@ -9,7 +9,9 @@
 
 ----
 
-## 60 core ideas
+## 40 core ideas
+
+On average 45 minutes per idea.
 
 * api
 * bash
@@ -28,10 +30,15 @@
 * jsonld
 * markdown
 * microframework
+* owl
 * pandas
 * peer-to-peer
 * protocol
 * python
+* rdf
+* rdfa
+* rdfs
+* schema.org
 * server
 * sparql
 * sql
@@ -44,4 +51,5 @@
 * wget
 * wikidata
 * xml
+* xml schema
 * xsv
