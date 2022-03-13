@@ -37,9 +37,16 @@ Various modes:
     * Jupyter notebooks
 * 6 Python microframework, git based deployments
     * microfrawework
-* 7 Data, Relational Data, sqlite3, other sources, scraping, SQL, SPARQL
+* 7 Data Roundup, Relational Data, sqlite3, other sources, scraping, SQL, SPARQL
+    * CSV/TSV
+    * databases
+    * SQL
+    * data sources
 * 8 Graph based data; linked data
+    * RDF
+    * XML, jsonld
 * 9 SPARQL and wikidata
+    * Graph queries, examples
 * 10 Project Discussion
 
 ## Extra
