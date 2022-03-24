@@ -7,7 +7,7 @@ External events:
 * https://codingdavinci.de/de/events/ost3-2022 | 19.03.2022 - 30.04.2022
 * https://codingdavinci.de/de/events/baden-wuerttemberg-2022 | 07.05.2022 - 24.06.2022
 
-Due date for projects should be: 2022-07-03 (a Sunday)
+Due date for projects should be: 2022-07-22 (a Friday)
 
 ## BIM-S2-D (TUE 0830-1145)
 
