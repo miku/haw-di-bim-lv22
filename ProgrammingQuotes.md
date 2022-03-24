@@ -1,4 +1,4 @@
-# Quotes about Programming and Software
+# Quotes about Programming, Software and related things
 
 ## Fixing the World
 
@@ -13,3 +13,12 @@
 > science of programming: make building blocks that people can understand and
 > use easily, and people will work together to solve the very largest problems.
 
+## From Chapter 2 "Origins of Information Theory"
+
+> [...] we can learn at least two things from the history of science. One of
+> these is that many of th e most general and powerful discoveries of
+science have arisen, not through the sudy of phenomena as they occur in nature,
+but, thater, through the sutdy of phenomena in man made devices, in products of
+technology, if you will. This is because the phenomena in man's machines are
+simplified and ordered in comparison with those occuring naturally, and it is
+these simplified phenomena that man understands most easily.
