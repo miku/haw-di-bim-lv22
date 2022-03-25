@@ -1,0 +1,7 @@
+---
+- name: collaboration suite setup
+  hosts: default
+  roles:
+   - common
+   - etherpad
+

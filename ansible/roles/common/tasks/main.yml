@@ -1,0 +1,38 @@
+- name: "Update packages"
+  apt:
+    update_cache: true
+    upgrade: full
+    autoremove: true
+- name: "Install common packages"
+  apt:
+    state: present
+    name:
+      - bash-completion
+      - bc
+      - curl
+      - dnsutils
+      - dstat
+      - git
+      - htop
+      - jq
+      - locales
+      - logrotate
+      - moreutils
+      - multitail
+      - ncdu
+      - netcat
+      - nodejs
+      - npm
+      - parallel
+      - pigz
+      - pv
+      - ranger
+      - rsync
+      - screen
+      - sqlite3
+      - tmux
+      - tree
+      - unzip
+      - vim
+      - wget
+      - zstd

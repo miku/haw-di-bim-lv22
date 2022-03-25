@@ -1,0 +1,38 @@
+- name: "Ensure group etherpad exists"
+  group:
+    name: "etherpad"
+    state: present
+
+- name: "Create service worker"
+  user:
+    name: "etherpad"
+    group: "etherpad"
+    shell: /bin/bash
+    create_home: true
+
+- name: "Create directory for etherpad checkout"
+  file:
+    path: "/srv"
+    owner: "etherpad"
+    group: "etherpad"
+    state: directory
+    mode: '0755'
+
+- name: "Clone repo"
+  command: git clone --branch master https://github.com/ether/etherpad-lite.git /srv/etherpad-lite
+
+- name: "Install systemd unit file"
+  template:
+    src: "etherpad-lite.service.j2"
+    dest: "/etc/systemd/system/labed.service"
+    mode: 0644
+
+- name: "Reread systemd unit files"
+  systemd:
+    daemon_reload: true
+
+- name: Reload service etherpad-lite, in all cases
+  systemd:
+    name: etherpad-lite.service
+    state: reloaded
+  

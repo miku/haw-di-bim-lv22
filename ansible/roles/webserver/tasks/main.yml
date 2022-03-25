@@ -1,0 +1,11 @@
+- name: "Install nginx"
+  apt:
+    state: present
+    name:
+      - nginx
+
+- name: Reload service nginx, in all cases
+  systemd:
+    name: nginx.service
+    state: reloaded
+  
