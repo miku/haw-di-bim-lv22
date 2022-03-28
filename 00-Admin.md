@@ -4,12 +4,12 @@ To pass, you'll need 50% of the points.
 
 Weighting (preliminary):
 
-* Exercise: 20%
+* Exercises: 20%
 * Project: 80%
 
 ## For you to do
 
-* [ ] Take-Home 1 
+* [ ] Take-Home 1
 * [ ] Take-Home 2
 * [ ] 1 Exposé (1/2 page) for final project
 * [ ] 1 Final Project ("Projektarbeit", various options); due end of semester
@@ -30,7 +30,7 @@ See: [Exposé](Expose.md)
 
 You choose one and you develop an exposé first. You can also bring your own idea.
 
-See: [Project](Project.md)
+See: [Projects](Projects.md)
 
 # Calendar
 

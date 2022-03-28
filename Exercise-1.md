@@ -1,6 +1,6 @@
 # Exercise 1
 
-Prepare a 2 minute lightning talk on a command line tool of your choice.
+Prepare a **120 seconds lightning talk** on a **command line tool** of your choice.
 
 * research a command line tool of your choice; here are some lists for
   inspiration: [List of Unix

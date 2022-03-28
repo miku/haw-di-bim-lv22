@@ -1,8 +1,9 @@
 # Expose
 
-Goal: develop and describe an idea for a final project.
+Goal: develop and describe an idea and plan for a final project.
 
 * a few sentences, not more than 1 page
+* high level idea with basic technology and tool decisions
 * can contains sketches (hand-drawn, figma, [inkscape](https://inkscape.org/), [excalidraw](https://excalidraw.com/), ...)
 
 ## Submission Form

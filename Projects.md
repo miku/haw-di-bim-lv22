@@ -81,10 +81,10 @@ alle eingesetzt werden.
 Mögliches Format:
 
 * Auswahl einer Webseite (Domain)
-* Recherche zu Tools für die Messung von Accessibility
-* Zusammenstellung einer Liste von Metriken
+* Recherche zu Tools für die Messung von Accessibility und weiteren Metriken
+* Zusammenstellung einer Liste von Bewertungskriterien
 * Zusammenstellung von Alternativen und Verbesserungsvorschlägen, falls möglich
-* Report
+* Erstellung eines Berichtes mit allen relevanten Informationen
 
 ## Idee F: Beitrag zu Coding da Vinci
 
