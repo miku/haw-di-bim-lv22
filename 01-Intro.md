@@ -115,7 +115,7 @@ Project categories:
 
 ## Workshop
 
-![https://pixabay.com/photos/workshop-old-tools-factory-5517773/](workshop-g30288d7ce_1280.jpg)
+![https://pixabay.com/photos/workshop-old-tools-factory-5517773/](static/workshop-g30288d7ce_1280.jpg)
 
 In a programming workshop, we may deal with the following things.
 
