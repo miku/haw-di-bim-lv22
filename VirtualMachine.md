@@ -24,11 +24,16 @@ The VM is based on a minimal [Ubuntu 20.04.4 LTS](https://ubuntu.com/download/de
 
 Packages:
 
+* antiword
 * bash-completion
 * bash-doc
 * bzip2
+* catimg
 * curl
+* docker-compose
+* docker.io
 * emacs
+* gifsicle
 * git
 * git-extras
 * git-gui
@@ -37,51 +42,76 @@ Packages:
 * hollywood
 * htop
 * hugo
+* imagemagick
 * ipython3
 * jq
 * jupyter
+* libreoffice
 * libxml2-dev
 * libxml2-utils
 * links
 * moreutils
 * nano
 * ncdu
+* npm
 * p7zip
 * pandoc
+* pdfgrep
+* pdfsam
 * pigz
+* pngphoon
+* poppler-utils
+* python-is-python3
 * python3
 * python3-imageio
 * python3-nltk
 * python3-pandas
 * python3-pandocfilters
+* python3-pip
 * python3-requests
 * python3-scrapy
 * ranger
 * rar
 * screen
+* sqlite3
+* sqlite3-doc
+* sqlitebrowser
 * ssh
+* texlive
+* texlive-extra-utils
+* tidy
 * tig
 * tmux
 * tree
 * unzip
 * vim
+* visidata
 * wget
 * xsltproc
+* xslx2tsv
 * xzip
 * yaz
 * yaz-doc
 * zstd
 
-Additional setup:
+Additional setup; [Rust](https://www.rust-lang.org/) programming language:
 
 ```
 $ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
-Additional installations:
+Additional installations through language specific package managers.
 
 ```
+$ cargo install tokei
+$ cargo install xsv
+$ go install github.com/EricChiang/pup@latest
+$ go install github.com/charmbracelet/glow@latest
 $ go install github.com/miku/metha/cmd/...@latest
+$ pip install csvkit
+$ pip install marcx
+$ pip install pymarc
+$ pip install xml2dict
 ```
 
 
