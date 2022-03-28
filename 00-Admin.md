@@ -32,7 +32,16 @@ You choose one and you develop an exposé first. You can also bring your own ide
 
 See: [Projects](Projects.md)
 
+----
+
 # Calendar
+
+* 2022: Groups D and E
+
+2022 external events:
+
+* https://codingdavinci.de/de/events/ost3-2022 | 19.03.2022 - **30.04.2022**
+* https://codingdavinci.de/de/events/baden-wuerttemberg-2022 | 07.05.2022 - **24.06.2022**
 
 ## BIM-S2-D (TUE 0830-1145)
 
@@ -53,7 +62,7 @@ See: [Projects](Projects.md)
 * 2022-04-19; W04
 * 2022-04-26; W05
 
-> END: CDVOST3 2022-04-29
+> END: **CDVOST3** 2022-04-29
 
 ### May 2022
 
@@ -69,7 +78,7 @@ See: [Projects](Projects.md)
 * 2022-06-14; .
 * 2022-06-21; .
 
-> END: CDVBW22 2022-06-23
+> END: **CDVBW22** 2022-06-23
 
 * 2022-06-28; .
 
@@ -94,7 +103,7 @@ See: [Projects](Projects.md)
 * 2022-04-22; W03
 * 2022-04-29; W04
 
-> END: CDVOST3 2022-04-29
+> END: **CDVOST3** 2022-04-29
 
 ### May 2022
 
@@ -109,7 +118,7 @@ See: [Projects](Projects.md)
 * 2022-06-10; W10
 * 2022-06-17; .
 
-> END: CDVBW22 2022-06-23
+> END: **CDVBW22** 2022-06-23
 
 * 2022-06-24; .
 
