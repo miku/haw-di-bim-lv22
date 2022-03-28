@@ -1,5 +1,11 @@
 # Admin Things
 
+## Contact
+
+* [Martin Czygan](mailto:martin.czygan@haw-hamburg.de)
+
+## Requirements
+
 To pass, you'll need 50% of the points.
 
 Weighting (preliminary):
@@ -31,6 +37,18 @@ See: [Exposé](Expose.md)
 You choose one and you develop an exposé first. You can also bring your own idea.
 
 See: [Projects](Projects.md)
+
+
+----
+
+# Tools
+
+* Zoom Videoconferencing
+* GitHub repository for lecture notes, examples and other material at: [miku/haw-di-bim-lv22](https://github.com/miku/haw-di-bim-lv22)
+* [Our playground server](https://www.exacloud.cc)
+    * [Etherpad](https://pad.exacloud.cc) with live coding options
+    * [HedgeDoc](https://docs.exacloud.cc)
+    * [Webspace](https://www.exacloud.cc), accessible via ssh
 
 ----
 

@@ -3,6 +3,19 @@
 We can use a web server for the duration of the course. You can login, serve
 files, setup a cms or run simple applications.
 
+> [https://www.exacloud.cc/](https://www.exacloud.cc/)
+
+## Tools
+
+* [Cloud HAW](https://cloud.haw-hamburg.de/)
+* [Etherpad](https://etherpad.exacloud.cc/) (s.a. [Datensparsame Tools für die Lehre](https://www.haw-hamburg.de/detail/news/news/show/datensparsame-tools-fuer-die-lehre/))
+* [HedgeDoc](https://docs.exacloud.cc/)
+* SSH access
+* user directories
+
+Bei dem Server [exacloud.cc](https://www.exacloud.cc/) handelt es sich um einen
+eigens für die LV22 eingerichteten Server. Standort ist Falkenstein/Vogtland. 
+
 ## Request Account
 
 * [Account Request Form](https://docs.google.com/forms/d/e/1FAIpQLSeFWi4vV0d7CuqDP5sP2y2rdNQSLfAPlT-6sGgHCYSdmmT3Nw/viewform)

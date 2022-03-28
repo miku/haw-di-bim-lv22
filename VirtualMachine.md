@@ -2,6 +2,13 @@
 
 A virtual machine (vm) image for LV2.2/2022 for experimentation.
 
+Note that the VM has been created for x86 architecture. It should work fine on
+Windows, Mac and Linux operating systems running on Computer using Intel
+processors.
+
+A recent exception are [Apple M1](https://en.wikipedia.org/wiki/Apple_M1) based
+computers - these use an ARM CPU and are **NOT supported** at this time.
+
 ## Download
 
 * [https://cloud.haw-hamburg.de/index.php/s/1ShfNH86zCIJxG8/download](https://cloud.haw-hamburg.de/index.php/s/1ShfNH86zCIJxG8/download) (password: lv22) -- 7.9GB
@@ -17,6 +24,8 @@ The VM is based on a minimal [Ubuntu 20.04.4 LTS](https://ubuntu.com/download/de
 
 ## How to use
 
+The following steps you only need to do once.
+
 * [ ] Download [VirtualBox](https://en.wikipedia.org/wiki/VirtualBox) open source
   virtualization software for your operating system (e.g. MacOS, Windows,
   Linux, ...): [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads) -- learn more about what VirtualBox is on Wikipedia: [VirtualBox](https://en.wikipedia.org/wiki/VirtualBox), [Hypervisor](https://en.wikipedia.org/wiki/Hypervisor)
@@ -28,6 +37,10 @@ The VM is based on a minimal [Ubuntu 20.04.4 LTS](https://ubuntu.com/download/de
     * [ ] Click "Import" (this may take a few minutes)
 
 ![](static/VirtualBoxImportAppliance.png)
+
+Once the appliance is imported, you can "Start" the virtual machine. The
+machine is now available on your computer (e.g. after you quit virtualbox).
+
 
 ## Software Installed
 
