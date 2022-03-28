@@ -101,17 +101,7 @@ innovativ weiterzuentwickeln. (**Project**)
 
 ## Admin Things
 
-* [ ] 2 small take-home exercises (2-3 weeks to complete; given out in L02 and L05)
-* [ ] 1 expose (1/2 page) for final project (due L05)
-* [ ] 1 final (programming) project ("Projektarbeit", various options); due end of semester
-
-Project categories:
-
-* 1. Create a novel dataset
-* 2. Publication Pipeline
-* 3. Combine and analyze multiple data sets
-* 4. A small (web) application
-* 5. Coding da Vinci Hackathon submission
+See: [Admin Things](00-Admin.md) document
 
 ## Workshop
 

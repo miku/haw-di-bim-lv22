@@ -45,7 +45,7 @@ See: [Projects](Projects.md)
 
 * Zoom Videoconferencing
 * GitHub repository for lecture notes, examples and other material at: [miku/haw-di-bim-lv22](https://github.com/miku/haw-di-bim-lv22)
-* [Our playground server](https://www.exacloud.cc)
+* [Exacloud playground server](https://www.exacloud.cc)
     * [Etherpad](https://pad.exacloud.cc) with live coding options
     * [HedgeDoc](https://docs.exacloud.cc)
     * [Webspace](https://www.exacloud.cc), accessible via ssh
