@@ -1,6 +1,12 @@
 # Virtual Machine
 
-A virtal machine (vm) image for LV2.2/2022 for experimentation.
+A virtual machine (vm) image for LV2.2/2022 for experimentation.
+
+## Download
+
+* [https://cloud.haw-hamburg.de/index.php/s/1ShfNH86zCIJxG8/download](https://cloud.haw-hamburg.de/index.php/s/1ShfNH86zCIJxG8/download) (password: lv22) -- 7.9GB
+
+## Virtual Machine Username and Password
 
 * Username: lv22
 * Password: lv22
