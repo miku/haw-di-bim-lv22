@@ -38,10 +38,9 @@ See: [Projects](Projects.md)
 
 ### Due dates
 
-* [ ] Take-Home 1: 2022-04-26
-* [ ] Exposé: 2022-04-26
-* [ ] Take-Home 2: 2022-05-31
-* [ ] Final Project: 2022-07-22
+* [ ] 2022-04-26: Take-Home 1, Exposé
+* [ ] 2022-05-31: Take-Home 2
+* [ ] 2022-07-22: Final Project
 
 ### Mar 2022
 
@@ -81,10 +80,11 @@ See: [Projects](Projects.md)
 
 ## BIM-S2-E (FRI 0830-1145)
 
-* [ ] Take-Home 1: 2022-05-06
-* [ ] Exposé: 2022-05-06
-* [ ] Take-Home 2: 2022-06-10
-* [ ] Final Project: 2022-07-22
+### Due Dates
+
+* [ ] 2022-05-06: Take-Home 1, Exposé
+* [ ] 2022-06-10: Take-Home 2
+* [ ] 2022-07-22: Final Project
 
 ### Apr 2022
 
