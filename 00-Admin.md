@@ -43,7 +43,8 @@ See: [Projects](Projects.md)
 
 # Tools
 
-* Zoom Videoconferencing
+* HAW [Zoom Videoconferencing](https://haw-hamburg.zoom.us/)
+* HAW [Cloud](https://cloud.haw-hamburg.de/)
 * GitHub repository for lecture notes, examples and other material at: [miku/haw-di-bim-lv22](https://github.com/miku/haw-di-bim-lv22)
 * [Exacloud playground server](https://www.exacloud.cc)
     * [Etherpad](https://pad.exacloud.cc) with live coding options
