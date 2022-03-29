@@ -41,6 +41,8 @@ Paralleler zu der Veranstaltung (SS2022) statt findende Wettbewerbe:
 # Admin Things
 
 * [0 Admin](00-Admin.md)
+    * [Group D dates](00-Admin.md#bim-s2-d-tue-0830-1145)
+    * [Group E dates](00-Admin.md#bim-s2-e-tue-0830-1145)
 
 # Overview
 
