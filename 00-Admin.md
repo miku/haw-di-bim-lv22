@@ -18,7 +18,7 @@ Weighting (preliminary):
 * [ ] Take-Home 1
 * [ ] Take-Home 2
 * [ ] 1 Exposé (1/2 page) for final project
-* [ ] 1 Final Project ("Projektarbeit", various options); due end of semester
+* [ ] 1 Final Project ("Projektarbeit", various options); due end of semester; can work in *groups* (at most 4)
 
 ## Take-Home 1
 
