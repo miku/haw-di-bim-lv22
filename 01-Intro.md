@@ -169,12 +169,7 @@ Depending on the area of your work, your set of problems, approaches and tools w
 
 Our first workbench, beside your own computer, will be a virtual machine.
 
-* [ ] Install VirtualBox
-* [ ] Download the VirtualBox image for LV2.2
-* [ ] Start VirtualBox and boot image
-
-This is an [Ubuntu 20.04.4 LTS](https://wiki.ubuntu.com/Releases) OS with a few
-programs pre-installed.
+Details: [VirtualMachine](VirtualMachine.md), based on Ubuntu Linux
 
 ## Linux
 
