@@ -60,6 +60,8 @@ images and sounds**, **fly air and space craft**, and so on.
 ![](https://upload.wikimedia.org/wikipedia/commons/5/52/Monitor_Commodore_CBM_3016_with_BASIC_program-0309.jpg)
 
 
+> Question: In which situations do you think insights into software development and programming could be helpful?
+
 ## Overview
 
 ### 10 Sessions
@@ -206,3 +208,6 @@ More cheat sheets and references:
 * [Unix Command List](https://www.tjhsst.edu/~dhyatt/superap/unixcmd.html)
 * [Die Top 50 universellen UNIX-Befehle](http://web.archive.org/web/20210613165139/https://www.computerweekly.com/de/ratgeber/Die-Top-50-universellen-UNIX-Befehle)
 
+----
+
+Image credits: Pixabay, Bundesarchiv

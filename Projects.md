@@ -2,7 +2,7 @@
 
 You can choose any idea or bring your own idea (ask instructor about feasibility).
 
-----
+Ideas (in German):
 
 ## Idee A: Erstellung eines Datensatzes
 
@@ -86,7 +86,12 @@ Mögliches Format:
 * Zusammenstellung von Alternativen und Verbesserungsvorschlägen, falls möglich
 * Erstellung eines Berichtes mit allen relevanten Informationen
 
-## Idee F: Beitrag zu Coding da Vinci
+
+## Idee F: Free Form Project
+
+Ziel: Design und Implementierung einer Software-Applikation. Frei wählbares Thema.
+
+## Idee G: Beitrag zu Coding da Vinci
 
 > Seit 2014 vernetzt Coding da Vinci, der Kulturhackathon, Kultur- und
 > Technikwelten miteinander und zeigt, welche überraschenden Möglichkeiten in
@@ -96,3 +101,4 @@ Mögliches Format:
 > interaktive Installationen, die überraschende und inspirierende Wege zeigen,
 > wie Sammlungsobjekte von Institutionen auf neue Weisen vermittelt und genutzt
 > werden können.
+
