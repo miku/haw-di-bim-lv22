@@ -38,7 +38,7 @@ Paralleler zu der Veranstaltung (SS2022) statt findende Wettbewerbe:
 * Skript (github); PDF export
 * Cheat sheets
 
-# Inhalt
+# Overview
 
 * [1 Intro](01-Intro.md)
 * [2 Collaboration with Git](02-Collaboration.md)
