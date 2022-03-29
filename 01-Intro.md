@@ -196,7 +196,7 @@ From: [https://en.wikipedia.org/wiki/Linux](https://en.wikipedia.org/wiki/Linux)
 
 ## Command Line
 
-* In the beginning ... (Essay, [Text](https://web.stanford.edu/class/cs81n/command.txt), [Wikipedia](https://en.wikipedia.org/wiki/In_the_Beginning..._Was_the_Command_Line))
+* In the beginning ... (Essay, [PDF](https://raw.githubusercontent.com/danielmkarlsson/library/master/Neal%20Stephenson%20-%20In%20the%20Beginning%20was%20the%20Command%20Line.pdf), [Text](https://web.stanford.edu/class/cs81n/command.txt), [Wikipedia](https://en.wikipedia.org/wiki/In_the_Beginning..._Was_the_Command_Line))
 * [Unix Cheat Sheet](http://www.mathcs.emory.edu/~valerie/courses/fall10/155/resources/unix_cheatsheet.html), [1 page](https://files.fosswire.com/2007/08/fwunixref.pdf)
 * Interactive cheat sheet: [https://github.com/denisidoro/navi](https://github.com/denisidoro/navi)
 
