@@ -38,6 +38,10 @@ Paralleler zu der Veranstaltung (SS2022) statt findende Wettbewerbe:
 * Skript (github); PDF export
 * Cheat sheets
 
+# Admin Things
+
+* [0 Admin](00-Admin.md)
+
 # Overview
 
 * [1 Intro](01-Intro.md)
