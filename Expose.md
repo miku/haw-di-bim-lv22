@@ -1,4 +1,4 @@
-# Expose
+# Exposé
 
 Goal: develop and describe an idea and plan for a final project.
 
