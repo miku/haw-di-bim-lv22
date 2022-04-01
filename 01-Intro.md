@@ -119,6 +119,8 @@ Remember: In the best case, a workshop invites you to get acquainted with a few
 tools and techniques. There is a preferred way of *using* some tools, but no
 right or wrong in a strict sense. Please keep that in mind.
 
+Learning to program well takes time, see: [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html) (includes a recipe)
+
 ### Example Problems
 
 A biased list of smaller workpieces.
@@ -175,7 +177,8 @@ Details: [VirtualMachine](VirtualMachine.md), based on Ubuntu Linux
 
 ## Linux
 
-Ubuntu is a Linux distribution.
+Ubuntu is a Linux distribution. MacOS and Linux belong to the same [family of
+operating systems](https://upload.wikimedia.org/wikipedia/commons/c/c3/Unix_history-simple.fr.svg), descending from [Unix](https://en.wikipedia.org/wiki/Unix) (1971)
 
 > Linux is a family of open-source Unix-like operating systems based on the
 > Linux kernel, an operating system kernel first released on September 17,
