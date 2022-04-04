@@ -32,4 +32,10 @@ $ cal 1 2000
 $ wget -i urls.txt
 ```
 
+## Find first names starting with "Ju" and ending with "a"
 
+```
+$ curl -sL https://osf.io/d2vyg/download | awk -F , '{print $2}' | tr -d '"' | sort -u | grep '^Ju.*a$'
+```
+
+* [explainshell](https://explainshell.com/explain?cmd=curl+-sL+https%3A%2F%2Fosf.io%2Fd2vyg%2Fdownload+%7C+awk+-F+%2C+%27%7Bprint+%242%7D%27+%7C+tr+-d+%27%22%27+%7C+sort+-u+%7C+grep+%27%5EJu.*a%24%27)
