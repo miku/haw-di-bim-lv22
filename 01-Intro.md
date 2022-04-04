@@ -211,6 +211,10 @@ More cheat sheets and references:
 * [Unix Command List](https://www.tjhsst.edu/~dhyatt/superap/unixcmd.html)
 * [Die Top 50 universellen UNIX-Befehle](http://web.archive.org/web/20210613165139/https://www.computerweekly.com/de/ratgeber/Die-Top-50-universellen-UNIX-Befehle)
 
+## Command Line First Steps
+
+> Question: How would you solve the following problems?
+
 ----
 
 Image credits: Pixabay, Bundesarchiv
