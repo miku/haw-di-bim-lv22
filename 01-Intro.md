@@ -215,8 +215,18 @@ More cheat sheets and references:
 
 > Question: How would you solve the following problems?
 
+* Convert a PNG image to a JPG
+* Find files
+* Concatenate two PDF files
+* Crawl web pages
+* Download a list of URLs given in a file
+* On which weekday did the millenium start?
+* Find first names starting with "Ju" and ending with "a"
+* Random selection of ten names containing the letter "y"
 
+## Further Reading
 
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
 ----
 
