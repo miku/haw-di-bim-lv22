@@ -33,6 +33,30 @@ $ find . -name "*.txt"
 $ pdfjam -o combined.pdf Misc/Files/go-study.pdf Misc/Files/p6-zobel.pdf
 ```
 
+## Find abstract for the article with DOI 10.1145/357980.358021
+
+```
+$ curl -s https://api.crossref.org/works/10.1145/357980.358021 | jq -rc .message.abstract | fold -s
+```
+
+## Find author and title for a DOI and format as TSV
+
+```
+$ curl -s https://api.crossref.org/works/10.1145/357980.358021 | jq -rc '.message | [.title[], .author[0].given + " " + .author[0].family] | @tsv'
+```
+
+## Download a youtube video
+
+```
+$ youtube-dl https://www.youtube.com/watch?v=RU0wScIj36o
+```
+
+## Pretty print an XML document
+
+```
+$ curl -s https://www.fzt.haw-hamburg.de/pers/Scholz/Repository1.xml | xmllint --format -
+```
+
 ## Crawl web pages
 
 Crawl web pages and save them to a file.
@@ -76,3 +100,4 @@ $ curl -sL https://osf.io/d2vyg/download | awk -F , '{print $2}' | tr -d '"' | s
 ```
 $ curl -sL https://osf.io/d2vyg/download | awk -F , '$2 ~ /.*y.*/ {print $2}' | tr -d '"' | sort -u | shuf -n 10
 ```
+

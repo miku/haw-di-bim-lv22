@@ -215,14 +215,58 @@ More cheat sheets and references:
 
 > Question: How would you solve the following problems?
 
+
 * Convert a PNG image to a JPG
 * Find files
 * Concatenate two PDF files
+* Find abstract for the article with DOI 10.1145/357980.358021
+* Find author and title for a DOI and format as TSV
+* Download a youtube video
+* Pretty print an XML document
 * Crawl web pages
 * Download a list of URLs given in a file
 * On which weekday did the millenium start?
 * Find first names starting with "Ju" and ending with "a"
 * Random selection of ten names containing the letter "y"
+
+## A few basic commands
+
+Commands have a typical form:
+
+* a command name (often short)
+* a list of arguments and parameters, like "-l" or "Downloads", ...
+
+A few commands:
+
+* ls - list files
+* cd - change directory
+* pwd - show current directory
+* cat - show file contents
+* touch - create empty file
+* grep - search for a pattern (regular expression) in a file
+* date - show current date and time
+* curl - download a URL
+
+Other commands:
+
+* mkdir - create directory
+* rmdir - delete a directory (no confirmation or Trash, directory must be empty)
+* rm - delete a file (or files)
+
+## Task: On you virtual machine
+
+* start your virtual machine
+* open a terminal
+
+> What is the current directory?
+
+* list files
+
+Create a new directory and change into it.
+
+* create a new directory
+* change into the directory
+* open "vs code" - e.g. via "code ." (where dot means the current directory)
 
 ## Further Reading
 
