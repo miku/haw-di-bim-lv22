@@ -188,6 +188,8 @@ From: [https://en.wikipedia.org/wiki/Linux](https://en.wikipedia.org/wiki/Linux)
 
 ## Terminal
 
+> Q: What could be a way to categorize most computer programs? (say into two or three categories ...)
+
 ![](https://user-images.githubusercontent.com/121322/32070715-163a1c94-ba42-11e7-80bb-41fbf10fc634.gif)
 
 > A computer terminal is an electronic or electromechanical hardware device
