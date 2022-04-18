@@ -6,6 +6,10 @@ Today:
 * [ ] What is git? And github, gitlab, and other websites?
 * [ ] Basic ideas and commands
 
+> Q: How do you version your files?
+
+> Q: How do you collaborate?
+
 ## Version Control
 
 > An important problem in program development and maintenance is version
@@ -212,7 +216,6 @@ $ git status
 ### Wrap up: Local operations
 
 That is the basic local workflow. You can build up a local history that way.
-
 
 ## Remote operations
 
