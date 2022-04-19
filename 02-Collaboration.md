@@ -154,6 +154,10 @@ Cheat sheets:
 * [https://education.github.com/git-cheat-sheet-education.pdf](https://education.github.com/git-cheat-sheet-education.pdf)
 * [https://about.gitlab.com/images/press/git-cheat-sheet.pdf](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
 
+A short reference:
+
+* [https://librarycarpentry.org/lc-git/reference.html](https://librarycarpentry.org/lc-git/reference.html)
+
 ### Basic Commands
 
 The `git` program is a command line too manage changes over time. It is fully
@@ -161,6 +165,7 @@ distributed. There are about eight commands you need to know to get started:
 
 * git init
 * git status
+* git diff
 * git add
 * git commit
 * git log
@@ -170,6 +175,8 @@ And, if you work with a second location (apart from your local directory):
 * git remote
 * git push
 * git pull
+
+There are many other commands, e.g. to revert an "add" or to create a separate branch.
 
 ### Create a repository
 
@@ -221,4 +228,13 @@ That is the basic local workflow. You can build up a local history that way.
 
 * each repository is independent of the others (and contains the whole project history) - this is why it is called decentralized
 * remote operations can synchronize the history one (often) one, but possibly more repositories
+
+## Example: Creating a Pull Request
+
+Possible small changes:
+
+* [https://github.com/hbunke/BibsOnGitHub/](https://github.com/hbunke/BibsOnGitHub/) -- change "Persons" to "People", https://en.wiktionary.org/wiki/persons
+* [https://github.com/slub/labe/blob/main/ARCHITECTURE.md](https://github.com/slub/labe/blob/main/ARCHITECTURE.md)
+    * [https://github.com/slub/labe/tree/main/go/ckit](https://github.com/slub/labe/tree/main/go/ckit) -- "servers" -> "server"
+    * extend "Architecture.md", e.g. include concrete "task names"
 
