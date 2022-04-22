@@ -213,6 +213,7 @@ More cheat sheets and references:
 ([archived](http://web.archive.org/web/20210416015839/https://www2.icp.uni-stuttgart.de/~icp/mediawiki/images/b/bd/Sim_Meth_I_T0_cheat_sheet_10_11.pdf))
 * [Unix Command List](https://www.tjhsst.edu/~dhyatt/superap/unixcmd.html)
 * [Die Top 50 universellen UNIX-Befehle](http://web.archive.org/web/20210613165139/https://www.computerweekly.com/de/ratgeber/Die-Top-50-universellen-UNIX-Befehle)
+* [Awesome cli apps](https://github.com/agarrharr/awesome-cli-apps)
 
 ## Command Line First Steps
 
