@@ -27,5 +27,20 @@ Many cases of classic CMS can be addressed by SSG.
 * content
 * templates
 * tools that combine content and templates
-* various add-ons
+* various add-ons, themes (depending on project)
+
+Instead of using an application (like wordpress), we use mostly static files,
+which can be versioned. The deployable site can be generated, typically with a
+single command.
+
+## Example: Zola
+
+
+### Installation
+
+### A First Site
+
+### Local Server
+
+
 
