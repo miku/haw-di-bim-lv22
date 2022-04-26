@@ -14,6 +14,8 @@ Many choices:
 
 * [A List of Static Site Generators for Jamstack Sites](https://jamstack.org/generators/)
 
+> JavaScript, APIs, and Markup (JAM) -- [https://jamstack.wtf/](https://jamstack.wtf/)
+
 ## Classic CMS
 
 * more complex to setup
@@ -35,12 +37,35 @@ single command.
 
 ## Example: Zola
 
+* [https://www.getzola.org/](https://www.getzola.org/)
 
 ### Installation
 
+* [https://www.getzola.org/documentation/getting-started/installation/](https://www.getzola.org/documentation/getting-started/installation/)
+
 ### A First Site
+
+* [https://www.getzola.org/documentation/getting-started/overview/#first-steps-with-zola](https://www.getzola.org/documentation/getting-started/overview/#first-steps-with-zola)
 
 ### Local Server
 
+```
+$ zola serve
+```
 
+----
+
+## Zola: Steps
+
+```
+$ zola init zolademo
+$ cd zolademo
+$ zola serve
+```
+
+Going to [http://127.0.0.1:1111/](http://127.0.0.1:1111/) brings up an empty site.
+
+![](static/zolaup.png)
+
+Stop zola (or many other programs) with [CTRL-C](https://en.wikipedia.org/wiki/Control-C).
 
