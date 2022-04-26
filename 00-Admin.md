@@ -66,8 +66,8 @@ See: [Projects](Projects.md)
 
 ### Due dates
 
-* [ ] 2022-05-03: Take-Home 1, Exposé
-* [ ] 2022-06-07: Take-Home 2
+* [ ] 2022-05-03: Take-Home 1
+* [ ] 2022-06-07: Take-Home 2, Exposé
 * [ ] 2022-07-22: Final Project
 
 ### Mar 2022
@@ -110,8 +110,8 @@ See: [Projects](Projects.md)
 
 ### Due Dates
 
-* [ ] 2022-05-06: Take-Home 1, Exposé
-* [ ] 2022-06-10: Take-Home 2
+* [ ] 2022-05-06: Take-Home 1
+* [ ] 2022-06-10: Take-Home 2, Exposé
 * [ ] 2022-07-22: Final Project
 
 ### Apr 2022
