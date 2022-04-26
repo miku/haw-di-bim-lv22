@@ -128,3 +128,56 @@ There are sections and pages:
 
 > A page is any file ending with .md in the content directory, except files named _index.md.
 
+Example:
+
+* you can create an "about.md" file under the content directory
+
+```markdown
++++
+title = "About"
++++
+
+This is an example site.
+```
+
+It will require a default template for pages, called "page.html" unter templates; example:
+
+```html
+{% extends "base.html" %}
+
+{% block content %}
+<h1 class="title">
+  {{ page.title }}
+</h1>
+{{ page.content | safe }}
+{% endblock content %}
+```
+
+To build the site:
+
+```shell
+$ zola build
+
+Building site...
+Checking all internal links with anchors.
+> Successfully checked 0 internal link(s) with anchors.
+-> Creating 3 pages (0 orphan) and 1 sections
+Done in 25ms.
+
+$ tree public/
+public/
+├── 404.html
+├── about
+│   └── index.html
+├── blog
+│   ├── first
+│   │   └── index.html
+│   ├── index.html
+│   └── second
+│       └── index.html
+├── index.html
+├── robots.txt
+└── sitemap.xml
+
+4 directories, 8 files
+```
