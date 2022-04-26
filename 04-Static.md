@@ -69,3 +69,21 @@ Going to [http://127.0.0.1:1111/](http://127.0.0.1:1111/) brings up an empty sit
 
 Stop zola (or many other programs) with [CTRL-C](https://en.wikipedia.org/wiki/Control-C).
 
+Conventional directory layout:
+
+```shell
+$ tree zolademo/
+zolademo/
+├── config.toml
+├── content
+├── sass
+├── static
+├── templates
+└── themes
+
+5 directories, 1 file
+```
+
+First templates and content.
+
+
