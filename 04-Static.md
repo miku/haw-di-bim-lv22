@@ -86,4 +86,45 @@ zolademo/
 
 First templates and content.
 
+```shell
+$ tree .
+.
+├── config.toml
+├── content
+│   └── blog
+│       ├── first.md
+│       ├── _index.md
+│       └── second.md
+├── sass
+├── static
+├── templates
+│   ├── base.html
+│   ├── blog.html
+│   ├── blog-page.html
+│   └── index.html
+└── themes
+
+6 directories, 8 files
+```
+
+Few things to note:
+
+* separation of templates and content
+* templates use inheritance (e.g. inherit from base.html)
+* markup is used for content (here: [markdown](https://en.wikipedia.org/wiki/Markdown))
+* zola differentiates between "section" pages like "_index.md" and pages like "first.md"
+
+> A section is created whenever a directory (or subdirectory) in the content section contains an _index.md file. 
+
+The "_index.md" can hold:
+
+* frontmatter (metadata)
+* content
+
+> The _index.md file within a directory defines the content and metadata for
+> that section. To set the metadata, add front matter to the file.
+
+There are sections and pages:
+
+> A page is any file ending with .md in the content directory, except files named _index.md.
 
