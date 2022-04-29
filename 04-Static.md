@@ -43,6 +43,12 @@ single command.
 
 * [https://www.getzola.org/documentation/getting-started/installation/](https://www.getzola.org/documentation/getting-started/installation/)
 
+On Ubuntu, we can use [snap](https://www.getzola.org/documentation/getting-started/installation/#snapcraft):
+
+```
+$ snap install --edge zola
+```
+
 ### A First Site
 
 * [https://www.getzola.org/documentation/getting-started/overview/#first-steps-with-zola](https://www.getzola.org/documentation/getting-started/overview/#first-steps-with-zola)
@@ -114,7 +120,7 @@ Few things to note:
 * markup is used for content (here: [markdown](https://en.wikipedia.org/wiki/Markdown))
 * zola differentiates between "section" pages like "_index.md" and pages like "first.md"
 
-> A section is created whenever a directory (or subdirectory) in the content section contains an _index.md file. 
+> A section is created whenever a directory (or subdirectory) in the content section contains an _index.md file.
 
 The "_index.md" can hold:
 
