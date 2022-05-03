@@ -35,6 +35,8 @@ Instead of using an application (like wordpress), we use mostly static files,
 which can be versioned. The deployable site can be generated, typically with a
 single command.
 
+Note: Static sites are a bit like the early web, slightly evolved. Markdown is simpler than HTML. Some people may miss [mildly dynamic web sites](https://www.devever.net/~hl/mildlydynamic).
+
 
 ## Markup: Markdown
 
