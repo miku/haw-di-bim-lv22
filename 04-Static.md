@@ -35,7 +35,26 @@ Instead of using an application (like wordpress), we use mostly static files,
 which can be versioned. The deployable site can be generated, typically with a
 single command.
 
-## Example: Zola
+
+## Markup: Markdown
+
+> Markdown is a lightweight markup language for creating formatted text using a plain-text editor.
+
+> In 2002 Aaron Swartz created atx, "the true structured text format". Swartz
+> and Gruber then worked together to create the Markdown language in 2004,[3][4]
+> with the goal of enabling people "to write using an easy-to-read and
+> easy-to-write plain text format, optionally convert it to structurally valid
+> XHTML (or HTML)"
+
+* [https://en.wikipedia.org/wiki/Markdown](https://en.wikipedia.org/wiki/Markdown) (2004)
+
+Basic syntax cheat sheet: [https://www.markdownguide.org/cheat-sheet/#basic-syntax](https://www.markdownguide.org/cheat-sheet/#basic-syntax)
+
+### Try out markdown online
+
+* [http://docs.exacloud.cc/](http://docs.exacloud.cc/)
+
+## Example Static Site Generator: Zola
 
 * [https://www.getzola.org/](https://www.getzola.org/)
 
@@ -90,7 +109,7 @@ zolademo/
 5 directories, 1 file
 ```
 
-First templates and content.
+After tutorial, we see a directory structure similar to this.
 
 ```shell
 $ tree .
