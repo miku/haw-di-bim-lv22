@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My Webpage</title>
+</head>
+<body>
+    <ul id="links">
+    {% for item in docs %}
+        <li>
+            <a href="{{ item.link }}">{{ item.title }}</a>
+            {{ item.description }}
+    </li>
+    {% endfor %}
+    </ul>
+
+    <!-- 
+    <h1>My Webpage</h1>
+    {{ a_variable }}
+
+    {# a comment #}
+    -->
+</body>
+</html>

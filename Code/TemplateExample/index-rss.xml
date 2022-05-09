@@ -1,0 +1,3936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns="http://purl.org/rss/1.0/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:mp="http://www.tagesschau.de/rss/1.0/modules/metaplus/1.2.0/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+xmlns:dcterms="http://purl.org/dc/terms/"
+xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel rdf:about="https://www.ndr.de/nachrichten/hamburg/nachrichtenhhindex111-rss.xml">
+<title>Nachrichten aus Hamburg</title>
+<link>https://www.ndr.de/nachrichten/hamburg/Nachrichten-aus-Hamburg,nachrichtenhhindex111.html</link>
+<description>Die aktuellen Beiträge der Seite https://www.ndr.de/nachrichten/hamburg/Nachrichten-aus-Hamburg,nachrichtenhhindex111.html</description>
+<dc:source>NDR.de</dc:source>
+<dc:publisher>NDR.de</dc:publisher>
+<dc:rights>Copyright 2022 ndr.de</dc:rights>
+<dc:date>2022-05-09T22:51:36+01:00</dc:date>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>12</sy:updateFrequency>
+<sy:updateBase>2022-05-09T22:51:36+01:00</sy:updateBase>
+<mp:broadcasting>NDR</mp:broadcasting>
+<items>
+<rdf:Seq>
+<rdf:li resource="https://www.ndr.de/nachrichten/hamburg/15-Jaehrige-im-Stadtpark-vergewaltigt-Elf-Maenner-vor-Gericht,stadtpark416.html" />
+<rdf:li resource="https://www.ndr.de/nachrichten/hamburg/Schueler-Auswertung-Neuvertragsmieten-deutlich-gestiegen,wohnungsmarkt256.html" /><rdf:li resource="https://www.ndr.de/nachrichten/hamburg/Warnstreik-in-Hamburger-Kitas-und-Kliniken-fuer-Freitag-angekuendigt,warnstreik1828.html" /><rdf:li resource="https://www.ndr.de/nachrichten/hamburg/Stiftung-Alsterdorf-weiht-Gedenkstaette-fuer-NS-Opfer-ein-,alsterdorf486.html" /><rdf:li resource="https://www.ndr.de/nachrichten/hamburg/Senatsempfang-zu-Ehren-des-Hamburger-Spendenparlaments,spendenparlament156.html" /><rdf:li resource="https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Das-neue-Montblanc-Museum-in-Lurup-wird-eroeffnet,hamj122084.html" /><rdf:li resource="https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Fair-Parking-Die-Rueckeroberung-von-Parkflaechen,hamj122076.html" /><rdf:li resource="https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Alle-Toten-fliegen-hoch-Amerika-im-Altonaer-Theater-,hamj122086.html" /><rdf:li resource="https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Santiano-geben-Nachholkonzert-in-der-Barclays-Arena,hamj122088.html" /><rdf:li resource="https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Seltene-Berufe-Der-junge-Segelmacher-aus-Kirchwerder,hamj122080.html" /><rdf:li resource="https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Landtagswahl-in-Schleswig-Holstein-So-hat-Hamburger-Umland-gewaehlt,hamj122078.html" /><rdf:li resource="https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Hamburg-morgen-Energie-aus-der-Erde,hamj122082.html" /><rdf:li resource="https://www.ndr.de/fernsehen/Rovschan-33-In-Borgfelde-fehlen-mir-Geschaefte,borgfelde108.html" /><rdf:li resource="https://www.ndr.de/nachrichten/hamburg/hamburgjournalstream100.html" /><rdf:li resource="https://www.ndr.de/nachrichten/hamburg/podcasts118.html" /><rdf:li resource="https://www.ndr.de/nachrichten/hamburg/Giftstoffe-am-Tatenberger-Deich-Liegewiese-gesperrt,tatenbergerdeich100.html" /><rdf:li resource="https://www.ndr.de/nachrichten/hamburg/Wie-begruente-Daecher-in-Hamburg-die-Artenvielfalt-foerdern,gruendaecher102.html" /><rdf:li resource="https://www.ndr.de/nachrichten/hamburg/Reaktionen-aus-Hamburg-zur-Landtagswahl-in-Schleswig-Holstein,hhreaktionenshwahl100.html" /><rdf:li resource="https://www.ndr.de/nachrichten/hamburg/Das-Harburger-Schloss-muss-aufwendig-stabilisiert-werden,harburg864.html" /><rdf:li resource="https://www.ndr.de/sport/handball/Hamburgs-Handballer-Wieder-eine-Erfolgsgeschichte,hsvhamburg640.html" /><rdf:li resource="https://www.ndr.de/sport/fussball/Kommentar-zum-FC-St-Pauli-Vermeidbarer-sportlicher-Absturz-mit-Folgen,pauli7000.html" /><rdf:li resource="https://www.ndr.de/nachrichten/hamburg/Asphaltierungsarbeiten-Behinderungen-auf-der-A7-in-Hamburg,asieben486.html" /><rdf:li resource="https://www.ndr.de/nachrichten/hamburg/Meistgelesene-Artikel-und-gesehene-Videos-fuer-Hamburg,meistgelesen110.html" /><rdf:li resource="https://www.ndr.de/nachrichten/hamburg/Hans-Herbert-Boehrs-im-Alter-von-82-Jahren-gestorben,kurzehh508.html" /><rdf:li resource="https://www.ndr.de/nachrichten/hamburg/Jugendliche-verspruehen-Reizgas-in-Linienbus,kurzehh510.html" /><rdf:li resource="https://www.ndr.de/nachrichten/hamburg/Umweltsenator-Kerstan-wieder-im-Krankenhaus,kurzehh504.html" /><rdf:li resource="https://www.ndr.de/nachrichten/hamburg/Viel-Applaus-fuer-Meyerhoff-Stueck-im-Altonaer-Theater,kurzehh502.html" /><rdf:li resource="https://www.ndr.de/nachrichten/hamburg/Basketball-Towers-verlieren-letztes-Hauptrunden-Spiel,kurzehh500.html" /><rdf:li resource="https://www.ndr.de/nachrichten/hamburg/Hamburg-mit-30-Neues-Videoformat-vom-NDR,hamburgmitdreissig100.html" /><rdf:li resource="https://www.ndr.de/nachrichten/hamburg/Ukraine-Krieg-So-koennen-Hamburger-Fluechtlingen-helfen,ukrainehilfe146.html" /><rdf:li resource="https://www.hamburg.de/ukraine/" /><rdf:li resource="https://www.ndr.de/nachrichten/hamburg/topvideos114.html" /><rdf:li resource="https://www.ndr.de/nachrichten/hamburg/coronavirus/index.html" /><rdf:li resource="https://www.ndr.de/nachrichten/hamburg/coronavirus/Corona-Diese-Regeln-gelten-momentan-in-Hamburg,coronavirus2248.html" /><rdf:li resource="https://www.ndr.de/nachrichten/hamburg/coronavirus/Maskenpflicht-in-Hamburg-Wo-und-wann,maskenpflicht580.html" /><rdf:li resource="https://www.ndr.de/fernsehen/sendungen/nordtour/Japanische-Einkaufstour-in-Hamburg,nordtour16592.html" /><rdf:li resource="https://www.ndr.de/fernsehen/sendungen/nordtour/Ausstellung-Mein-Hamburg-an-der-Waterkant,nordtour16598.html" /><rdf:li resource="https://www.ndr.de/fernsehen/sendungen/die_nordstory/Das-dritte-Leben-der-Peking,dienordstory1208.html" /><rdf:li resource="https://www.ndr.de/nachrichten/hamburg/Kurztrips-und-Tagesreisen-mit-der-NDR-Hamburg-App-gewinnen,appverlosungkurztrips100.html" /><rdf:li resource="https://www.ndr.de/903/podcast5238.html" /><rdf:li resource="https://www.ndr.de/903/podcasts/podcast5108.html" /><rdf:li resource="https://www.ndr.de/903/podcast4778.html" />
+</rdf:Seq>
+</items>
+</channel>
+<item rdf:about="https://www.ndr.de/nachrichten/hamburg/15-Jaehrige-im-Stadtpark-vergewaltigt-Elf-Maenner-vor-Gericht,stadtpark416.html">
+<title>15-Jährige im Stadtpark vergewaltigt: Elf Männer vor Gericht</title>
+<link>https://www.ndr.de/nachrichten/hamburg/15-Jaehrige-im-Stadtpark-vergewaltigt-Elf-Maenner-vor-Gericht,stadtpark416.html</link>
+<description>Das Mädchen soll im September 2020 im Hamburger Stadtpark von den Angeklagten missbraucht worden sein. Am Dienstag beginnt der Prozess.</description>
+<dc:type>Artikel</dc:type>
+<dc:date>2022-05-09T21:08:00.426+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>stadtpark416</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>hamburg Stadtpark Missbrauch Vergewaltigung Mädchen 15-Jährige Gruppe Jugendliche Anklage Prozess Sperma DNA</mp:keywords>
+<mp:topline>Hamburg</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Ein Gebüsch im Hamburger Stadtpark. Dort soll eine 15-Jährige missbraucht worden sein.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1225102_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Gebüsch im Hamburger Stadtpark. Dort soll eine 15-Jährige missbraucht worden sein.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1225102_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Gebüsch im Hamburger Stadtpark. Dort soll eine 15-Jährige missbraucht worden sein.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1225102_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Gebüsch im Hamburger Stadtpark. Dort soll eine 15-Jährige missbraucht worden sein.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1225102_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Gebüsch im Hamburger Stadtpark. Dort soll eine 15-Jährige missbraucht worden sein.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1225102_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Gebüsch im Hamburger Stadtpark. Dort soll eine 15-Jährige missbraucht worden sein.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1225102_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Gebüsch im Hamburger Stadtpark. Dort soll eine 15-Jährige missbraucht worden sein.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1225102_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Gebüsch im Hamburger Stadtpark. Dort soll eine 15-Jährige missbraucht worden sein.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1225102_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Polizeiauto fährt bei Dunkelheit durch den Hamburger Stadtpark.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/stadtpark412_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Polizeiauto fährt bei Dunkelheit durch den Hamburger Stadtpark.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/stadtpark412_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Polizeiauto fährt bei Dunkelheit durch den Hamburger Stadtpark.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/stadtpark412_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Polizeiauto fährt bei Dunkelheit durch den Hamburger Stadtpark.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/stadtpark412_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Polizeiauto fährt bei Dunkelheit durch den Hamburger Stadtpark.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/stadtpark412_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Polizeiauto fährt bei Dunkelheit durch den Hamburger Stadtpark.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/stadtpark412_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Polizeiauto fährt bei Dunkelheit durch den Hamburger Stadtpark.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/stadtpark412_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Polizeiauto fährt bei Dunkelheit durch den Hamburger Stadtpark.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/stadtpark412_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Jugendliche abends im Hamburger Stadtpark.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance / rtn - radio tele nord</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/stadtpark408_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Jugendliche abends im Hamburger Stadtpark.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance / rtn - radio tele nord</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/stadtpark408_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Jugendliche abends im Hamburger Stadtpark.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance / rtn - radio tele nord</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/stadtpark408_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Jugendliche abends im Hamburger Stadtpark.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance / rtn - radio tele nord</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/stadtpark408_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Jugendliche abends im Hamburger Stadtpark.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance / rtn - radio tele nord</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/stadtpark408_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Jugendliche abends im Hamburger Stadtpark.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance / rtn - radio tele nord</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/stadtpark408_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Jugendliche abends im Hamburger Stadtpark.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance / rtn - radio tele nord</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/stadtpark408_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Jugendliche abends im Hamburger Stadtpark.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance / rtn - radio tele nord</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/stadtpark408_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Menschen genießen im Hamburger Stadtpark die Sonne.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Imago Images/HochZwei/Angerer</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/stadtpark358_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Menschen genießen im Hamburger Stadtpark die Sonne.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Imago Images/HochZwei/Angerer</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/stadtpark358_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Menschen genießen im Hamburger Stadtpark die Sonne.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Imago Images/HochZwei/Angerer</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/stadtpark358_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Menschen genießen im Hamburger Stadtpark die Sonne.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Imago Images/HochZwei/Angerer</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/stadtpark358_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Menschen genießen im Hamburger Stadtpark die Sonne.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Imago Images/HochZwei/Angerer</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/stadtpark358_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Menschen genießen im Hamburger Stadtpark die Sonne.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Imago Images/HochZwei/Angerer</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/stadtpark358_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Menschen genießen im Hamburger Stadtpark die Sonne.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Imago Images/HochZwei/Angerer</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/stadtpark358_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Menschen genießen im Hamburger Stadtpark die Sonne.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Imago Images/HochZwei/Angerer</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/stadtpark358_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+</item>
+<item rdf:about="https://www.ndr.de/nachrichten/hamburg/Schueler-Auswertung-Neuvertragsmieten-deutlich-gestiegen,wohnungsmarkt256.html">
+<title>Schüler-Auswertung: Neuvertragsmieten deutlich gestiegen</title>
+<link>https://www.ndr.de/nachrichten/hamburg/Schueler-Auswertung-Neuvertragsmieten-deutlich-gestiegen,wohnungsmarkt256.html</link>
+<description>Mietwohnungen in Hamburg haben sich in einem Jahr um mehr als sechs Prozent verteuert. Das ergab eine Auswertung von Schülern des Gymnasiums Ohmoor.
+</description>
+<dc:type>Artikel</dc:type>
+<dc:date>2022-05-09T18:43:23.948+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>wohnungsmarkt256</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>Hamburg, Mieten, Wohnen, Wohnungsbau, Wohnungen, Immobilien, Mietpreise, Gymnasium Ohrmoor, Anzeigen</mp:keywords>
+<mp:topline>Hamburg</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Interessenten messen in Hamburg eine Mietwohnung aus. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance / dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/wohnung113_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Interessenten messen in Hamburg eine Mietwohnung aus. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance / dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/wohnung113_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Interessenten messen in Hamburg eine Mietwohnung aus. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance / dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/wohnung113_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Interessenten messen in Hamburg eine Mietwohnung aus. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance / dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/wohnung113_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Interessenten messen in Hamburg eine Mietwohnung aus. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance / dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/wohnung113_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Interessenten messen in Hamburg eine Mietwohnung aus. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance / dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/wohnung113_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Interessenten messen in Hamburg eine Mietwohnung aus. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance / dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/wohnung113_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Interessenten messen in Hamburg eine Mietwohnung aus. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance / dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/wohnung113_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Balkone von Mietshäusern in Hamburg.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>dpa-Bildfunk</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/mietenhamburg106_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Balkone von Mietshäusern in Hamburg.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>dpa-Bildfunk</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/mietenhamburg106_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Balkone von Mietshäusern in Hamburg.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>dpa-Bildfunk</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/mietenhamburg106_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Balkone von Mietshäusern in Hamburg.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>dpa-Bildfunk</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/mietenhamburg106_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Balkone von Mietshäusern in Hamburg.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>dpa-Bildfunk</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/mietenhamburg106_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Balkone von Mietshäusern in Hamburg.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>dpa-Bildfunk</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/mietenhamburg106_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Balkone von Mietshäusern in Hamburg.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>dpa-Bildfunk</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/mietenhamburg106_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Balkone von Mietshäusern in Hamburg.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>dpa-Bildfunk</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/mietenhamburg106_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+</item><item rdf:about="https://www.ndr.de/nachrichten/hamburg/Warnstreik-in-Hamburger-Kitas-und-Kliniken-fuer-Freitag-angekuendigt,warnstreik1828.html">
+<title>Warnstreik in Hamburger Kitas und Kliniken für Freitag angekündigt</title>
+<link>https://www.ndr.de/nachrichten/hamburg/Warnstreik-in-Hamburger-Kitas-und-Kliniken-fuer-Freitag-angekuendigt,warnstreik1828.html</link>
+<description>Hintergrund der Arbeitsniederlegung sind Tarifverhandlungen für die Beschäftigten in den Sozial- und Erziehungsdiensten im kommunalen Bereich.</description>
+<dc:type>Artikel</dc:type>
+<dc:date>2022-05-09T20:49:45.606+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>warnstreik1828</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>hamburg Ver.di Kitas Warnstreiks ver.di Elbkinder-Kitas Rudolf Ballin Stiftung Arbeiter Samariter Bundes Studierendenwerk Hamburger Schulverein Asklepios-Kita</mp:keywords>
+<mp:topline>Hamburg</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Erzieherinnen und Erzieher demonstrieren in der Hamburger Innenstadt für bessere Arbeitsbedingungen und finanzielle Anerkennung der Arbeit.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/warnstreik1826_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Erzieherinnen und Erzieher demonstrieren in der Hamburger Innenstadt für bessere Arbeitsbedingungen und finanzielle Anerkennung der Arbeit.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/warnstreik1826_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Erzieherinnen und Erzieher demonstrieren in der Hamburger Innenstadt für bessere Arbeitsbedingungen und finanzielle Anerkennung der Arbeit.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/warnstreik1826_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Erzieherinnen und Erzieher demonstrieren in der Hamburger Innenstadt für bessere Arbeitsbedingungen und finanzielle Anerkennung der Arbeit.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/warnstreik1826_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Erzieherinnen und Erzieher demonstrieren in der Hamburger Innenstadt für bessere Arbeitsbedingungen und finanzielle Anerkennung der Arbeit.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/warnstreik1826_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Erzieherinnen und Erzieher demonstrieren in der Hamburger Innenstadt für bessere Arbeitsbedingungen und finanzielle Anerkennung der Arbeit.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/warnstreik1826_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Erzieherinnen und Erzieher demonstrieren in der Hamburger Innenstadt für bessere Arbeitsbedingungen und finanzielle Anerkennung der Arbeit.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/warnstreik1826_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Erzieherinnen und Erzieher demonstrieren in der Hamburger Innenstadt für bessere Arbeitsbedingungen und finanzielle Anerkennung der Arbeit.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/warnstreik1826_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+</item><item rdf:about="https://www.ndr.de/nachrichten/hamburg/Stiftung-Alsterdorf-weiht-Gedenkstaette-fuer-NS-Opfer-ein-,alsterdorf486.html">
+<title>Stiftung Alsterdorf weiht Gedenkstätte für NS-Opfer ein </title>
+<link>https://www.ndr.de/nachrichten/hamburg/Stiftung-Alsterdorf-weiht-Gedenkstaette-fuer-NS-Opfer-ein-,alsterdorf486.html</link>
+<description>Sie soll das Gedenken an 630 Menschen mit Behinderung wachhalten, die aus den damaligen Alsterdorfer Anstalten in Hamburg abtransportiert wurden.</description>
+<dc:type>Artikel</dc:type>
+<dc:date>2022-05-09T18:47:16.614+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>alsterdorf486</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>Hamburg Evangelische Stiftung Alsterdorf gedenkstätte NS-Opfer Behinderte NS-Zeit Deportation</mp:keywords>
+<mp:topline>Hamburg</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Einweihung einer Gedenkstätte für NS-Opfer auf dem Gelände der Evangelischen Stiftung Alsterdorf in Hamburg. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335068_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Einweihung einer Gedenkstätte für NS-Opfer auf dem Gelände der Evangelischen Stiftung Alsterdorf in Hamburg. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335068_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Einweihung einer Gedenkstätte für NS-Opfer auf dem Gelände der Evangelischen Stiftung Alsterdorf in Hamburg. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335068_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Einweihung einer Gedenkstätte für NS-Opfer auf dem Gelände der Evangelischen Stiftung Alsterdorf in Hamburg. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335068_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Einweihung einer Gedenkstätte für NS-Opfer auf dem Gelände der Evangelischen Stiftung Alsterdorf in Hamburg. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335068_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Einweihung einer Gedenkstätte für NS-Opfer auf dem Gelände der Evangelischen Stiftung Alsterdorf in Hamburg. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335068_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Einweihung einer Gedenkstätte für NS-Opfer auf dem Gelände der Evangelischen Stiftung Alsterdorf in Hamburg. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335068_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Einweihung einer Gedenkstätte für NS-Opfer auf dem Gelände der Evangelischen Stiftung Alsterdorf in Hamburg. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335068_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+</item><item rdf:about="https://www.ndr.de/nachrichten/hamburg/Senatsempfang-zu-Ehren-des-Hamburger-Spendenparlaments,spendenparlament156.html">
+<title>Senatsempfang zu Ehren des Hamburger Spendenparlaments</title>
+<link>https://www.ndr.de/nachrichten/hamburg/Senatsempfang-zu-Ehren-des-Hamburger-Spendenparlaments,spendenparlament156.html</link>
+<description>Der Senat würdigte die Arbeit des Spendenparlaments. Anlass ist der 25. Geburtstag, der im vergangenen Jahr wegen Corona nicht gefeiert werden konnte. </description>
+<dc:type>Artikel</dc:type>
+<dc:date>2022-05-09T21:02:37.617+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>spendenparlament156</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>Hamburger Spendenparlament, Kinder, Jugendliche, Senat Senatsempfang</mp:keywords>
+<mp:topline>Hamburg</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Ein Schild zeigt den Schriftzug "Hamburger Spendenparlament" mit einem Logo.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture-alliance / dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/spendenparlament146_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Schild zeigt den Schriftzug "Hamburger Spendenparlament" mit einem Logo.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture-alliance / dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/spendenparlament146_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Schild zeigt den Schriftzug "Hamburger Spendenparlament" mit einem Logo.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture-alliance / dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/spendenparlament146_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Schild zeigt den Schriftzug "Hamburger Spendenparlament" mit einem Logo.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture-alliance / dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/spendenparlament146_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Schild zeigt den Schriftzug "Hamburger Spendenparlament" mit einem Logo.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture-alliance / dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/spendenparlament146_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Schild zeigt den Schriftzug "Hamburger Spendenparlament" mit einem Logo.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture-alliance / dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/spendenparlament146_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Schild zeigt den Schriftzug "Hamburger Spendenparlament" mit einem Logo.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture-alliance / dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/spendenparlament146_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Schild zeigt den Schriftzug "Hamburger Spendenparlament" mit einem Logo.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture-alliance / dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/spendenparlament146_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+</item><item rdf:about="https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Das-neue-Montblanc-Museum-in-Lurup-wird-eroeffnet,hamj122084.html">
+<title>Das neue Montblanc-Museum in Lurup wird eröffnet</title>
+<link>https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Das-neue-Montblanc-Museum-in-Lurup-wird-eroeffnet,hamj122084.html</link>
+<description>Neben exklusiven Füllfederhaltern zeigt Montblanc auch Werbeplakate und historische Fotos aus der Firmengeschichte.</description>
+<dc:type>Video</dc:type>
+<dc:date>2022-05-09T20:59:06.804+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>hamj122084</dc:identifier>
+<dc:source>VPMS</dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>Hamburg, Museum, Lurup, Montblanc, Firma, Tradition, Schreibgeräte</mp:keywords>
+<mp:topline>Hamburg Journal</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Spitze eines Mont Blanc Füllers.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335238_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Spitze eines Mont Blanc Füllers.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335238_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Spitze eines Mont Blanc Füllers.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335238_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Spitze eines Mont Blanc Füllers.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335238_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Spitze eines Mont Blanc Füllers.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335238_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Spitze eines Mont Blanc Füllers.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335238_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Spitze eines Mont Blanc Füllers.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335238_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Spitze eines Mont Blanc Füllers.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335238_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+<enc:enclosure rdf:resource="https://mediandr-a.akamaihd.net/progressive/2022/0509/TV-20220509-1958-5200.hd.mp4" enc:type="video/mp4" enc:length="58389888" />
+</item><item rdf:about="https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Fair-Parking-Die-Rueckeroberung-von-Parkflaechen,hamj122076.html">
+<title>Autos raus! BUND will weiteren Parkraum umwandeln</title>
+<link>https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Fair-Parking-Die-Rueckeroberung-von-Parkflaechen,hamj122076.html</link>
+<description>MIt der Aktion "Fair Parking" möchte der BUND aus Parkplätzen Spielplätze, Sitzgelegenheiten oder Grünflächen schaffen. </description>
+<dc:type>Video</dc:type>
+<dc:date>2022-05-09T20:56:34.289+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>hamj122076</dc:identifier>
+<dc:source>VPMS</dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>Hamburg, Autos Verkehr, Parken, BUND, Stadtplanung, Parkraum, öffentlicher Raum</mp:keywords>
+<mp:topline>Hamburg Journal</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Parkende Autos.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335182_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Parkende Autos.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335182_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Parkende Autos.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335182_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Parkende Autos.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335182_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Parkende Autos.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335182_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Parkende Autos.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335182_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Parkende Autos.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335182_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Parkende Autos.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335182_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+<enc:enclosure rdf:resource="https://mediandr-a.akamaihd.net/progressive/2022/0509/TV-20220509-1940-2400.hd.mp4" enc:type="video/mp4" enc:length="57229824" />
+</item><item rdf:about="https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Alle-Toten-fliegen-hoch-Amerika-im-Altonaer-Theater-,hamj122086.html">
+<title>"Alle Toten fliegen hoch - Amerika" im Altonaer Theater</title>
+<link>https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Alle-Toten-fliegen-hoch-Amerika-im-Altonaer-Theater-,hamj122086.html</link>
+<description>Joachim Meyerhoff erzählt über sein Austauschjahr 1985 in Amerika. Nun feiert sein Debütroman als Theaterstück Premiere.</description>
+<dc:type>Video</dc:type>
+<dc:date>2022-05-09T20:13:44.810+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>hamj122086</dc:identifier>
+<dc:source>VPMS</dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>Hamburg, Altonaer Theater, Alle Toten Fliegen hoch, Joachim Meyerhoff, Premiere, Literaturadaption</mp:keywords>
+<mp:topline>Hamburg Journal</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Bühnenszene</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335242_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Bühnenszene</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335242_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Bühnenszene</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335242_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Bühnenszene</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335242_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Bühnenszene</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335242_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Bühnenszene</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335242_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Bühnenszene</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335242_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Bühnenszene</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335242_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+<enc:enclosure rdf:resource="https://mediandr-a.akamaihd.net/progressive/2022/0509/TV-20220509-2002-3900.hd.mp4" enc:type="video/mp4" enc:length="59549952" />
+</item><item rdf:about="https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Santiano-geben-Nachholkonzert-in-der-Barclays-Arena,hamj122088.html">
+<title>Santiano geben Nachholkonzert in der Barclays Arena</title>
+<link>https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Santiano-geben-Nachholkonzert-in-der-Barclays-Arena,hamj122088.html</link>
+<description>Neben Songs aus ihrem aktuellen Album "Wenn die Kälte kommt" sangen die Shanty-Rocker auch alte Hits. Rund 8.000 Fans feierten mit.</description>
+<dc:type>Video</dc:type>
+<dc:date>2022-05-09T21:02:01.226+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>hamj122088</dc:identifier>
+<dc:source>VPMS</dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>Hamburg, Barcley Card Arena, Santiano, Konzert, Ersatz, Shanty Rock, </mp:keywords>
+<mp:topline>Hamburg Journal</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Santiano auf der Bühne.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335266_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Santiano auf der Bühne.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335266_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Santiano auf der Bühne.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335266_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Santiano auf der Bühne.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335266_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Santiano auf der Bühne.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335266_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Santiano auf der Bühne.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335266_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Santiano auf der Bühne.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335266_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Santiano auf der Bühne.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335266_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+<enc:enclosure rdf:resource="https://mediandr-a.akamaihd.net/progressive/2022/0509/TV-20220509-2006-4700.hd.mp4" enc:type="video/mp4" enc:length="59163264" />
+</item><item rdf:about="https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Seltene-Berufe-Der-junge-Segelmacher-aus-Kirchwerder,hamj122080.html">
+<title>Seltene Berufe: Der junge Segelmacher aus Kirchwerder</title>
+<link>https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Seltene-Berufe-Der-junge-Segelmacher-aus-Kirchwerder,hamj122080.html</link>
+<description>Da Tim Holster selbst gerne auf dem Wasser unterwegs ist, war die Berufswahl für den 27-Jährigen leicht.</description>
+<dc:type>Video</dc:type>
+<dc:date>2022-05-09T21:37:32.268+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>hamj122080</dc:identifier>
+<dc:source>VPMS</dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>Hamburg, Segelmacher, Handwerk, Kirchwerder, Tim Holster, </mp:keywords>
+<mp:topline>Hamburg Journal</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Der Segelmacher Tim Holster.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335208_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Der Segelmacher Tim Holster.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335208_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Der Segelmacher Tim Holster.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335208_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Der Segelmacher Tim Holster.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335208_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Der Segelmacher Tim Holster.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335208_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Der Segelmacher Tim Holster.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335208_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Der Segelmacher Tim Holster.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335208_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Der Segelmacher Tim Holster.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335208_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+<enc:enclosure rdf:resource="https://mediandr-a.akamaihd.net/progressive/2022/0509/TV-20220509-1948-4400.hd.mp4" enc:type="video/mp4" enc:length="58776576" />
+</item><item rdf:about="https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Landtagswahl-in-Schleswig-Holstein-So-hat-Hamburger-Umland-gewaehlt,hamj122078.html">
+<title>Landtagswahl in Schleswig-Holstein: So hat das Hamburger Umland gewählt</title>
+<link>https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Landtagswahl-in-Schleswig-Holstein-So-hat-Hamburger-Umland-gewaehlt,hamj122078.html</link>
+<description>Die CDU hat die Wahl deutlich gewonnen. Auch um Hamburg herum spiegelt sich dieses Ergebnis in der Anzahl der Direktmandate wieder.</description>
+<dc:type>Video</dc:type>
+<dc:date>2022-05-09T20:57:31.607+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>hamj122078</dc:identifier>
+<dc:source>VPMS</dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>Hamburg, Wahl, Schleswig-Holstein, Umland, Landtagswahl</mp:keywords>
+<mp:topline>Hamburg Journal</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Wahlabend bei der SPD.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335192_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Wahlabend bei der SPD.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335192_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Wahlabend bei der SPD.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335192_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Wahlabend bei der SPD.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335192_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Wahlabend bei der SPD.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335192_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Wahlabend bei der SPD.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335192_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Wahlabend bei der SPD.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335192_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Wahlabend bei der SPD.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335192_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+<enc:enclosure rdf:resource="https://mediandr-a.akamaihd.net/progressive/2022/0509/TV-20220509-1942-1500.hd.mp4" enc:type="video/mp4" enc:length="32095104" />
+</item><item rdf:about="https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Hamburg-morgen-Energie-aus-der-Erde,hamj122082.html">
+<title>Hamburg morgen: Energie aus der Erde</title>
+<link>https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Hamburg-morgen-Energie-aus-der-Erde,hamj122082.html</link>
+<description>In Wilhelmsburg wird gebohrt, um Erdwärme zu gewinnen. Das Ziel ist die Errichtung einer Geothermie-Anlage.</description>
+<dc:type>Video</dc:type>
+<dc:date>2022-05-09T20:18:55.429+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>hamj122082</dc:identifier>
+<dc:source>VPMS</dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>Hamburg, Energie, Wilhelmsburg, Hamburg morgen</mp:keywords>
+<mp:topline>Hamburg Journal</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335220_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335220_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335220_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335220_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335220_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335220_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335220_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335220_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+<enc:enclosure rdf:resource="https://mediandr-a.akamaihd.net/progressive/2022/0509/TV-20220509-1952-3300.hd.mp4" enc:type="video/mp4" enc:length="64963584" />
+</item><item rdf:about="https://www.ndr.de/fernsehen/Rovschan-33-In-Borgfelde-fehlen-mir-Geschaefte,borgfelde108.html">
+<title>Rovschan, 33: "In Borgfelde fehlen mir Geschäfte"</title>
+<link>https://www.ndr.de/fernsehen/Rovschan-33-In-Borgfelde-fehlen-mir-Geschaefte,borgfelde108.html</link>
+<description>Rovschan aus Borgfelde hat ein Atelier, in dem er Maßanzüge für Männer anbietets. Für ihn persönlich  ist Hamburg die schönste Stadt Deutschlands. </description>
+<dc:type>Video</dc:type>
+<dc:date>2022-04-26T09:59:13.987+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>borgfelde108</dc:identifier>
+<dc:source>NDR</dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>hamburg mit 30, borgfelde, hamburg journal</mp:keywords>
+<mp:topline>Fernsehen</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Rovschan aus Hamburg-Borgfelde.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/borgfelde104_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Rovschan aus Hamburg-Borgfelde.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/borgfelde104_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Rovschan aus Hamburg-Borgfelde.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/borgfelde104_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Rovschan aus Hamburg-Borgfelde.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/borgfelde104_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Rovschan aus Hamburg-Borgfelde.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/borgfelde104_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Rovschan aus Hamburg-Borgfelde.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/borgfelde104_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Rovschan aus Hamburg-Borgfelde.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/borgfelde104_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Rovschan aus Hamburg-Borgfelde.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/borgfelde104_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+<enc:enclosure rdf:resource="https://mediandr-a.akamaihd.net/progressive/2022/0422/TV-20220422-1907-2900.hd.mp4" enc:type="video/mp4" enc:length="33255168" />
+</item><item rdf:about="https://www.ndr.de/nachrichten/hamburg/hamburgjournalstream100.html">
+<title></title>
+<link>https://www.ndr.de/nachrichten/hamburg/hamburgjournalstream100.html</link>
+<description></description>
+<dc:type></dc:type>
+<dc:date>2018-01-31T19:43:42.341+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>hamburgjournalstream100</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords></mp:keywords>
+<mp:topline>Hamburg</mp:topline>
+<mp:states />
+</item><item rdf:about="https://www.ndr.de/nachrichten/hamburg/podcasts118.html">
+<title></title>
+<link>https://www.ndr.de/nachrichten/hamburg/podcasts118.html</link>
+<description></description>
+<dc:type></dc:type>
+<dc:date>2022-05-09T17:19:50.510+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>podcasts118</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords></mp:keywords>
+<mp:topline>Hamburg</mp:topline>
+<mp:states />
+</item><item rdf:about="https://www.ndr.de/nachrichten/hamburg/Giftstoffe-am-Tatenberger-Deich-Liegewiese-gesperrt,tatenbergerdeich100.html">
+<title>Giftstoffe am Tatenberger Deich: Liegewiese gesperrt</title>
+<link>https://www.ndr.de/nachrichten/hamburg/Giftstoffe-am-Tatenberger-Deich-Liegewiese-gesperrt,tatenbergerdeich100.html</link>
+<description>Giftige Altlasten: Die Liegewiese an der Dove Elbe kann erst mal nicht mehr genutzt werden.</description>
+<dc:type>Artikel</dc:type>
+<dc:date>2022-05-09T18:45:19.489+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>tatenbergerdeich100</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>hamburg Tatenberger Deich Liegewiese Sperrung Gift Giftsstoffe</mp:keywords>
+<mp:topline>Hamburg</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Eine Liegewiese an der Hamburger Dove-Elbe ist abgesperrt.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335074_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Eine Liegewiese an der Hamburger Dove-Elbe ist abgesperrt.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335074_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Eine Liegewiese an der Hamburger Dove-Elbe ist abgesperrt.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335074_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Eine Liegewiese an der Hamburger Dove-Elbe ist abgesperrt.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335074_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Eine Liegewiese an der Hamburger Dove-Elbe ist abgesperrt.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335074_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Eine Liegewiese an der Hamburger Dove-Elbe ist abgesperrt.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335074_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Eine Liegewiese an der Hamburger Dove-Elbe ist abgesperrt.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335074_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Eine Liegewiese an der Hamburger Dove-Elbe ist abgesperrt.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335074_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Tatenberger Bucht von oben.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335020_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Tatenberger Bucht von oben.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335020_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Tatenberger Bucht von oben.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335020_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Tatenberger Bucht von oben.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335020_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Tatenberger Bucht von oben.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335020_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Tatenberger Bucht von oben.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335020_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Tatenberger Bucht von oben.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335020_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Tatenberger Bucht von oben.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1335020_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+</item><item rdf:about="https://www.ndr.de/nachrichten/hamburg/Wie-begruente-Daecher-in-Hamburg-die-Artenvielfalt-foerdern,gruendaecher102.html">
+<title>Wie begrünte Dächer in Hamburg die Artenvielfalt fördern</title>
+<link>https://www.ndr.de/nachrichten/hamburg/Wie-begruente-Daecher-in-Hamburg-die-Artenvielfalt-foerdern,gruendaecher102.html</link>
+<description>Hamburg fördert das Begrünen von Hausdächern. Mittlerweile finden Forscher dort sogar seltene Arten. </description>
+<dc:type>Artikel</dc:type>
+<dc:date>2022-05-09T13:03:24.743+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>gruendaecher102</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>hamburg Gründächer Dachbegrünung Insekten Käfer Artenvielfalt </mp:keywords>
+<mp:topline>Hamburg</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Gründächer sind auf Neubauten im Hamburger Stadtteil Wilhelmsburg zu sehen. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/gruendaecher100_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Gründächer sind auf Neubauten im Hamburger Stadtteil Wilhelmsburg zu sehen. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/gruendaecher100_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Gründächer sind auf Neubauten im Hamburger Stadtteil Wilhelmsburg zu sehen. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/gruendaecher100_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Gründächer sind auf Neubauten im Hamburger Stadtteil Wilhelmsburg zu sehen. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/gruendaecher100_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Gründächer sind auf Neubauten im Hamburger Stadtteil Wilhelmsburg zu sehen. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/gruendaecher100_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Gründächer sind auf Neubauten im Hamburger Stadtteil Wilhelmsburg zu sehen. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/gruendaecher100_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Gründächer sind auf Neubauten im Hamburger Stadtteil Wilhelmsburg zu sehen. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/gruendaecher100_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Gründächer sind auf Neubauten im Hamburger Stadtteil Wilhelmsburg zu sehen. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/gruendaecher100_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+</item><item rdf:about="https://www.ndr.de/nachrichten/hamburg/Reaktionen-aus-Hamburg-zur-Landtagswahl-in-Schleswig-Holstein,hhreaktionenshwahl100.html">
+<title>Reaktionen aus Hamburg zur Landtagswahl in Schleswig-Holstein</title>
+<link>https://www.ndr.de/nachrichten/hamburg/Reaktionen-aus-Hamburg-zur-Landtagswahl-in-Schleswig-Holstein,hhreaktionenshwahl100.html</link>
+<description>Hamburgs Parteien gratulieren Daniel Günther zum Wahlsieg. Grüne und FDP sprechen beide von Koalitionsaufträgen.</description>
+<dc:type>Artikel</dc:type>
+<dc:date>2022-05-09T10:50:30.471+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>hhreaktionenshwahl100</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>Hamburg Reaktionen Wahl Schleswig-Holstein Landtagswahl</mp:keywords>
+<mp:topline>Hamburg</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Christoph Ploß, CDU</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334584_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Christoph Ploß, CDU</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334584_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Christoph Ploß, CDU</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334584_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Christoph Ploß, CDU</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334584_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Christoph Ploß, CDU</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334584_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Christoph Ploß, CDU</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334584_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Christoph Ploß, CDU</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334584_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Christoph Ploß, CDU</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334584_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Mehrere Personen stehen auf einer Wahlparty der CDU.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/schleswig-holstein/landtagswahl_2022/cdu1656_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Mehrere Personen stehen auf einer Wahlparty der CDU.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/schleswig-holstein/landtagswahl_2022/cdu1656_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Mehrere Personen stehen auf einer Wahlparty der CDU.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/schleswig-holstein/landtagswahl_2022/cdu1656_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Mehrere Personen stehen auf einer Wahlparty der CDU.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/schleswig-holstein/landtagswahl_2022/cdu1656_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Mehrere Personen stehen auf einer Wahlparty der CDU.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/schleswig-holstein/landtagswahl_2022/cdu1656_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Mehrere Personen stehen auf einer Wahlparty der CDU.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/schleswig-holstein/landtagswahl_2022/cdu1656_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Mehrere Personen stehen auf einer Wahlparty der CDU.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/schleswig-holstein/landtagswahl_2022/cdu1656_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Mehrere Personen stehen auf einer Wahlparty der CDU.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/schleswig-holstein/landtagswahl_2022/cdu1656_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+</item><item rdf:about="https://www.ndr.de/nachrichten/hamburg/Das-Harburger-Schloss-muss-aufwendig-stabilisiert-werden,harburg864.html">
+<title>Das Harburger Schloss muss aufwendig stabilisiert werden</title>
+<link>https://www.ndr.de/nachrichten/hamburg/Das-Harburger-Schloss-muss-aufwendig-stabilisiert-werden,harburg864.html</link>
+<description>Bei der Sanierung ist aufgefallen, dass das Gebäude in Hamburg-Harburg nicht sicher steht. Um das zu ändern, sind Millionen nötig.</description>
+<dc:type>Artikel</dc:type>
+<dc:date>2022-05-09T14:02:00.187+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>harburg864</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>hamburg, Harburger Schloss, Sanierung, Stabilisierung, Millionen, Baukosten</mp:keywords>
+<mp:topline>Hamburg</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Blick auf eine Wohnhaus und Reste des Harburger Schlosses in Hamburg.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/harburg866_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf eine Wohnhaus und Reste des Harburger Schlosses in Hamburg.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/harburg866_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf eine Wohnhaus und Reste des Harburger Schlosses in Hamburg.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/harburg866_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf eine Wohnhaus und Reste des Harburger Schlosses in Hamburg.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/harburg866_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf eine Wohnhaus und Reste des Harburger Schlosses in Hamburg.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/harburg866_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf eine Wohnhaus und Reste des Harburger Schlosses in Hamburg.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/harburg866_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf eine Wohnhaus und Reste des Harburger Schlosses in Hamburg.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/harburg866_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf eine Wohnhaus und Reste des Harburger Schlosses in Hamburg.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/harburg866_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+</item><item rdf:about="https://www.ndr.de/sport/handball/Hamburgs-Handballer-Wieder-eine-Erfolgsgeschichte,hsvhamburg640.html">
+<title>Hamburgs Handballer: Wieder eine Erfolgsgeschichte</title>
+<link>https://www.ndr.de/sport/handball/Hamburgs-Handballer-Wieder-eine-Erfolgsgeschichte,hsvhamburg640.html</link>
+<description>Mit viel Einsatz und einer gehörigen Portion Demut haben die Macher im Hintergrund dem Verein ein neues Gesicht gegeben. </description>
+<dc:type>Artikel</dc:type>
+<dc:date>2022-05-09T14:49:44.349+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>hsvhamburg640</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>HSV Hamburg, Torsten Jansen, Martin Schwalb</mp:keywords>
+<mp:topline>Handball</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>HSV-Handballer Casper Mortensen bejubelt einen Treffer.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>imago images</mp:source>
+<mp:data>https://www.ndr.de/sport/handball/hsvh140_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>HSV-Handballer Casper Mortensen bejubelt einen Treffer.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>imago images</mp:source>
+<mp:data>https://www.ndr.de/sport/handball/hsvh140_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>HSV-Handballer Casper Mortensen bejubelt einen Treffer.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>imago images</mp:source>
+<mp:data>https://www.ndr.de/sport/handball/hsvh140_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>HSV-Handballer Casper Mortensen bejubelt einen Treffer.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>imago images</mp:source>
+<mp:data>https://www.ndr.de/sport/handball/hsvh140_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>HSV-Handballer Casper Mortensen bejubelt einen Treffer.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>imago images</mp:source>
+<mp:data>https://www.ndr.de/sport/handball/hsvh140_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>HSV-Handballer Casper Mortensen bejubelt einen Treffer.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>imago images</mp:source>
+<mp:data>https://www.ndr.de/sport/handball/hsvh140_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>HSV-Handballer Casper Mortensen bejubelt einen Treffer.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>imago images</mp:source>
+<mp:data>https://www.ndr.de/sport/handball/hsvh140_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>HSV-Handballer Casper Mortensen bejubelt einen Treffer.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>imago images</mp:source>
+<mp:data>https://www.ndr.de/sport/handball/hsvh140_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+</item><item rdf:about="https://www.ndr.de/sport/fussball/Kommentar-zum-FC-St-Pauli-Vermeidbarer-sportlicher-Absturz-mit-Folgen,pauli7000.html">
+<title>Kommentar zu St. Pauli: Vermeidbarer sportlicher Absturz mit Folgen</title>
+<link>https://www.ndr.de/sport/fussball/Kommentar-zum-FC-St-Pauli-Vermeidbarer-sportlicher-Absturz-mit-Folgen,pauli7000.html</link>
+<description>Nach dem enttäuschenden Ende einer lange erfolgreichen Saison steht der FC St. Pauli vor einem Neuanfang - mit ungewissen Folgen.</description>
+<dc:type>Artikel</dc:type>
+<dc:date>2022-05-09T13:58:21.369+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>pauli7000</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>FC St. Pauli, Hamburg, Kiezkicker, Millerntor,</mp:keywords>
+<mp:topline>Fußball</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Frust bei Maximilian Dittgen vom FC St. Pauli </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Witters </mp:source>
+<mp:data>https://www.ndr.de/sport/fussball/stpauli7456_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Frust bei Maximilian Dittgen vom FC St. Pauli </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Witters </mp:source>
+<mp:data>https://www.ndr.de/sport/fussball/stpauli7456_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Frust bei Maximilian Dittgen vom FC St. Pauli </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Witters </mp:source>
+<mp:data>https://www.ndr.de/sport/fussball/stpauli7456_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Frust bei Maximilian Dittgen vom FC St. Pauli </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Witters </mp:source>
+<mp:data>https://www.ndr.de/sport/fussball/stpauli7456_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Frust bei Maximilian Dittgen vom FC St. Pauli </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Witters </mp:source>
+<mp:data>https://www.ndr.de/sport/fussball/stpauli7456_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Frust bei Maximilian Dittgen vom FC St. Pauli </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Witters </mp:source>
+<mp:data>https://www.ndr.de/sport/fussball/stpauli7456_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Frust bei Maximilian Dittgen vom FC St. Pauli </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Witters </mp:source>
+<mp:data>https://www.ndr.de/sport/fussball/stpauli7456_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Frust bei Maximilian Dittgen vom FC St. Pauli </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Witters </mp:source>
+<mp:data>https://www.ndr.de/sport/fussball/stpauli7456_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+</item><item rdf:about="https://www.ndr.de/nachrichten/hamburg/Asphaltierungsarbeiten-Behinderungen-auf-der-A7-in-Hamburg,asieben486.html">
+<title>Asphaltierungsarbeiten: Behinderungen auf der A7 in Hamburg</title>
+<link>https://www.ndr.de/nachrichten/hamburg/Asphaltierungsarbeiten-Behinderungen-auf-der-A7-in-Hamburg,asieben486.html</link>
+<description>Bis zum 23. Mai kommt es zwischen dem Dreieck Hamburg-Nordwest und der Anschlussstelle Hamburg-Volkspark zu Einschränkungen.</description>
+<dc:type>Artikel</dc:type>
+<dc:date>2022-05-09T13:33:47.036+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>asieben486</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>Hamburg, Autobahn 7, A7, Vollsperrung, Sperrung, Wochenende, März, Volkspark, stellingen, Waltershof, Elbtunnel, Umleitung, Tunnel, asphaltierung, hsv</mp:keywords>
+<mp:topline>Hamburg</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Hinweisschilder auf der Bundesautobahn 7.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>dpa - picture alliance</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/niedersachsen/lueneburg_heide_unterelbe/autobahn2274_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Hinweisschilder auf der Bundesautobahn 7.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>dpa - picture alliance</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/niedersachsen/lueneburg_heide_unterelbe/autobahn2274_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Hinweisschilder auf der Bundesautobahn 7.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>dpa - picture alliance</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/niedersachsen/lueneburg_heide_unterelbe/autobahn2274_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Hinweisschilder auf der Bundesautobahn 7.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>dpa - picture alliance</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/niedersachsen/lueneburg_heide_unterelbe/autobahn2274_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Hinweisschilder auf der Bundesautobahn 7.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>dpa - picture alliance</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/niedersachsen/lueneburg_heide_unterelbe/autobahn2274_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Hinweisschilder auf der Bundesautobahn 7.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>dpa - picture alliance</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/niedersachsen/lueneburg_heide_unterelbe/autobahn2274_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Hinweisschilder auf der Bundesautobahn 7.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>dpa - picture alliance</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/niedersachsen/lueneburg_heide_unterelbe/autobahn2274_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Hinweisschilder auf der Bundesautobahn 7.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>dpa - picture alliance</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/niedersachsen/lueneburg_heide_unterelbe/autobahn2274_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Straßenschild weist auf eine Sperrung hin.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance / Bernd Wüstneck/dpa-Zentralbild/dpa | Bernd Wüstneck</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/niedersachsen/sperrung568_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Straßenschild weist auf eine Sperrung hin.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance / Bernd Wüstneck/dpa-Zentralbild/dpa | Bernd Wüstneck</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/niedersachsen/sperrung568_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Straßenschild weist auf eine Sperrung hin.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance / Bernd Wüstneck/dpa-Zentralbild/dpa | Bernd Wüstneck</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/niedersachsen/sperrung568_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Straßenschild weist auf eine Sperrung hin.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance / Bernd Wüstneck/dpa-Zentralbild/dpa | Bernd Wüstneck</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/niedersachsen/sperrung568_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Straßenschild weist auf eine Sperrung hin.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance / Bernd Wüstneck/dpa-Zentralbild/dpa | Bernd Wüstneck</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/niedersachsen/sperrung568_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Straßenschild weist auf eine Sperrung hin.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance / Bernd Wüstneck/dpa-Zentralbild/dpa | Bernd Wüstneck</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/niedersachsen/sperrung568_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Straßenschild weist auf eine Sperrung hin.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance / Bernd Wüstneck/dpa-Zentralbild/dpa | Bernd Wüstneck</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/niedersachsen/sperrung568_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Straßenschild weist auf eine Sperrung hin.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance / Bernd Wüstneck/dpa-Zentralbild/dpa | Bernd Wüstneck</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/niedersachsen/sperrung568_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+</item><item rdf:about="https://www.ndr.de/nachrichten/hamburg/Meistgelesene-Artikel-und-gesehene-Videos-fuer-Hamburg,meistgelesen110.html">
+<title>Meistgeklickt: Beliebte Artikel und Videos in Hamburg</title>
+<link>https://www.ndr.de/nachrichten/hamburg/Meistgelesene-Artikel-und-gesehene-Videos-fuer-Hamburg,meistgelesen110.html</link>
+<description>Hier finden Sie die meistgelesenen Artikel des letzten Tages und die Top-Videos der letzten sieben Tage für Hamburg.</description>
+<dc:type>Artikel</dc:type>
+<dc:date>2022-05-09T08:15:08.264+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>meistgelesen110</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords></mp:keywords>
+<mp:topline>Hamburg</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Screenshot: Eine Person hält ihr Smartphone so, dass darauf die Hamburg App von NDR 90,3 und dem Hamburg Journal zu sehen ist.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/903/hamburgapp144_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Screenshot: Eine Person hält ihr Smartphone so, dass darauf die Hamburg App von NDR 90,3 und dem Hamburg Journal zu sehen ist.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/903/hamburgapp144_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Screenshot: Eine Person hält ihr Smartphone so, dass darauf die Hamburg App von NDR 90,3 und dem Hamburg Journal zu sehen ist.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/903/hamburgapp144_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Screenshot: Eine Person hält ihr Smartphone so, dass darauf die Hamburg App von NDR 90,3 und dem Hamburg Journal zu sehen ist.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/903/hamburgapp144_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Screenshot: Eine Person hält ihr Smartphone so, dass darauf die Hamburg App von NDR 90,3 und dem Hamburg Journal zu sehen ist.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/903/hamburgapp144_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Screenshot: Eine Person hält ihr Smartphone so, dass darauf die Hamburg App von NDR 90,3 und dem Hamburg Journal zu sehen ist.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/903/hamburgapp144_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Screenshot: Eine Person hält ihr Smartphone so, dass darauf die Hamburg App von NDR 90,3 und dem Hamburg Journal zu sehen ist.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/903/hamburgapp144_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Screenshot: Eine Person hält ihr Smartphone so, dass darauf die Hamburg App von NDR 90,3 und dem Hamburg Journal zu sehen ist.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.ndr.de/903/hamburgapp144_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+</item><item rdf:about="https://www.ndr.de/nachrichten/hamburg/Hans-Herbert-Boehrs-im-Alter-von-82-Jahren-gestorben,kurzehh508.html">
+<title>Hans Herbert Böhrs im Alter von 82 Jahren gestorben</title>
+<link>https://www.ndr.de/nachrichten/hamburg/Hans-Herbert-Boehrs-im-Alter-von-82-Jahren-gestorben,kurzehh508.html</link>
+<description></description>
+<dc:type>Artikel</dc:type>
+<dc:date>2022-05-09T20:14:20.540+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>kurzehh508</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>kurzmeldungen, hh, hamburg, regionalmeldungen, News</mp:keywords>
+<mp:topline>Hamburg</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+</item><item rdf:about="https://www.ndr.de/nachrichten/hamburg/Jugendliche-verspruehen-Reizgas-in-Linienbus,kurzehh510.html">
+<title>Jugendliche versprühen Reizgas in Linienbus</title>
+<link>https://www.ndr.de/nachrichten/hamburg/Jugendliche-verspruehen-Reizgas-in-Linienbus,kurzehh510.html</link>
+<description></description>
+<dc:type>Artikel</dc:type>
+<dc:date>2022-05-09T20:32:36.994+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>kurzehh510</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>kurzmeldungen, hh, hamburg, regionalmeldungen, News</mp:keywords>
+<mp:topline>Hamburg</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+</item><item rdf:about="https://www.ndr.de/nachrichten/hamburg/Umweltsenator-Kerstan-wieder-im-Krankenhaus,kurzehh504.html">
+<title>Umweltsenator Kerstan wieder im Krankenhaus</title>
+<link>https://www.ndr.de/nachrichten/hamburg/Umweltsenator-Kerstan-wieder-im-Krankenhaus,kurzehh504.html</link>
+<description></description>
+<dc:type>Artikel</dc:type>
+<dc:date>2022-05-09T10:32:51.622+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>kurzehh504</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>kurzmeldungen, hh, hamburg, regionalmeldungen, News</mp:keywords>
+<mp:topline>Hamburg</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+</item><item rdf:about="https://www.ndr.de/nachrichten/hamburg/Viel-Applaus-fuer-Meyerhoff-Stueck-im-Altonaer-Theater,kurzehh502.html">
+<title>Viel Applaus für Meyerhoff-Stück im Altonaer Theater</title>
+<link>https://www.ndr.de/nachrichten/hamburg/Viel-Applaus-fuer-Meyerhoff-Stueck-im-Altonaer-Theater,kurzehh502.html</link>
+<description></description>
+<dc:type>Artikel</dc:type>
+<dc:date>2022-05-09T08:01:29.794+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>kurzehh502</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>kurzmeldungen, hh, hamburg, regionalmeldungen, News</mp:keywords>
+<mp:topline>Hamburg</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+</item><item rdf:about="https://www.ndr.de/nachrichten/hamburg/Basketball-Towers-verlieren-letztes-Hauptrunden-Spiel,kurzehh500.html">
+<title>Basketball: Towers verlieren letztes Hauptrunden-Spiel</title>
+<link>https://www.ndr.de/nachrichten/hamburg/Basketball-Towers-verlieren-letztes-Hauptrunden-Spiel,kurzehh500.html</link>
+<description></description>
+<dc:type>Artikel</dc:type>
+<dc:date>2022-05-09T07:53:28.918+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>kurzehh500</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>kurzmeldungen, hh, hamburg, regionalmeldungen, News</mp:keywords>
+<mp:topline>Hamburg</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Blick auf den Hamburger Hafen, </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/kurznachrichten106_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+</item><item rdf:about="https://www.ndr.de/nachrichten/hamburg/Hamburg-mit-30-Neues-Videoformat-vom-NDR,hamburgmitdreissig100.html">
+<title>"Hamburg mit 30": Neues Videoformat vom NDR</title>
+<link>https://www.ndr.de/nachrichten/hamburg/Hamburg-mit-30-Neues-Videoformat-vom-NDR,hamburgmitdreissig100.html</link>
+<description>Männer und Frauen in den 30ern reden über sich, über ihr Leben, ihre Träume und ihre Wünsche an ihre Heimat Hamburg.</description>
+<dc:type>Artikel</dc:type>
+<dc:date>2022-05-09T13:42:05.700+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>hamburgmitdreissig100</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>Hamburg, Hamburg mit 30, Social Media, Instagram, Leben</mp:keywords>
+<mp:topline>Hamburg</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Jenny aus Hamburg-Hammerbrook.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/hammerbrook124_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Jenny aus Hamburg-Hammerbrook.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/hammerbrook124_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Jenny aus Hamburg-Hammerbrook.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/hammerbrook124_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Jenny aus Hamburg-Hammerbrook.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/hammerbrook124_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Jenny aus Hamburg-Hammerbrook.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/hammerbrook124_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Jenny aus Hamburg-Hammerbrook.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/hammerbrook124_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Jenny aus Hamburg-Hammerbrook.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/hammerbrook124_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Jenny aus Hamburg-Hammerbrook.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/hammerbrook124_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+</item><item rdf:about="https://www.ndr.de/nachrichten/hamburg/Ukraine-Krieg-So-koennen-Hamburger-Fluechtlingen-helfen,ukrainehilfe146.html">
+<title>Ukraine-Krieg: So können Hamburger Geflüchteten helfen</title>
+<link>https://www.ndr.de/nachrichten/hamburg/Ukraine-Krieg-So-koennen-Hamburger-Fluechtlingen-helfen,ukrainehilfe146.html</link>
+<description>Spenden und Hilfe für die Ukraine: Hier finden Sie einen Überblick über die verschiedenen Möglichkeiten in Hamburg.</description>
+<dc:type>Artikel</dc:type>
+<dc:date>2022-04-27T15:29:58.757+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>ukrainehilfe146</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>Hamburg Ukraine Ukraine-Krieg Krieg Hilfe Spenden Geflüchtete Flüchtlinge</mp:keywords>
+<mp:topline>Hamburg</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Ein Schild in der Kleiderkammer der Hilfsorganisation Hanseatic Help verweist zum Spenden nach rechts und zum Helfen nach links.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa | Marcus Brandt</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/spenden512_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Schild in der Kleiderkammer der Hilfsorganisation Hanseatic Help verweist zum Spenden nach rechts und zum Helfen nach links.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa | Marcus Brandt</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/spenden512_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Schild in der Kleiderkammer der Hilfsorganisation Hanseatic Help verweist zum Spenden nach rechts und zum Helfen nach links.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa | Marcus Brandt</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/spenden512_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Schild in der Kleiderkammer der Hilfsorganisation Hanseatic Help verweist zum Spenden nach rechts und zum Helfen nach links.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa | Marcus Brandt</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/spenden512_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Schild in der Kleiderkammer der Hilfsorganisation Hanseatic Help verweist zum Spenden nach rechts und zum Helfen nach links.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa | Marcus Brandt</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/spenden512_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Schild in der Kleiderkammer der Hilfsorganisation Hanseatic Help verweist zum Spenden nach rechts und zum Helfen nach links.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa | Marcus Brandt</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/spenden512_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Schild in der Kleiderkammer der Hilfsorganisation Hanseatic Help verweist zum Spenden nach rechts und zum Helfen nach links.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa | Marcus Brandt</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/spenden512_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Schild in der Kleiderkammer der Hilfsorganisation Hanseatic Help verweist zum Spenden nach rechts und zum Helfen nach links.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa | Marcus Brandt</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/spenden512_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+</item><item rdf:about="https://www.hamburg.de/ukraine/">
+<title>Інформація для тих, хто шукає захисту, і тих, хто хоче допомогти</title>
+<link>https://www.hamburg.de/ukraine/</link>
+<description>Hilfe für Schutzsuchende: Die Stadt Hamburg informiert auf Ukrainisch. Місто Гамбург надає інформацію українською мовою на своєму сайті.</description>
+<dc:type>Link</dc:type>
+<dc:date>2022-03-16T12:43:42.476+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>ukrainehilfe144</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords></mp:keywords>
+<mp:topline>Hamburg</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>FAQ</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.eurovision.de/faq119_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>FAQ</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.eurovision.de/faq119_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>FAQ</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.eurovision.de/faq119_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>FAQ</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.eurovision.de/faq119_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>FAQ</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.eurovision.de/faq119_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>FAQ</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.eurovision.de/faq119_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>FAQ</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.eurovision.de/faq119_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>FAQ</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR</mp:source>
+<mp:data>https://www.eurovision.de/faq119_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+</item><item rdf:about="https://www.ndr.de/nachrichten/hamburg/topvideos114.html">
+<title></title>
+<link>https://www.ndr.de/nachrichten/hamburg/topvideos114.html</link>
+<description></description>
+<dc:type></dc:type>
+<dc:date>2022-05-09T13:45:18.171+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>topvideos114</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords></mp:keywords>
+<mp:topline>Hamburg</mp:topline>
+<mp:states />
+</item><item rdf:about="https://www.ndr.de/nachrichten/hamburg/coronavirus/index.html">
+<title>Coronavirus in Hamburg: Nachrichten und Hintergründe</title>
+<link>https://www.ndr.de/nachrichten/hamburg/coronavirus/index.html</link>
+<description>Wie geht es Hamburg mit der Corona-Pandemie? Hier finden Sie die aktuellen Zahlen, Nachrichten, Videos und Hintergründe.</description>
+<dc:type>Artikel</dc:type>
+<dc:date>2022-05-06T12:26:05.925+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>corona1546</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>Corona, Virus, Ausbreitung, Vorsichtsmaßnahmen, Hamburg, Informationen, Hintergründe, Ansprechpartner, Kontaktadressen, FAQ, Fragen und Antworten, Hamburg Journal, Nachrichten, Ausbreitung, Pandemie, Lockerungen, Beschränkung</mp:keywords>
+<mp:topline>Coronavirus in Hamburg</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Ein Virus schwebt vor einer Menschenmenge (Fotomontage)</mp:alt>
+<mp:caption>Um die Ausbreitung des Coronavirus zu verlangsamen, erleben Norddeutsche erhebliche Einschränkungen im Alltag.</mp:caption>
+<mp:source>panthermedia, fotolia</mp:source>
+<mp:data>https://www.ndr.de/coronavirus360_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Virus schwebt vor einer Menschenmenge (Fotomontage)</mp:alt>
+<mp:caption>Um die Ausbreitung des Coronavirus zu verlangsamen, erleben Norddeutsche erhebliche Einschränkungen im Alltag.</mp:caption>
+<mp:source>panthermedia, fotolia</mp:source>
+<mp:data>https://www.ndr.de/coronavirus360_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Virus schwebt vor einer Menschenmenge (Fotomontage)</mp:alt>
+<mp:caption>Um die Ausbreitung des Coronavirus zu verlangsamen, erleben Norddeutsche erhebliche Einschränkungen im Alltag.</mp:caption>
+<mp:source>panthermedia, fotolia</mp:source>
+<mp:data>https://www.ndr.de/coronavirus360_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Virus schwebt vor einer Menschenmenge (Fotomontage)</mp:alt>
+<mp:caption>Um die Ausbreitung des Coronavirus zu verlangsamen, erleben Norddeutsche erhebliche Einschränkungen im Alltag.</mp:caption>
+<mp:source>panthermedia, fotolia</mp:source>
+<mp:data>https://www.ndr.de/coronavirus360_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Virus schwebt vor einer Menschenmenge (Fotomontage)</mp:alt>
+<mp:caption>Um die Ausbreitung des Coronavirus zu verlangsamen, erleben Norddeutsche erhebliche Einschränkungen im Alltag.</mp:caption>
+<mp:source>panthermedia, fotolia</mp:source>
+<mp:data>https://www.ndr.de/coronavirus360_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Virus schwebt vor einer Menschenmenge (Fotomontage)</mp:alt>
+<mp:caption>Um die Ausbreitung des Coronavirus zu verlangsamen, erleben Norddeutsche erhebliche Einschränkungen im Alltag.</mp:caption>
+<mp:source>panthermedia, fotolia</mp:source>
+<mp:data>https://www.ndr.de/coronavirus360_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Virus schwebt vor einer Menschenmenge (Fotomontage)</mp:alt>
+<mp:caption>Um die Ausbreitung des Coronavirus zu verlangsamen, erleben Norddeutsche erhebliche Einschränkungen im Alltag.</mp:caption>
+<mp:source>panthermedia, fotolia</mp:source>
+<mp:data>https://www.ndr.de/coronavirus360_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein Virus schwebt vor einer Menschenmenge (Fotomontage)</mp:alt>
+<mp:caption>Um die Ausbreitung des Coronavirus zu verlangsamen, erleben Norddeutsche erhebliche Einschränkungen im Alltag.</mp:caption>
+<mp:source>panthermedia, fotolia</mp:source>
+<mp:data>https://www.ndr.de/coronavirus360_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+</item><item rdf:about="https://www.ndr.de/nachrichten/hamburg/coronavirus/Corona-Diese-Regeln-gelten-momentan-in-Hamburg,coronavirus2248.html">
+<title>Corona: Diese Regeln gelten momentan in Hamburg</title>
+<link>https://www.ndr.de/nachrichten/hamburg/coronavirus/Corona-Diese-Regeln-gelten-momentan-in-Hamburg,coronavirus2248.html</link>
+<description>Seit dem 30. April ist auch Hamburg kein Corona-Hotspot mehr. Damit gelten nur noch wenige Corona-Regeln. </description>
+<dc:type>Artikel</dc:type>
+<dc:date>2022-05-09T11:31:58.278+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>coronavirus2248</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>Corona, Coronavirus, Hamburg, neue Regeln, Lockdown, Regelungen, Lockerungen, Maßnahmen, Maskenpflicht, Quarantäne</mp:keywords>
+<mp:topline>Coronavirus</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Menschen sitzen auf Bänken und genießen den Sonnenschein an den Landungsbrücken im Hafen.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa </mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/elbphilharmonie2914_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Menschen sitzen auf Bänken und genießen den Sonnenschein an den Landungsbrücken im Hafen.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa </mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/elbphilharmonie2914_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Menschen sitzen auf Bänken und genießen den Sonnenschein an den Landungsbrücken im Hafen.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa </mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/elbphilharmonie2914_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Menschen sitzen auf Bänken und genießen den Sonnenschein an den Landungsbrücken im Hafen.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa </mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/elbphilharmonie2914_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Menschen sitzen auf Bänken und genießen den Sonnenschein an den Landungsbrücken im Hafen.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa </mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/elbphilharmonie2914_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Menschen sitzen auf Bänken und genießen den Sonnenschein an den Landungsbrücken im Hafen.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa </mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/elbphilharmonie2914_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Menschen sitzen auf Bänken und genießen den Sonnenschein an den Landungsbrücken im Hafen.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa </mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/elbphilharmonie2914_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Menschen sitzen auf Bänken und genießen den Sonnenschein an den Landungsbrücken im Hafen.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa </mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/elbphilharmonie2914_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+</item><item rdf:about="https://www.ndr.de/nachrichten/hamburg/coronavirus/Maskenpflicht-in-Hamburg-Wo-und-wann,maskenpflicht580.html">
+<title>Maskenpflicht in Hamburg: Wo und wann?</title>
+<link>https://www.ndr.de/nachrichten/hamburg/coronavirus/Maskenpflicht-in-Hamburg-Wo-und-wann,maskenpflicht580.html</link>
+<description>FFP2 oder medizinische Masken sind in Hamburg nur noch in wenigen Bereichen des öffentlichen Lebens vorgeschrieben.</description>
+<dc:type>Artikel</dc:type>
+<dc:date>2022-05-05T00:01:00.548+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>maskenpflicht580</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>Hamburg, Maskenpflicht, Ende, aufgehoben, Innenstadt, Mönckebergstraße, Altona, Ottensen, Sternschanze, Schanze, Schulterblatt, St. Pauli, Reeperbahn, Winterhude</mp:keywords>
+<mp:topline>Coronavirus</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Ein junger Mann trägt eine FFP2-Maske.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa | Frank Rumpenhorst</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/maske366_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein junger Mann trägt eine FFP2-Maske.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa | Frank Rumpenhorst</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/maske366_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein junger Mann trägt eine FFP2-Maske.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa | Frank Rumpenhorst</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/maske366_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein junger Mann trägt eine FFP2-Maske.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa | Frank Rumpenhorst</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/maske366_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein junger Mann trägt eine FFP2-Maske.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa | Frank Rumpenhorst</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/maske366_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein junger Mann trägt eine FFP2-Maske.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa | Frank Rumpenhorst</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/maske366_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein junger Mann trägt eine FFP2-Maske.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa | Frank Rumpenhorst</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/maske366_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Ein junger Mann trägt eine FFP2-Maske.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>picture alliance/dpa | Frank Rumpenhorst</mp:source>
+<mp:data>https://www.ndr.de/nachrichten/hamburg/maske366_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+</item><item rdf:about="https://www.ndr.de/fernsehen/sendungen/nordtour/Japanische-Einkaufstour-in-Hamburg,nordtour16592.html">
+<title>Japanische Einkaufstour in Hamburg</title>
+<link>https://www.ndr.de/fernsehen/sendungen/nordtour/Japanische-Einkaufstour-in-Hamburg,nordtour16592.html</link>
+<description>Ein Streifzug zu japanischer Designkultur und schönen Dingen, japanischer Mode und japanischen Gaumenfreuden. </description>
+<dc:type>Video</dc:type>
+<dc:date>2022-05-08T09:42:57.317+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>nordtour16592</dc:identifier>
+<dc:source>VPMS</dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>Ausflugstipps, Japan, Hamburg, Einkaufstour, Masatoshi Fukue</mp:keywords>
+<mp:topline>Nordtour</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Masatoshi Fukue in seinem japnaischen Feinkostladen. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334092_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Masatoshi Fukue in seinem japnaischen Feinkostladen. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334092_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Masatoshi Fukue in seinem japnaischen Feinkostladen. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334092_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Masatoshi Fukue in seinem japnaischen Feinkostladen. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334092_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Masatoshi Fukue in seinem japnaischen Feinkostladen. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334092_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Masatoshi Fukue in seinem japnaischen Feinkostladen. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334092_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Masatoshi Fukue in seinem japnaischen Feinkostladen. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334092_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Masatoshi Fukue in seinem japnaischen Feinkostladen. </mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334092_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Logo der Sendung Nordtour</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR Markendesign</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/nordtour7162_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Logo der Sendung Nordtour</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR Markendesign</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/nordtour7162_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Logo der Sendung Nordtour</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR Markendesign</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/nordtour7162_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Logo der Sendung Nordtour</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR Markendesign</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/nordtour7162_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Logo der Sendung Nordtour</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR Markendesign</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/nordtour7162_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Logo der Sendung Nordtour</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR Markendesign</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/nordtour7162_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Logo der Sendung Nordtour</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR Markendesign</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/nordtour7162_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Logo der Sendung Nordtour</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR Markendesign</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/nordtour7162_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+<enc:enclosure rdf:resource="https://mediandr-a.akamaihd.net/progressive/2022/0507/TV-20220507-1427-5600.hd.mp4" enc:type="video/mp4" enc:length="92418432" />
+</item><item rdf:about="https://www.ndr.de/fernsehen/sendungen/nordtour/Ausstellung-Mein-Hamburg-an-der-Waterkant,nordtour16598.html">
+<title>Ausstellung "Mein Hamburg an der Waterkant"</title>
+<link>https://www.ndr.de/fernsehen/sendungen/nordtour/Ausstellung-Mein-Hamburg-an-der-Waterkant,nordtour16598.html</link>
+<description>Der Freiluftmaler Lars Möller zeigt zusammen mit Meike Lipp und André Krigar in der Galerie im Elysée Frühlings-Impressionen.</description>
+<dc:type>Video</dc:type>
+<dc:date>2022-05-08T09:43:15.535+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>nordtour16598</dc:identifier>
+<dc:source>VPMS</dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>Ausflugstipps, Freiluftmaler, Lars Möller,Meike Lipp, André Krigar, Galerie im Elysée, Ausstellung, Hamburg</mp:keywords>
+<mp:topline>Nordtour</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Freiluftmaler Lars Möller.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334132_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Freiluftmaler Lars Möller.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334132_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Freiluftmaler Lars Möller.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334132_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Freiluftmaler Lars Möller.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334132_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Freiluftmaler Lars Möller.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334132_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Freiluftmaler Lars Möller.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334132_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Freiluftmaler Lars Möller.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334132_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Freiluftmaler Lars Möller.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334132_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334126_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334126_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334126_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334126_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334126_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334126_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334126_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Screenshot NDR</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/screenshot1334126_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Logo der Sendung Nordtour</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR Markendesign</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/nordtour7162_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Logo der Sendung Nordtour</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR Markendesign</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/nordtour7162_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Logo der Sendung Nordtour</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR Markendesign</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/nordtour7162_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Logo der Sendung Nordtour</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR Markendesign</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/nordtour7162_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Logo der Sendung Nordtour</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR Markendesign</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/nordtour7162_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Logo der Sendung Nordtour</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR Markendesign</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/nordtour7162_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Logo der Sendung Nordtour</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR Markendesign</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/nordtour7162_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Logo der Sendung Nordtour</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR Markendesign</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/nordtour7162_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+<enc:enclosure rdf:resource="https://mediandr-a.akamaihd.net/progressive/2022/0507/TV-20220507-1436-3500.hd.mp4" enc:type="video/mp4" enc:length="91645056" />
+</item><item rdf:about="https://www.ndr.de/fernsehen/sendungen/die_nordstory/Das-dritte-Leben-der-Peking,dienordstory1208.html">
+<title>Das dritte Leben der "Peking"</title>
+<link>https://www.ndr.de/fernsehen/sendungen/die_nordstory/Das-dritte-Leben-der-Peking,dienordstory1208.html</link>
+<description>Die Viermastbark "Peking" kehrt 2020 restauriert und umjubelt nach Hamburg zurück. Ein einmaliges Projekt für die Beteiligten.</description>
+<dc:type>Video</dc:type>
+<dc:date>2022-05-06T21:18:36.598+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>dienordstory1208</dc:identifier>
+<dc:source>VPMS</dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>"Peking", Großsegler, Viermastbark, Blohm+Voss, Hamburg, Elbe, Sanierung</mp:keywords>
+<mp:topline>Die Nordstory</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Eine beleuchtetet Viermastbark am Anleger.</mp:alt>
+<mp:caption>Neue alte Heimat Hansahafen - Die "PEKING" am Abend des 7. September 2020 an ihrem endgültigen Liegeplatz in Hamburg.</mp:caption>
+<mp:source>NDR/Uli Patzwahl</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/sendungen/die_nordstory/peking2076_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Eine beleuchtetet Viermastbark am Anleger.</mp:alt>
+<mp:caption>Neue alte Heimat Hansahafen - Die "PEKING" am Abend des 7. September 2020 an ihrem endgültigen Liegeplatz in Hamburg.</mp:caption>
+<mp:source>NDR/Uli Patzwahl</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/sendungen/die_nordstory/peking2076_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Eine beleuchtetet Viermastbark am Anleger.</mp:alt>
+<mp:caption>Neue alte Heimat Hansahafen - Die "PEKING" am Abend des 7. September 2020 an ihrem endgültigen Liegeplatz in Hamburg.</mp:caption>
+<mp:source>NDR/Uli Patzwahl</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/sendungen/die_nordstory/peking2076_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Eine beleuchtetet Viermastbark am Anleger.</mp:alt>
+<mp:caption>Neue alte Heimat Hansahafen - Die "PEKING" am Abend des 7. September 2020 an ihrem endgültigen Liegeplatz in Hamburg.</mp:caption>
+<mp:source>NDR/Uli Patzwahl</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/sendungen/die_nordstory/peking2076_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Eine beleuchtetet Viermastbark am Anleger.</mp:alt>
+<mp:caption>Neue alte Heimat Hansahafen - Die "PEKING" am Abend des 7. September 2020 an ihrem endgültigen Liegeplatz in Hamburg.</mp:caption>
+<mp:source>NDR/Uli Patzwahl</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/sendungen/die_nordstory/peking2076_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Eine beleuchtetet Viermastbark am Anleger.</mp:alt>
+<mp:caption>Neue alte Heimat Hansahafen - Die "PEKING" am Abend des 7. September 2020 an ihrem endgültigen Liegeplatz in Hamburg.</mp:caption>
+<mp:source>NDR/Uli Patzwahl</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/sendungen/die_nordstory/peking2076_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Eine beleuchtetet Viermastbark am Anleger.</mp:alt>
+<mp:caption>Neue alte Heimat Hansahafen - Die "PEKING" am Abend des 7. September 2020 an ihrem endgültigen Liegeplatz in Hamburg.</mp:caption>
+<mp:source>NDR/Uli Patzwahl</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/sendungen/die_nordstory/peking2076_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Eine beleuchtetet Viermastbark am Anleger.</mp:alt>
+<mp:caption>Neue alte Heimat Hansahafen - Die "PEKING" am Abend des 7. September 2020 an ihrem endgültigen Liegeplatz in Hamburg.</mp:caption>
+<mp:source>NDR/Uli Patzwahl</mp:source>
+<mp:data>https://www.ndr.de/fernsehen/sendungen/die_nordstory/peking2076_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+<enc:enclosure rdf:resource="https://mediandr-a.akamaihd.net/progressive/2021/0423/TV-20210423-1054-0200.hd.mp4" enc:type="video/mp4" enc:length="1359595008" />
+</item><item rdf:about="https://www.ndr.de/nachrichten/hamburg/Kurztrips-und-Tagesreisen-mit-der-NDR-Hamburg-App-gewinnen,appverlosungkurztrips100.html">
+<title>Kurztrips und Tagesreisen mit der NDR Hamburg App gewinnen</title>
+<link>https://www.ndr.de/nachrichten/hamburg/Kurztrips-und-Tagesreisen-mit-der-NDR-Hamburg-App-gewinnen,appverlosungkurztrips100.html</link>
+<description>NDR 90,3 und das Hamburg Journal verlosen Kurzreisen nach Pellworm und Göteborg. Machen Sie mit!</description>
+<dc:type>Artikel</dc:type>
+<dc:date>2022-05-06T17:50:11.463+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>appverlosungkurztrips100</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>Hamburg, NDR Hamburg App, NDR 90,3, Hamburg Journal, Verlosung, Gewinnspiel, Kurztrip, Tagesreise, Helgoland, Pellworm, Göteborg</mp:keywords>
+<mp:topline>Hamburg</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Die Nordermühle auf Pellworm</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>pellworm.de</mp:source>
+<mp:data>https://www.ndr.de/ratgeber/reise/inseln/pellwormmuehle100_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Nordermühle auf Pellworm</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>pellworm.de</mp:source>
+<mp:data>https://www.ndr.de/ratgeber/reise/inseln/pellwormmuehle100_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Nordermühle auf Pellworm</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>pellworm.de</mp:source>
+<mp:data>https://www.ndr.de/ratgeber/reise/inseln/pellwormmuehle100_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Nordermühle auf Pellworm</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>pellworm.de</mp:source>
+<mp:data>https://www.ndr.de/ratgeber/reise/inseln/pellwormmuehle100_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Nordermühle auf Pellworm</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>pellworm.de</mp:source>
+<mp:data>https://www.ndr.de/ratgeber/reise/inseln/pellwormmuehle100_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Nordermühle auf Pellworm</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>pellworm.de</mp:source>
+<mp:data>https://www.ndr.de/ratgeber/reise/inseln/pellwormmuehle100_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Nordermühle auf Pellworm</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>pellworm.de</mp:source>
+<mp:data>https://www.ndr.de/ratgeber/reise/inseln/pellwormmuehle100_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Nordermühle auf Pellworm</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>pellworm.de</mp:source>
+<mp:data>https://www.ndr.de/ratgeber/reise/inseln/pellwormmuehle100_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+</item><item rdf:about="https://www.ndr.de/903/podcast5238.html">
+<title>Die Polizeireporter</title>
+<link>https://www.ndr.de/903/podcast5238.html</link>
+<description>Kai Salander und Ingmar Schmidt berichten von ihren spannenden Erlebnissen als Polizeireporter in Hamburg – dem "Tor zur Unterwelt".</description>
+<dc:type></dc:type>
+<dc:date>2022-05-03T00:01:17.134+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>podcast5238</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>Polizei, Polizeireporter, Hamburg, Polizist</mp:keywords>
+<mp:topline>NDR 90,3</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Die Polizeireporter</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Markendesign</mp:source>
+<mp:data>https://www.ndr.de/903/polizeireporter104_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Polizeireporter</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Markendesign</mp:source>
+<mp:data>https://www.ndr.de/903/polizeireporter104_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Polizeireporter</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Markendesign</mp:source>
+<mp:data>https://www.ndr.de/903/polizeireporter104_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Polizeireporter</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Markendesign</mp:source>
+<mp:data>https://www.ndr.de/903/polizeireporter104_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Polizeireporter</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Markendesign</mp:source>
+<mp:data>https://www.ndr.de/903/polizeireporter104_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Polizeireporter</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Markendesign</mp:source>
+<mp:data>https://www.ndr.de/903/polizeireporter104_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Polizeireporter</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Markendesign</mp:source>
+<mp:data>https://www.ndr.de/903/polizeireporter104_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Polizeireporter</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Markendesign</mp:source>
+<mp:data>https://www.ndr.de/903/polizeireporter104_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+</item><item rdf:about="https://www.ndr.de/903/podcasts/podcast5108.html">
+<title>"Feel Hamburg"</title>
+<link>https://www.ndr.de/903/podcasts/podcast5108.html</link>
+<description>Britta Kehrhahn und Daniel Kaiser sprechen mit Menschen aus der Stadt, die etwas zu erzählen haben.</description>
+<dc:type></dc:type>
+<dc:date>2022-05-05T13:41:37.381+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>podcast5108</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>NDR, Hamburg, Britta Kehrhahn, Daniel Kaiser, Interview, Elbe, Hafen, Stadtleben, Urbanität</mp:keywords>
+<mp:topline>Podcasts</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Eine Frau isst ein Brötchen im Hamburger Hafen.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/mediathek/mediathekbild514_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Eine Frau isst ein Brötchen im Hamburger Hafen.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/mediathek/mediathekbild514_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Eine Frau isst ein Brötchen im Hamburger Hafen.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/mediathek/mediathekbild514_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Eine Frau isst ein Brötchen im Hamburger Hafen.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/mediathek/mediathekbild514_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Eine Frau isst ein Brötchen im Hamburger Hafen.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/mediathek/mediathekbild514_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Eine Frau isst ein Brötchen im Hamburger Hafen.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/mediathek/mediathekbild514_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Eine Frau isst ein Brötchen im Hamburger Hafen.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/mediathek/mediathekbild514_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Eine Frau isst ein Brötchen im Hamburger Hafen.</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>Fotolia</mp:source>
+<mp:data>https://www.ndr.de/mediathek/mediathekbild514_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+</item><item rdf:about="https://www.ndr.de/903/podcast4778.html">
+<title>Hamburg Heute - Nachrichten Podcast</title>
+<link>https://www.ndr.de/903/podcast4778.html</link>
+<description>Was war heute in Hamburg los? Der Nachrichten-Podcast "Hamburg Heute" von NDR 90,3 bringt die Hörerinnen und Hörer montags bis freitags ab 17 Uhr auf den neuesten Stand. </description>
+<dc:type></dc:type>
+<dc:date>2022-05-09T16:40:13.249+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>podcast4778</dc:identifier>
+<dc:source></dc:source>
+<dc:language>de</dc:language>
+<dc:publisher>ndr.de</dc:publisher>
+<dc:rights>ndr.de. Alle Rechte vorbehalten.</dc:rights>
+<dc:subject></dc:subject>
+<dcterms:audience>all</dcterms:audience>
+<dcterms:isFormatOf rdf:resource="" />
+<mp:keywords>Hamburg, Nachrichten, Oliver Wutke, Maiken Nielsen, Reportagen, Journalismus, NDR, Hamburg Heute</mp:keywords>
+<mp:topline>NDR 90,3</mp:topline>
+<mp:states />
+<mp:image>
+<mp:alt>Die Grafik der Elbphilharmonie</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR Markendesign</mp:source>
+<mp:data>https://www.ndr.de/mediathek/podcast4792_v-contentgross.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>320</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Grafik der Elbphilharmonie</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR Markendesign</mp:source>
+<mp:data>https://www.ndr.de/mediathek/podcast4792_v-dreispaltig.jpg</mp:data>
+<mp:width>568</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Grafik der Elbphilharmonie</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR Markendesign</mp:source>
+<mp:data>https://www.ndr.de/mediathek/podcast4792_v-zweispaltig.jpg</mp:data>
+<mp:width>376</mp:width>
+<mp:height>212</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Grafik der Elbphilharmonie</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR Markendesign</mp:source>
+<mp:data>https://www.ndr.de/mediathek/podcast4792_v-einspaltig.jpg</mp:data>
+<mp:width>184</mp:width>
+<mp:height>104</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Grafik der Elbphilharmonie</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR Markendesign</mp:source>
+<mp:data>https://www.ndr.de/mediathek/podcast4792_v-contentklein.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Grafik der Elbphilharmonie</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR Markendesign</mp:source>
+<mp:data>https://www.ndr.de/mediathek/podcast4792_v-ardteaserwidescreen.jpg</mp:data>
+<mp:width>256</mp:width>
+<mp:height>144</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Grafik der Elbphilharmonie</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR Markendesign</mp:source>
+<mp:data>https://www.ndr.de/mediathek/podcast4792_v-ardgrosswidescreen.jpg</mp:data>
+<mp:width>512</mp:width>
+<mp:height>288</mp:height>
+</mp:image>
+<mp:image>
+<mp:alt>Die Grafik der Elbphilharmonie</mp:alt>
+<mp:caption></mp:caption>
+<mp:source>NDR Markendesign</mp:source>
+<mp:data>https://www.ndr.de/mediathek/podcast4792_v-contentwidescreen.jpg</mp:data>
+<mp:width>192</mp:width>
+<mp:height>108</mp:height>
+</mp:image>
+</item>
+</rdf:RDF>

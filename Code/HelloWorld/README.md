@@ -1,0 +1,6 @@
+# Variables
+
+Mainly:
+
+* SyntaxError
+* NameError

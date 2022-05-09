@@ -7,4 +7,8 @@ Essentials:
 
 * [Library Carpentry Python Intro](https://librarycarpentry.org/lc-python-intro/)
 
+## Exposure
 
+Some concepts that may have been used in the past:
+
+*
