@@ -79,7 +79,17 @@ Date range: 2021-11-09 - 2022-05-08
 
 * just curious: [https://pypistats.org/packages/marcx](https://pypistats.org/packages/marcx), [https://pypistats.org/packages/pymarc](https://pypistats.org/packages/pymarc), ...
 
-Examples:
+## Anatomy
+
+* imports
+* functions
+* other modularization units, like classes
+* comments
+
+Python is a dynamically typed language. We have less to write but may not see,
+what the type of a variable is (and what operations it supports).
+
+## Examples:
 
 * generating HTML
 
@@ -89,7 +99,7 @@ Examples:
 * [Jinja](https://jinja.palletsprojects.com/en/3.1.x/templates/#synopsis) template example
 * [Code/TemplateExample/](Code/TemplateExample)
 
-## Examples
+## More Examples
 
 * [Code/HelloWorld/](Code/HelloWorld/)
 * [Code/Variables/](Code/Variables/)
