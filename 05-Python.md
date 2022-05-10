@@ -79,17 +79,7 @@ Date range: 2021-11-09 - 2022-05-08
 
 * just curious: [https://pypistats.org/packages/marcx](https://pypistats.org/packages/marcx), [https://pypistats.org/packages/pymarc](https://pypistats.org/packages/pymarc), ...
 
-## Anatomy
-
-* imports
-* functions
-* other modularization units, like classes
-* comments
-
-Python is a dynamically typed language. We have less to write but may not see,
-what the type of a variable is (and what operations it supports).
-
-## Examples:
+## Example Reuse
 
 * generating HTML
 
@@ -99,10 +89,44 @@ what the type of a variable is (and what operations it supports).
 * [Jinja](https://jinja.palletsprojects.com/en/3.1.x/templates/#synopsis) template example
 * [Code/TemplateExample/](Code/TemplateExample)
 
+## Program Anatomy
+
+* imports
+* functions
+* other modularization units, like classes
+* comments
+
+Python is a dynamically typed language. We have less to write but may not see,
+what the type of a variable is (and what operations it supports).
+
+Execution visualization:
+
+* [https://pythontutor.com/](https://pythontutor.com/)
+
+Python code runs:
+
+* in a terminal (or a shell)
+* in a python repl
+* in a jupyter notebook
+* in the browser (e.g. [pyscript](https://github.com/pyscript/pyscript))
+* embedded in another application (e.g. [blender](https://docs.blender.org/api/current/info_overview.html#python-in-blender)) 
+
 ## More Examples
+
+### Researching Code Solutions
+
+* [Python Documentation](https://docs.python.org/3/library/index.html)
+* [Questions Tagged Python](https://stackoverflow.com/questions/tagged/python)
+
+Try things out in a REPL!
+
+* [IPython](https://ipython.org/documentation.html)
+
+### Review and Tasks
 
 * [Code/HelloWorld/](Code/HelloWorld/)
 * [Code/Variables/](Code/Variables/)
 * [Code/Lists/](Code/Lists/)
+* [Code/Dictionary/](Code/Dictionary/)
+* [Code/MARC21/](Code/MARC21/)
 * [Code/WordFrequencies/](Code/WordFrequencies/)
-
