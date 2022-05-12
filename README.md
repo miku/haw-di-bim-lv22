@@ -3,7 +3,7 @@
 > LV2.2: Werkstatt *Coding/Webtechnologien*
 
 Veranstaltung im Rahmen des Studiums [BA Bibliotheks- und
-Informationsmanagement](https://www.haw-hamburg.de/fileadmin/DMI-I/PDF/BIM/Modulhandbuch_BIM_2021-02-24.pdf);
+Informationsmanagement](https://web.archive.org/web/20210715105451/https://www.haw-hamburg.de/fileadmin/DMI-I/PDF/BIM/Modulhandbuch_BIM_2021-02-24.pdf);
 Modul B2: IT-Grundlagen und Coding
 
 > My younger son said "coding is basically just ifs and for loops."--
