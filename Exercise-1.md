@@ -20,7 +20,7 @@ The command line remains an essential tool
 > TECHNOLOGY FEATURE, 02 February 2021
 
 There are classic tools which go back to the 1970s and are still popular today
-and new tools.
+as well as new tools.
 
 ### Voices from the Internet
 
@@ -28,7 +28,7 @@ and new tools.
 
 * [a 7yo thread](https://www.reddit.com/r/learnprogramming/comments/3beyjn/why_is_learning_the_command_line_important/)
 
-> Essentially, it allows you to do stuff faster then GUI AND provides an amazing **automation** support built in.
+> Essentially, it allows you to do stuff faster than GUI AND provides an amazing **automation** support built in.
 
 A longer take:
 
@@ -43,5 +43,4 @@ A key skill.
 
 > I have done web development. Without proficiency in the commandline, I would
 > not have been nearly as proficient a web developer.
-
 
