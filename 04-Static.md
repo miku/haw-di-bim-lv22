@@ -1,10 +1,8 @@
 # Static Site Generators
 
-Static site generators (SSG) have become a popular choice to manage content.
+Static site generators (SSG) have become popular for content management, because:
 
-It became popular because:
-
-* more people learned a markup language beside HTML, like textile or markdown
+* more people learned a markup language beside HTML, like [textile](https://textile-lang.com/), [markdown](https://en.wikipedia.org/wiki/Markdown) or [RST](https://en.wikipedia.org/wiki/ReStructuredText)
 * text is easier to version control
 * easier deployment
 * fewer resources to maintain
