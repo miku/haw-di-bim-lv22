@@ -1,0 +1,63 @@
+{
+  "linkedTo" : {
+    "id" : "http://lobid.org/organisations/DE-601#!",
+    "label" : "Verbundzentrale des GBV (VZG)"
+  },
+  "rs" : "020000000000",
+  "telephone" : "0049 40 4 28 75-4631",
+  "alternateName" : [ "Hamburg FB DMI" ],
+  "mainEntityOfPage" : {
+    "dateCreated" : "18-11-99",
+    "dateModified" : "22-02-21",
+    "id" : "http://lobid.org/organisations/DE-18-285"
+  },
+  "type" : "Library",
+  "classification" : {
+    "id" : "http://purl.org/lobid/libtype#n73",
+    "type" : "Concept",
+    "label" : {
+      "de" : "Abteilungsbibliothek, Fachbereichsbibliothek (Hochschule, nicht Universität)",
+      "en" : "College's Departement Library, Faculty Library (not University)"
+    }
+  },
+  "@context" : "http://lobid.org/organisations/context.jsonld",
+  "name" : "Hochschule für Angewandte Wissenschaften Hamburg, Hochschulinformations- und Bibliotheksservice (HIBS), Fachbibliothek Design Medien Information",
+  "containedIn" : "http://sws.geonames.org/7602585/",
+  "location" : [ {
+    "type" : "Place",
+    "address" : {
+      "postalCode" : "22081",
+      "streetAddress" : "Finkenau 35",
+      "addressLocality" : "Hamburg",
+      "addressCountry" : "DE",
+      "type" : "PostalAddress"
+    },
+    "geo" : {
+      "lat" : "53.56942",
+      "lon" : "10.03461"
+    }
+  } ],
+  "id" : "http://lobid.org/organisations/DE-18-285#!",
+  "isil" : "DE-18-285",
+  "fundertype" : {
+    "id" : "http://purl.org/lobid/fundertype#n02",
+    "type" : "Concept",
+    "label" : {
+      "de" : "Land",
+      "en" : "Federal State"
+    }
+  },
+  "collects" : {
+    "type" : "Collection",
+    "extent" : {
+      "id" : "http://purl.org/lobid/stocksize#n06",
+      "type" : "Concept",
+      "label" : {
+        "de" : "10.001 - 30.000",
+        "en" : "10,001 - 30,000"
+      }
+    }
+  },
+  "email" : "mailto:fachbib.dmi@haw-hamburg.de",
+  "sameAs" : [ "http://ld.zdb-services.de/resource/organisations/DE-18-285" ]
+}

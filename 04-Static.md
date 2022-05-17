@@ -206,3 +206,44 @@ public/
 
 4 directories, 8 files
 ```
+
+----
+
+## Deployment
+
+We can work locally, then deploy our generated site to a remote server.
+
+General steps:
+
+* develop and test locally
+* build site
+* deploy site (copy to remote server)
+
+Specifically:
+
+> Replace "username" with your username (e.g. u1234567) and server with "exacloud.cc" - you will be prompted for your password.
+
+```shell
+$ zola build
+$ rsync -avz public/* username@server:/home/username/public_html/
+```
+
+### Notes
+
+#### Changing password
+
+You can change your password anytime with the `passwd` command - it will ask for
+your current password and for a new password and a confirmation
+
+#### Remote access
+
+With a user account on a remote server, you can access the server with a secure
+shell (ssh). The general command would be:
+
+```shell
+$ ssh username@server
+```
+
+After that, you will be dropped into a shell. The remote server is a Linux
+server, very similar in structure to the (virtualized) Linux operating system
+you may be using.

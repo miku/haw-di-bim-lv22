@@ -130,3 +130,58 @@ Try things out in a REPL!
 * [Code/Dictionary/](Code/Dictionary/)
 * [Code/MARC21/](Code/MARC21/)
 * [Code/WordFrequencies/](Code/WordFrequencies/)
+
+### Mob Programming
+
+Let's try to code together.
+
+#### Sequence 1
+
+1. Create a variable that holds a string
+2. Create a variable that holds an integer
+3. Can we add them together?
+4. How can we iterate over the characters in a string?
+5. How can we uppercase every vowel?
+6. How could we uppercase every second letter?
+
+#### Sequence 2
+
+1. Create a variable that holds a list of strings
+2. Create a another variable that holds a list of string (with some overlap to 1.)
+3. Write a function that takes two lists as arguments and returns a list of the common elements.
+4. Is there a better way to do this?
+
+#### Sequence 3
+
+1. Create a dictionary with string keys and values, e.g. map countries to capitols, like "France" -> "Paris", "Germany" -> "Berlin", ...
+2. Iterate over all keys and values and print out one country and capital per line, separated by a tab character.
+
+
+#### Sequence 4
+
+1. Create a variable that holds a list of strings
+2. Iterate over the list and print out one string per line
+3. Prefix each line with the current date, e.g. in "2022-05-17" format (make it so that each time the script is run, the current date is used)
+
+#### Sequence 5
+
+Fibonacci sequence.
+
+The fibonacci sequence is a sequence of numbers ((https://oeis.org/A000045)[https://oeis.org/A000045]).
+
+> 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, ...
+
+Write a function that given a number n, returns the nth number in the fibonacci sequence.
+
+Example:
+
+    >>> fibonacci(5)
+    5
+    >>> fibonacci(10)
+    55
+
+### Discussion
+
+Problem: What was the average number of visitors per exhibition per German state in the year 2016?
+
+> Discuss possible way to answer this question.
