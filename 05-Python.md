@@ -131,6 +131,12 @@ Try things out in a REPL!
 * [Code/MARC21/](Code/MARC21/)
 * [Code/WordFrequencies/](Code/WordFrequencies/)
 
+### Reading code
+
+What are the following code snippets doing?
+
+> [Code/Labs/](Code/Labs)
+
 ### Mob Programming
 
 Let's try to code together.
