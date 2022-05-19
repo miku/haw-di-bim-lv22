@@ -57,7 +57,7 @@ networks of communications**, **process text**, **generate and manipulate
 images and sounds**, **fly air and space craft**, and so on.
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/5/52/Monitor_Commodore_CBM_3016_with_BASIC_program-0309.jpg)
+![](static/Monitor_Commodore_CBM_3016_with_BASIC_program-0309.jpg)
 
 
 > Question: In which situations do you think insights into software development and programming could be helpful?
@@ -197,7 +197,7 @@ From: [https://en.wikipedia.org/wiki/Linux](https://en.wikipedia.org/wiki/Linux)
 > computer or a computing system. The teletype was an example of an early day
 > hardcopy terminal, and predated the use of a computer screen by decades.
 
-![](https://upload.wikimedia.org/wikipedia/commons/5/50/Bundesarchiv_Bild_183-2008-0516-500%2C_Fernschreibmaschine_mit_Telefonanschluss.jpg)
+![](static/Bundesarchiv_Bild_183-2008-0516-500,_Fernschreibmaschine_mit_Telefonanschluss.jpg)
 
 ## Command Line
 
