@@ -1,6 +1,6 @@
 # Intro
 
-![](https://i.imgur.com/78kHiAq.png)
+![](static/78kHiAq.png)
 
 See: [Introduction to computer data processing](https://archive.org/details/introductiontoco0000wuma_k0n6/page/n5/mode/2up) (1975)
 
