@@ -207,6 +207,16 @@ public/
 4 directories, 8 files
 ```
 
+Note that we have a well-rounded site with HTML, robots.txt and sitemap.xml.
+
+* [Robot exclusion standard](https://en.wikipedia.org/wiki/Robots_exclusion_standard)
+* [Sitemaps](https://en.wikipedia.org/wiki/Sitemaps)
+
+A few more things we could add:
+
+* [Web feeds](https://en.wikipedia.org/wiki/Web_feed)
+* Site search (client side, example: [https://adidoks.netlify.app/](https://adidoks.netlify.app/))
+
 ----
 
 ## Deployment
