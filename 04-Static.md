@@ -217,6 +217,18 @@ A few more things we could add:
 * [Web feeds](https://en.wikipedia.org/wiki/Web_feed)
 * Site search (client side, example: [https://adidoks.netlify.app/](https://adidoks.netlify.app/))
 
+## Programmability
+
+* the site is static and transparent: it's made of files and directories
+* we can generate files with code
+* hence: our static site become "programmable", we can write programs that write pages for us, which we can publish
+
+Imagine:
+
+A weekly, "what is new this week" kind of page: collect data from some backend
+system about new publications, use a template to write a markdown "content"
+file (e.g. generate tables) and then put this file into your project.
+
 ----
 
 ## Deployment

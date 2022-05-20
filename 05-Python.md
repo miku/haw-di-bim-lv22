@@ -109,7 +109,7 @@ Python code runs:
 * in a python repl
 * in a jupyter notebook
 * in the browser (e.g. [pyscript](https://github.com/pyscript/pyscript))
-* embedded in another application (e.g. [blender](https://docs.blender.org/api/current/info_overview.html#python-in-blender)) 
+* embedded in another application (e.g. [blender](https://docs.blender.org/api/current/info_overview.html#python-in-blender))
 
 ## More Examples
 
