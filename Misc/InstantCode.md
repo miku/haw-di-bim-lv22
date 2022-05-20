@@ -4,7 +4,7 @@ It has been getting easier to just run some code on some machine without much
 else than a web browser. Examples include:
 
 * [Jupyter](https://jupyter.org/), and Jupyter Lab, which includes Notebooks, Scripts, a Terminal and more
-* Online IDEs like [repl.it](https//repl.it),
+* Online IDEs like [repl.it](https://repl.it),
   [Skulpt](https://skulpt.org/gallery.html),
   [playcode](https://playcode.io/javascript),
   [vscode.dev/](https://vscode.dev/), [Glitch.com](https://glitch.com/),
