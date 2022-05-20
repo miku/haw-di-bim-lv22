@@ -20,12 +20,9 @@ for line in fileinput.input():
             continue
         freq[t] += 1
 
-total, estimated_vocabulary_size = 0, 0
-for word, freq in freq.most_common():
-    if freq < 5:
+for word, f in freq.most_common():
+    if f < 5:
         continue
-    total += freq
-    estimated_vocabulary_size += 1
-    print("{: 8d}\t{}".format(freq, word))
+    print("{: 8d}\t{}".format(f, word))
 
-print(f"total words: {total} and estimated vocabulary size: {estimated_vocabulary_size}")
+print(f"estimated vocabulary size: {len(freq)}")
