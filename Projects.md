@@ -81,6 +81,8 @@ ableitbaren Informationen, wie Anzahl der Datensätze, Encoding-Fehler, ...)
 
 ### Beispiele
 
+...
+
 ## Idee E: Accessibility Report
 
 Ziel: Existierende Seiten (aus dem GLAM Bereich) auf Accessibility und Nutzung
@@ -119,6 +121,8 @@ Abgabeformat:
 * Abgabe von erhobenen Daten, falls diese vorliegen
 
 ### Beispiele
+
+...
 
 ## Idee F: Free Form Project
 
