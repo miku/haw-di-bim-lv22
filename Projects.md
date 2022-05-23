@@ -20,6 +20,10 @@ Varianten:
 
 * einmaliges Erstellen eines Datensatzes oder auch Möglichkeit für Updates
 
+### Beispiele
+
+* [Wikipedia Citations](https://github.com/Harshdeep1996/cite-classifications-wiki), "A comprehensive dataset of citations with identifiers extracted from English Wikipedia"
+
 ## Idee B: Publikationspipeline
 
 Ziel: ein Program, das aus einer Menge an Input-Dokumenten eine oder mehrere
@@ -40,6 +44,10 @@ Für dieses Projekt könnten auch Erweiterungen an existitierenden Tools in Betr
 Funktionalität erweitert werden: [Filters](https://pandoc.org/filters.html)
 * [Hugo](https://gohugo.io/) ist ein static site generator
 
+### Beispiele
+
+* ...
+
 ## Idee C: Daten-Intensive Applikation
 
 Ziel: Zwei oder mehr (größere) Datensätze verknüpfen und ggfs. analysieren,
@@ -52,6 +60,10 @@ Resultat als Report, Web Applikation oder Webseite publizieren.
 * Daten der Wikipedia analysieren; z.B. Anzahl der zitierten Publikationen
 * Daten der Wikipedia analysieren; z.B. Anzahl der zitierten Publikationen und
   Empfehlungen für Literatur basierend auf Inhalt eines Artikels generieren
+
+### Beispiele
+
+* ...
 
 ## Idee D: Interaktive Web Applikation
 
@@ -66,6 +78,8 @@ ableitbaren Informationen, wie Anzahl der Datensätze, Encoding-Fehler, ...)
 * eine Seite zum Kollaborativen Filtern von Inhalten (s.a. "reddit algorithmus")
 * eine Seite zum Teilen von bestimmten Inhalten (z.B. Seite für das Teilen von Bildern zu technischen Themen)
 * eine semi-statische Frage/Antwort Seite - Testaufgaben als Markup formuliert, als Web-Applikation implementiert
+
+### Beispiele
 
 ## Idee E: Accessibility Report
 
@@ -86,10 +100,92 @@ Mögliches Format:
 * Zusammenstellung von Alternativen und Verbesserungsvorschlägen, falls möglich
 * Erstellung eines Berichtes mit allen relevanten Informationen
 
+Mögliche Metriken:
+
+* URL-Struktur
+* Sind URL stabil? s.a. [Cool URIs don't change](https://www.w3.org/Provider/Style/URI)
+* Welche Inhalte sind verlinkbar? In welcher Granularität? (als Beispiel können Sie an YouTube denken, wo z.B. Videos inklusive Start-Zeit, verlinkt werden können ([Beispiel](https://youtu.be/o8NPllzkFhE?t=12)))
+* Werden [semantische Auszeichnungen](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#semantic_elements) genutzt?
+* Wie schnell lädt die Seite?
+* Wie viele Anfragen löst die Seite aus?
+* Sind Bilder und andere Assets optimiert?
+
+Abgabeformat:
+
+* Ausarbeitung (max 8 Seiten) welche folgende Punkte enthält:
+    * Welche Tools kamen zur Prüfung zu Einsatz? Begründung der Auswahl, ggfs. Vorteile/Nachteile
+    * Wie schneidet die untersuchte Seite/Domain ab?
+    * Welche Verbesserungsvorschläge kann man formulieren?
+* Abgabe von erhobenen Daten, falls diese vorliegen
+
+### Beispiele
 
 ## Idee F: Free Form Project
 
 Ziel: Design und Implementierung einer Software-Applikation. Frei wählbares Thema.
+
+### Beispiele
+
+#### Datenanalyse
+
+Analyse eines Datensatzes aus dem Bereich GLAM, z.B. eines der Datensätze von
+Coding da Vinci [Coding da Vinci](https://codingdavinci.de/de/daten) -- es muß
+hier **kein** Beitrag zu dem Wettbewerb eingereicht werden; es geht um einen
+wichtigen ersten Schritt in der Arbeit mit Daten: Verständnis. Dazu müssen die
+Daten geladen, bereinigt, aufbereitet und eventuell auch visualisiert werden.
+
+Abgabeformat:
+
+* **Rohdatensatz**
+* ein (oder mehrere) **Jupyter-Notebooks** die anhand der Rohdaten bestimmte Fragen beantworten
+
+Beispiele für Fragen an Daten:
+
+* Welchen Typ haben bestimmte Werte? Das können Datentypen (aus der Programmierung) oder auch [Skalenniveaus](https://de.wikipedia.org/wiki/Skalenniveau)
+* Woher stammen die Daten?
+* Wie vollständig sind die Daten?
+* Welchen Ausschnitt repräsentieren die Daten?
+* Fehlstellen in den Daten?
+* Fehlende Informationen, z.B. fehlende Einheiten?
+* ...
+
+Manchmal ist es notwendig, bestimmte Daten zu Gruppieren (z.B. verschiedene
+Schreibweise eines Names zu normalisieren). Dazu eigenen sich u.a. Tools wie [OpenRefine](https://openrefine.org/) oder auch [Pandas](https://pandas.pydata.org/).
+
+
+#### Implementierung eines Text-Adventures
+
+[Interactive Fiction](https://de.wikipedia.org/wiki/Interactive_Fiction) ist
+ein Computer-Spiel-Genre, in der die Spielwelt in Textform vermittelt und
+Spieler über ihre Aktionen die Handlung beeinflussen.
+
+Ein Text-Adventure besteht aus einer Welt, durch die eine Figur navigieren
+kann, Dinge sieht, Gegenstände findet, auf andere Figuren oder Rätsel trifft.
+
+Aufgabe wäre die Implementierung eines einfachen Text-Adventures mit Hilfe der
+Programmiersprache Python. Python ist sehr gut für die Arbeit mit Text geeignet.
+
+Abgabeformat:
+
+* eine **Programmdatei** `game.py`, die ausführbar ist
+* eine Kurzdokumentation der wichtigsten Entscheidungen hinsichtlich der Implementierung (max 3 Seiten)
+
+#### Design, Implementierung und Veröffentlichung einer Webseite mit einem SSG
+
+Static Site Generators bieten die Möglichkeit ein komplettes Web-Projekt in kurzer Zeit zu realisieren.
+
+Aufgabe:
+
+* Wählen Sie ein Thema ihrer Wahl, welches Sie mittels eines Webprojektes veröffentlichen wollen
+* Nutzen sie [zola](https://www.getzola.org/) (oder ein andere SSG tool) zur Strukturierung Ihres Projektes
+* Erstellen Sie einige Seiten für den Inhalt (z.B. einen Blog, eine Beschreibung ihres Themas, etc.)
+* Passen Sie die Seite visuell an, nutzen Sie ein existierendes [Theme](https://www.getzola.org/themes/) oder passen Sie eigene Templates an
+* Veröffentlichen Sie die Seite (z.B. via exacloud)
+
+Abgabeformat:
+
+* eine zip-Datei, die alle Dateien und Verzeichnisse des Projektes enthält
+
 
 ## Idee G: Beitrag zu Coding da Vinci
 
@@ -102,3 +198,8 @@ Ziel: Design und Implementierung einer Software-Applikation. Frei wählbares The
 > wie Sammlungsobjekte von Institutionen auf neue Weisen vermittelt und genutzt
 > werden können.
 
+### Beispiele
+
+Siehe auch:
+[https://codingdavinci.de/de/projekte](https://codingdavinci.de/de/projekte)
+für über 150 bereits erstellte Projekte im Rahmen des Wettbewerbs (seit 2014)
