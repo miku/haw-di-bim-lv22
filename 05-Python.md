@@ -111,6 +111,190 @@ Python code runs:
 * in the browser (e.g. [pyscript](https://github.com/pyscript/pyscript))
 * embedded in another application (e.g. [blender](https://docs.blender.org/api/current/info_overview.html#python-in-blender))
 
+## Python Types
+
+* a variable is declared and assigned a value
+* a variable defines the set of possible values (like numbers, strings, a list of numbers, a mapping from strings to numbers, an object representing tabular data, ...)
+* each variable has a type - use `type(v)` to check what the type of each variable is
+
+There are a few elementary types: numbers, strings, truth values.
+
+### Numbers
+
+Python has integers and floats and complex numbers
+
+* integers are whole numbers (arbitrary large)
+* floats are decimal numbers (double precision, [issues](https://docs.python.org/3/tutorial/floatingpoint.html))
+
+### Strings
+
+* a string is a sequence of characters
+* a character is typically a letter, a digit, a punctuation mark, a space, ...
+* today, we can express most symbols as a string
+* emojis are strings, too 💡
+
+### Truth values
+
+* True and False are a distinct type: `bool`
+* named after George Boole, author of "The Laws of Thought" (1854)
+
+### None Type
+
+* `None` is a special value that represents the absence of a value
+* there is only one value of type `None`
+
+### Compound types
+
+Compound type are typically a collection of other types.
+
+In Python we have
+
+* lists
+* tuples
+* dictionaries
+* sets
+
+> Q: Intuitively, what are the differences between these types? What kind of
+> operations could be supported by these types?
+
+### Lists
+
+Lists are a sequence of elements.
+
+* [list](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
+
+### Tuples
+
+Tuples are like lists but immutable.
+
+* [tuples](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences)
+
+
+### Dictionaries
+
+Dictionaries implement a key-value mapping.
+
+* [dictionaries](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
+
+### Sets
+
+Sets implements an unordered collection of unique elements.
+
+* [sets](https://docs.python.org/3/tutorial/datastructures.html#sets)
+
+### Custom types
+
+In python, you can define your own types.
+
+For example, you want to model a Course, which has a name, a number of credits:
+
+```python
+class Module:
+    def __init__(self, name, credits, courses):
+        self.name = name
+        self.credits = credits
+        self.course = courses
+
+class Course:
+    def __init__(self, name, credits):
+        self.name = name
+        self.credits = credits
+```
+
+## Python builtin functions
+
+* builtin function quiz: [builtin functions](https://docs.python.org/3/library/functions.html)
+
+> given the name, what do you expect the function to do?
+
+
+## Control Structures
+
+* "ifs and for loops"
+
+### Conditions / Jumps
+
+```python
+if condition:
+    # do something
+else:
+    # do something else
+```
+
+* many things can be used in "condition", but finally we are working with a
+  boolean type (the condition is either true of false)
+
+### Loops / Repetition
+
+```python
+for element in sequence:
+    # do something
+```
+
+If we need an iteration index, we can use `enumerate`:
+
+```python
+for index, element in enumerate(sequence):
+    # do something
+```
+
+Sometime, we want to range over integers:
+
+```python
+for i in range(10):
+    # do something
+```
+
+* range is a builtin function to generate a sequence of integers
+
+## Functions
+
+Functions are a way to group code together.
+
+```python
+def sum_of_first_n_integers(n):
+    """ Returns the sum of the first n integers (a bit verbosely). """
+    s = 0
+    for i in range(1, n + 1):
+        s += i
+    return s
+
+s = sum_of_first_n_integers(10)
+print(s)
+```
+
+* you *define* a function
+* you can *call* a function
+* builtin functions are just functions
+* you can give it a *name* and *parameters*
+* there are *positional* and *keyword* parameters
+* function can return a value (or they return `None`)
+
+```python
+def underline(s, char="."):
+    return s + "\n" + char * len(s)
+
+
+print(underline("Hello World"))
+```
+
+## Object Orientation
+
+> Everything in Python is an object.
+
+If we see an "object" in python, we often see a method called on it.
+
+```python
+s = "hello world"
+print(s.upper())
+```
+
+* here "upper" is called a "method of string" - in essence it is a function
+  that is called on an object
+* the method can return something or manipulate the object
+
+Example: when we call `append` on a list, we are adding a value, but we are not returning anything.
+
 ## More Examples
 
 ### Researching Code Solutions

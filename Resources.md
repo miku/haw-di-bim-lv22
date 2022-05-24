@@ -27,4 +27,3 @@
 ## Programming and Debugging
 
 * [Stack Overflow](https://stackoverflow.com), [Ask Ubuntu](https://askubuntu.com/), [Unix/Linux](https://unix.stackexchange.com/), ...
-

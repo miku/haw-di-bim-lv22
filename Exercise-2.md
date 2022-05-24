@@ -7,7 +7,7 @@ Explain in a sentence:
 
 * What is the query doing?
 
-Your personal opinion:
+Your personal opinion (optional):
 
 * What was the hardest part of the task?
 * What was the easiert part of the task?
