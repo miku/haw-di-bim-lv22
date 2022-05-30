@@ -265,7 +265,10 @@ print(s)
 
 * you *define* a function
 * you can *call* a function
-* builtin functions are just functions
+* [builtin functions](https://docs.python.org/3/library/functions.html) are just functions
+
+> Builtin function quiz: Just reading the name, what do you expect the function to do?
+
 * you can give it a *name* and *parameters*
 * there are *positional* and *keyword* parameters
 * function can return a value (or they return `None`)
