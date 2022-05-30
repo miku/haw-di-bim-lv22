@@ -142,6 +142,21 @@ $ links -dump https://haw-hamburg.de
 
 ## Git
 
+A minimal life-cycle would be:
+
+```
+$ mkdir myproject
+$ cd myproject
+$ git init 
+$ echo 'Hello' > README.md
+$ git add .
+$ git commit -m "initial import"
+$ git log
+```
+
+* init initializes a repository - remember, *everything is local*
+* commit records a set of changes with a message
+
 ## Python
 
 ## Pandas
