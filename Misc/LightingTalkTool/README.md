@@ -22,7 +22,7 @@ This is how it looks:
 
 It is mostly mappings (keys and values) and lists. 
 
-# The web is full of JSON
+# JSON is everywhere
 
 If some institution or entity wants to publish more than lists, they may use JSON.
 
