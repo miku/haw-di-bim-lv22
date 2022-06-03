@@ -23,6 +23,7 @@ Varianten:
 ### Beispiele
 
 * [Wikipedia Citations](https://github.com/Harshdeep1996/cite-classifications-wiki), "A comprehensive dataset of citations with identifiers extracted from English Wikipedia"
+* Herunterladen von z.B. einer Menge von Tweets
 
 ## Idee B: Publikationspipeline
 
@@ -129,6 +130,8 @@ Abgabeformat:
 Ziel: Design und Implementierung einer Software-Applikation. Frei wählbares Thema.
 
 ### Beispiele
+
+Siehe auch: [Projects](Projects)
 
 #### Datenanalyse
 
