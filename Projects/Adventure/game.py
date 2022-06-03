@@ -31,8 +31,8 @@ Welcome young time traveller!
 The time machine your friend gave you worked, you left your port city and woke
 up in a desert. On the horizon, you see some monuments. Nearby is a gate.
 
-It feel good, but you have no idea, how to come back - which makes you a little
-nervous. Can you find your way home?
+You feel ok, but you have no idea how to get back - which makes you a
+little nervous. Can you find your way home?
 
 * walk around with "n", "e", "s", "w" (north, east, south, west)
 * do something like: "t", "p", "d" (talk, pickup, drop)
