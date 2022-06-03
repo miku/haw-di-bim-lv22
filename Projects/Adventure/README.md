@@ -5,8 +5,4 @@ can explore the world.
 
 Example interaction:
 
-```
-$ python game.py
-
-Welcom
-
+![](screenie.png)
