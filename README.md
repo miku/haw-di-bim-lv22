@@ -51,5 +51,5 @@ Paralleler zu der Veranstaltung (SS2022) statt findende Wettbewerbe:
 * [3 Standards](03-Web.md)
 * [4 Static Site Generators](04-Static.md)
 * [5 Python](05-Python.md)
-* [6 Graphs](06-Graphs.md)
-* [7 Project Discussions](10-Outro.md)
+* [6 Data](06-Data.md)
+* [7 Project Discussions](07-Outro.md)
