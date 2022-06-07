@@ -15,3 +15,5 @@ mapping = {
     "ai": "Anguilla",
 }
 
+for k, v in mapping.items():
+    print(k, v)

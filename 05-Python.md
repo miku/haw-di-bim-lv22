@@ -373,7 +373,57 @@ Example:
     >>> fibonacci(10)
     55
 
-### Discussion
+#### Sequence 6
+
+Reading JSON data with Python. JSON is a very common, flexible data format. Its
+use cases are similar to that of XML. JSON documents maps naturally to Python
+data structures.
+
+1. Download example file (best outside of Python, e.g. with curl or wget)
+2. Import "json" module 
+3. Open file, e.g. with the `with` statement
+4. Parse data into a Python data structure
+
+The data contains information about incoming and outgoing media of a library.
+There are elements in the data named `incoming` and `outgoing` in the data.
+
+5. Count how many incoming and outgoing are contained in the file.
+
+
+#### Sequence 7
+
+Word frequency allows us to gather a bit of insight into a text in a statistical
+manner. How often does a word appear in a text?
+
+1. Download a text file from Project Gutenberg (e.g. [https://www.gutenberg.org/files/61753/61753-0.txt](https://www.gutenberg.org/files/61753/61753-0.txt))
+2. Parse the text into tokens (e.g. split on whitespace)
+3. For each token count how often is appears in the text
+4. Output a simple two-column list with frequency and token, e.g. like so:
+
+```shell
+...
+1       hart
+1       zusetzen
+1       eröffnete
+2       Verhandlung
+1       fortzusetzen
+1       mildernden
+1       häßlichsten
+1       woraus
+1       Rache
+6       Revanche
+...
+```
+
+Discussion:
+
+* basic and more sophisticated token generation strategies
+* better support for counting in the standard library
+* sorting within and outside of Python 
+
+### Misc Problems
+
+#### Exhibition visitors
 
 Problem: What was the average number of visitors per exhibition per German state in the year 2016?
 
