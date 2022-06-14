@@ -2,7 +2,7 @@
 
 Auswahl und Bearbeitung eines Projektes.
 
-## Datenanalyse
+## P1: Datenanalyse
 
 Analyse eines Datensatzes aus dem Bereich GLAM, z.B. eines der Datensätze von
 Coding da Vinci [Coding da Vinci](https://codingdavinci.de/de/daten) -- es muß
@@ -25,8 +25,8 @@ Beispiele für Fragen an Daten:
 Abgabeformat:
 
 * der **Rohdatensatz** (eine oder mehrere Dateien, je nach Datensatz)
-* ein (oder mehrere) **Jupyter-Notebooks** die anhand der Rohdaten bestimmte Fragen beantworten
-* Kurzdokumentation zur Bearbeitung: welche anderen Tools wurden verwendet (und warum)
+* ein **Jupyter-Notebooks** die anhand der Rohdaten bestimmte Fragen beantworten
+* Kurzdokumentation (max. 3 Seiten) zur Bearbeitung: welche Probleme tauchten auf? Welche anderen Tools wurden verwendet (und warum)? ...
 
 Manchmal ist es notwendig, bestimmte Daten zu Gruppieren (z.B. verschiedene
 Schreibweise eines Names zu normalisieren). Dazu eigenen sich u.a. Tools wie
@@ -40,7 +40,7 @@ Kenntnisse:
 * XML, JSON, CSV
 * Pandas
 
-## Text-Adventure
+## P2: Text-Adventure
 
 Aufgabe:
 
@@ -70,7 +70,7 @@ Kenntnisse:
 
 * Python
 
-## Accessibility Report
+## P3: Accessibility Report
 
 Ziel: Existierende Seiten (aus dem GLAM Bereich) auf Accessibility und Nutzung
 von modern Web-Technologien untersuchen. Erstellung eines Reports mit
@@ -114,7 +114,7 @@ Kenntnisse:
 * HTML
 * Web standards: [https://www.w3.org/standards/](https://www.w3.org/standards/)
 
-## Webseite mit einem Static Site Generator
+## P4: Webseite mit einem Static Site Generator
 
 Static Site Generators bieten die Möglichkeit ein komplettes Web-Projekt in
 kurzer Zeit zu realisieren.
@@ -127,7 +127,9 @@ Aufgabe:
 * [ ] Nutzen sie [zola](https://www.getzola.org/) (oder ein andere [SSG
   tool](04-Static.md) zur Strukturierung Ihres Projektes
 * [ ] Erstellen Sie einige Seiten für den Inhalt (z.B. einen Blog, eine
-  Beschreibung ihres Themas, etc.)
+  Beschreibung ihres Themas, etc.) -- (hier können Sie auch über alternative
+  Wege der Erstellung von Markdown-Dateien nachdenken, z.B. mit Hilfe von
+  Scripten, die z.B. Daten in eine Tabellenform bringen, etc.)
 * [ ] Passen Sie die Seite visuell an, nutzen Sie ein existierendes
   [Theme](https://www.getzola.org/themes/) oder passen Sie eigene Templates an
 
