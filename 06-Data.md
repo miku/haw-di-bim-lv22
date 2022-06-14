@@ -66,8 +66,27 @@ A primer on RDF: [https://www.w3.org/TR/2014/NOTE-rdf11-primer-20140624/](https:
 <the video 'La Joconde à Washington'> <is about> <the Mona Lisa>
 ```
 
+More information:
+
+* [RDFa](https://rdfa.info/) - RDF in HTML, [tutorial](https://coffeecode.net/rdfa/codelab/)
+
 ## SPARQL
 
 > SPARQL Protocol And RDF Query Language
 
 * https://www.w3.org/2009/Talks/0615-qbe/
+
+## Wikidata
+
+* [https://www.wikidata.org](https://www.wikidata.org)
+
+> Wikidata is a free and open knowledge base that can be read and edited by both humans and machines.
+
+Wikidata acts as central storage for the structured data of its Wikimedia
+sister projects including Wikipedia, Wikivoyage, Wiktionary, Wikisource, and
+others.
+
+* items
+* properties, [list](https://www.wikidata.org/wiki/Wikidata:List_of_properties/all_in_one_table)
+
+Try it out: [https://query.wikidata.org/](https://query.wikidata.org/)
