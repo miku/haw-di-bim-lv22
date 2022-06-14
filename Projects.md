@@ -1,8 +1,152 @@
-# Projects
+# Projekte
 
-You can choose any idea or bring your own idea (ask instructor about feasibility).
+Auswahl und Bearbeitung eines Projektes.
 
-Ideas (in German):
+## Datenanalyse
+
+Analyse eines Datensatzes aus dem Bereich GLAM, z.B. eines der Datensätze von
+Coding da Vinci [Coding da Vinci](https://codingdavinci.de/de/daten) -- es muß
+hier **kein** Beitrag zu dem Wettbewerb eingereicht werden; es geht um einen
+wichtigen ersten Schritt in der Arbeit mit Daten: *Verständnis*. Dazu müssen die
+Daten geladen, bereinigt, aufbereitet und eventuell auch visualisiert werden.
+
+Beispiele für Fragen an Daten:
+
+* Welchen Typ haben bestimmte Werte? Das können Datentypen (aus der
+  Programmierung) oder auch
+  [Skalenniveaus](https://de.wikipedia.org/wiki/Skalenniveau)
+* Woher stammen die Daten?
+* Wie vollständig sind die Daten?
+* Welchen Ausschnitt repräsentieren die Daten?
+* Fehlstellen in den Daten?
+* Fehlende Informationen, z.B. fehlende Einheiten?
+* ...
+
+Abgabeformat:
+
+* der **Rohdatensatz** (eine oder mehrere Dateien, je nach Datensatz)
+* ein (oder mehrere) **Jupyter-Notebooks** die anhand der Rohdaten bestimmte Fragen beantworten
+* Kurzdokumentation zur Bearbeitung: welche anderen Tools wurden verwendet (und warum)
+
+Manchmal ist es notwendig, bestimmte Daten zu Gruppieren (z.B. verschiedene
+Schreibweise eines Names zu normalisieren). Dazu eigenen sich u.a. Tools wie
+[OpenRefine](https://openrefine.org/) oder auch
+[Pandas](https://pandas.pydata.org/).
+
+Kenntnisse:
+
+* Python
+* Jupyter
+* XML, JSON, CSV
+* Pandas
+
+## Text-Adventure
+
+Aufgabe:
+
+[Interactive Fiction](https://de.wikipedia.org/wiki/Interactive_Fiction) ist
+ein Computer-Spiel-Genre, in der die Spielwelt in Textform vermittelt und
+Spieler über ihre Aktionen die Handlung beeinflussen.
+
+Ein Text-Adventure besteht aus einer Welt, durch die eine Figur navigieren
+kann, Dinge sieht, Gegenstände findet, auf andere Figuren oder Rätsel trifft.
+
+* [ ] Implementierung eines einfachen Text-Adventures mit Hilfe der
+  Programmiersprache Python. Python ist sehr gut für die Arbeit mit Text
+  geeignet.
+* [ ] Modellierung der *Game-Mechanik*, Nutzer-Eingabe, Ausgabe, mögliche
+  Aktionen.
+* [ ] Das Spiel soll ohne Handbuch spielbar sein, also einfach sein und etwas
+  Hilfe anbieten (z.B. beim Start).
+
+Abgabeformat:
+
+* eine **Programmdatei** `game.py`, die ausführbar ist (ggfs. weitere Dateien, die zum Spiel gehören)
+    * Code sollte Dokumentation enthalten
+* eine Kurzdokumentation der wichtigsten Entscheidungen hinsichtlich der
+  Implementierung (max. 3 Seiten)
+
+Kenntnisse:
+
+* Python
+
+## Accessibility Report
+
+Ziel: Existierende Seiten (aus dem GLAM Bereich) auf Accessibility und Nutzung
+von modern Web-Technologien untersuchen. Erstellung eines Reports mit
+IST-Zustand und Empfehlungen für SOLL-Zustand auf Basis modernen Web-Standards.
+
+Hintergrund: Das moderne Web muss vielen Ansprüchen gerecht werden, unter
+anderen sollen Seite zugänglich, navigierbar und performant sein. Dafür stehen
+eine Vielzahl von Technologien und Standards zur Verfügung, die nicht immer
+alle eingesetzt werden.
+
+Aufgabe:
+
+* [ ] Auswahl einer Webseite (Domain)
+* [ ] Recherche zu Tools für die Messung von Accessibility und weiteren Metriken
+* [ ] Zusammenstellung einer Liste von Bewertungskriterien (min. 8 Kriterien)
+* [ ] Zusammenstellung von Alternativen und Verbesserungsvorschlägen, falls möglich
+* [ ] Erstellung eines Berichtes mit allen relevanten Informationen
+
+Mögliche Metriken:
+
+* URL-Struktur
+* Sind URL stabil? s.a. [Cool URIs don't change](https://www.w3.org/Provider/Style/URI)
+* Welche Inhalte sind verlinkbar? In welcher Granularität? (als Beispiel können
+  Sie an YouTube denken, wo z.B. Videos inklusive Start-Zeit, verlinkt werden
+  können ([Beispiel](https://youtu.be/o8NPllzkFhE?t=12)))
+* Werden [semantische Auszeichnungen](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#semantic_elements) genutzt?
+* Wie schnell lädt die Seite?
+* Wie viele HTTP-Anfragen löst die Seite aus? (Sie können das z.B. über [Chrome devtools](https://developer.chrome.com/docs/devtools/) oder auch andere Tools sehen)
+* Sind Bilder und andere Assets optimiert (in einem Web-Format, komprimiert, ...)?
+
+Abgabeformat:
+
+* Ausarbeitung (max. 5 Seiten) welche folgende Punkte enthält:
+    * Welche Tools kamen zur Prüfung zu Einsatz? Begründung der Auswahl, ggfs. Vorteile/Nachteile
+    * Wie schneidet die untersuchte Seite/Domain ab?
+    * Welche Verbesserungsvorschläge kann man formulieren?
+* Abgabe von erhobenen Daten, falls diese vorliegen
+
+Kenntnisse:
+
+* HTML
+* Web standards: [https://www.w3.org/standards/](https://www.w3.org/standards/)
+
+## Webseite mit einem Static Site Generator
+
+Static Site Generators bieten die Möglichkeit ein komplettes Web-Projekt in
+kurzer Zeit zu realisieren.
+
+Aufgabe:
+
+* [ ] Wählen Sie ein Thema ihrer Wahl, welches Sie mittels eines Webprojektes
+  veröffentlichen wollen (das kann aus dem bibliothekarischen Bereich sein,
+  aber auch ein anderes)
+* [ ] Nutzen sie [zola](https://www.getzola.org/) (oder ein andere [SSG
+  tool](04-Static.md) zur Strukturierung Ihres Projektes
+* [ ] Erstellen Sie einige Seiten für den Inhalt (z.B. einen Blog, eine
+  Beschreibung ihres Themas, etc.)
+* [ ] Passen Sie die Seite visuell an, nutzen Sie ein existierendes
+  [Theme](https://www.getzola.org/themes/) oder passen Sie eigene Templates an
+
+Kenntnisse:
+
+* HTML
+* CSS
+* Command Line
+* Markdown
+
+Abgabeformat:
+
+* eine zip-Datei, die alle Dateien und Verzeichnisse des Projektes enthält
+* optional deployment auf bereitgestellten Server
+
+----
+
+Liste von Projektideen.
+
 
 ## Idee A: Erstellung eines Datensatzes
 
