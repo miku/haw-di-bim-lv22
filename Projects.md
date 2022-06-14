@@ -114,7 +114,7 @@ Kenntnisse:
 * HTML
 * Web standards: [https://www.w3.org/standards/](https://www.w3.org/standards/)
 
-## P4: Webseite mit einem Static Site Generator
+## P4: Webseite mit einem Static Site Generator erstellen
 
 Static Site Generators bieten die Möglichkeit ein komplettes Web-Projekt in
 kurzer Zeit zu realisieren.
