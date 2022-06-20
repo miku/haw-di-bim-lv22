@@ -44,9 +44,9 @@ Beispiele:
 
 * [CSV HMT](https://github.com/miku/sundaypython/blob/master/notebooks/04%20Working%20with%20CSV.ipynb), Einschreibungen an der Hochschule für Musik und Theater Leipzig 1843-1893
 * [CSV Muka-Statistik](https://github.com/miku/sundaypython/blob/master/notebooks/05%20Another%20CSV%20dataset.ipynb), *Muka-Statistik* über Anteil der sorbischen Minderheit (1884)
-* [DWD Wetterdaten](...)
-* [Datensatz: Automarkt](...)
-* [OpenData Hamburg](...) - Statistisches Jahrbuch 2020, [https://suche.transparenz.hamburg.de/dataset/statistisches-jahrbuch-hamburg-berichtsjahr-2020](https://suche.transparenz.hamburg.de/dataset/statistisches-jahrbuch-hamburg-berichtsjahr-2020)
+* [DWD Wetterdaten](https://github.com/miku/haw-di-bim-lv22/blob/main/Projects/Exploratory/DWD_Weather_data.ipynb)
+* [Datensatz: Automarkt](https://github.com/miku/haw-di-bim-lv22/blob/main/Projects/Exploratory/UsedCars.ipynb)
+* [OpenData/Hamburg](https://github.com/miku/haw-di-bim-lv22/tree/main/Projects/OpenDataHamburg); e.g. [Tiere in Hamburg](https://www.govdata.de/web/guest/suchen/-/details/artenkataster-tiere-hamburgf53ee), ...
 
 ## P2: Text-Adventure
 
