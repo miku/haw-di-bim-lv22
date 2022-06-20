@@ -2,6 +2,14 @@
 
 Auswahl und Bearbeitung eines Projektes.
 
+## Assessment Criteria
+
+Criteria, if applicable, will include:
+
+* Depth or breadth of exploration
+* Code validity (does the code actually run)
+* Packaging and documentation (sensible file names, formatting, ...)
+
 ## P1: Datenanalyse
 
 Analyse eines Datensatzes aus dem Bereich GLAM, z.B. eines der Datensätze von
