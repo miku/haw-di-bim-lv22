@@ -31,7 +31,7 @@ Abgabeformat:
 Manchmal ist es notwendig, bestimmte Daten zu Gruppieren (z.B. verschiedene
 Schreibweise eines Names zu normalisieren). Dazu eigenen sich u.a. Tools wie
 [OpenRefine](https://openrefine.org/) oder auch
-[Pandas](https://pandas.pydata.org/).
+[Pandas](https://pandas.pydata.org/) ([Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)).
 
 Kenntnisse:
 
@@ -39,6 +39,14 @@ Kenntnisse:
 * Jupyter
 * XML, JSON, CSV
 * Pandas
+
+Beispiele:
+
+* [CSV HMT](https://github.com/miku/sundaypython/blob/master/notebooks/04%20Working%20with%20CSV.ipynb), Einschreibungen an der Hochschule für Musik und Theater Leipzig 1843-1893
+* [CSV Muka-Statistik](https://github.com/miku/sundaypython/blob/master/notebooks/05%20Another%20CSV%20dataset.ipynb), *Muka-Statistik* über Anteil der sorbischen Minderheit (1884)
+* [DWD Wetterdaten](...)
+* [Datensatz: Automarkt](...)
+* [OpenData Hamburg](...) - Statistisches Jahrbuch 2020, [https://suche.transparenz.hamburg.de/dataset/statistisches-jahrbuch-hamburg-berichtsjahr-2020](https://suche.transparenz.hamburg.de/dataset/statistisches-jahrbuch-hamburg-berichtsjahr-2020)
 
 ## P2: Text-Adventure
 
@@ -69,6 +77,10 @@ Abgabeformat:
 Kenntnisse:
 
 * Python
+
+Beispiele:
+
+* [Projects/Adventure](https://github.com/miku/haw-di-bim-lv22/tree/main/Projects/Adventure)
 
 ## P3: Accessibility Report
 
