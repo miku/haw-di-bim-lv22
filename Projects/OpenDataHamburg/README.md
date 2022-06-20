@@ -1,6 +1,6 @@
 # Open Data Hamburg
 
-* [ ] Search for a dataset at [https://transparenz.hamburg.de/open-data/](https://transparenz.hamburg.de/open-data/), e.g. CSV, XLSX, ...
+* [ ] Search for a dataset at [https://www.govdata.de](https://www.govdata.de), [https://transparenz.hamburg.de/open-data/](https://transparenz.hamburg.de/open-data/), or any other open data portal; formats may be CSV, XLSX, ...
 * [ ] Prepare the data, if necessary (cleaning, filtering, ...)
 * [ ] Explore the data in a Jupyter Notebook or with a script
 
