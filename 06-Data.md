@@ -74,7 +74,7 @@ More information:
 
 > SPARQL Protocol And RDF Query Language
 
-* https://www.w3.org/2009/Talks/0615-qbe/
+* [https://www.w3.org/2009/Talks/0615-qbe/](https://www.w3.org/2009/Talks/0615-qbe/)
 
 ## Wikidata
 
@@ -86,7 +86,18 @@ Wikidata acts as central storage for the structured data of its Wikimedia
 sister projects including Wikipedia, Wikivoyage, Wiktionary, Wikisource, and
 others.
 
-* items
-* properties, [list](https://www.wikidata.org/wiki/Wikidata:List_of_properties/all_in_one_table)
+It uses an own set of identifiers:
+[https://www.wikidata.org/wiki/Wikidata:Identifiers](https://www.wikidata.org/wiki/Wikidata:Identifiers);
+most importantly ids prefixed with "Q" (items) and "P" (properties) - example:
+[Q1055](https://www.wikidata.org/wiki/Q1055) is Hamburg;
+[Q1637706](https://www.wikidata.org/wiki/Q1637706) denotes a city with 1M+
+inhabitants, [Q18123741](https://www.wikidata.org/wiki/Q18123741) infection
+diseases, etc. In 10/2021 there were 98007580 items in wikidata.
+
+* items,
+* properties, [list](https://www.wikidata.org/wiki/Wikidata:List_of_properties/all_in_one_table); [List of properties](https://www.wikidata.org/wiki/Wikidata:List_of_properties)
+
+There are various ways to access the data: [https://www.wikidata.org/wiki/Wikidata:Data_access](https://www.wikidata.org/wiki/Wikidata:Data_access).
 
 Try it out: [https://query.wikidata.org/](https://query.wikidata.org/)
+
