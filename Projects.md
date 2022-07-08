@@ -10,7 +10,7 @@ Auswahl und Bearbeitung eines Projektes.
 
 Weitere Punkte:
 
-* dies ist kein wissenschaftliches Projekt; fügen Sie gern Referenzen an aber sie müssen keinem speziellem Stil folgen
+* dies ist kein wissenschaftliches Projekt; fügen Sie gern Referenzen an aber sie müssen keinem speziellem Zitierstil folgen
 * technisches Schreiben ist meist kurz und prägnant
 * die meisten Limits (wie Seitenzahlen) sind "soft limits", also Richtlinien - keine strengen Vorgaben
 * es ist gut, weniger mit etwas mehr Genauigkeit zu betrachten (als vieles oberflächlicher)
