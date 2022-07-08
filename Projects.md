@@ -85,15 +85,19 @@ Abgabeformat:
 * eine **Programmdatei** `game.py`, die ausführbar ist (ggfs. weitere Dateien, die zum Spiel gehören)
     * Code sollte Dokumentation enthalten
 * eine Kurzdokumentation der wichtigsten Entscheidungen hinsichtlich der
-  Implementierung (ca. 3 Seiten)
+  Implementierung, eventuell auch Hintergrund-Informationen zum Genre, etc. (ca. 3 Seiten)
 
 Kenntnisse:
 
 * Python
+* Creative Writing
 
 Beispiele:
 
 * [Projects/Adventure](https://github.com/miku/haw-di-bim-lv22/tree/main/Projects/Adventure)
+* Ein fortgeschrittenes Video-Tutorial auf YouTube: [Python Übung - Ein Textadventure](https://www.youtube.com/watch?v=KLQvQLU5bvI)
+* Inspiration: [Liste von Textadventures](https://de.wikipedia.org/wiki/Liste_von_Textadventures)
+* Textadventure-Historie: [Somewhere Nearby is Colossal Cave: Examining Will Crowther's Original "Adventure" in Code and in Kentucky](https://dhq-static.digitalhumanities.org/pdf/000009.pdf)
 
 ## P3: Accessibility Report
 
