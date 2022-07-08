@@ -2,13 +2,18 @@
 
 Auswahl und Bearbeitung eines Projektes.
 
-## Assessment Criteria
+## Bewertungskriterien
 
-Criteria, if applicable, will include:
+* Breite und Tiefe der Bearbeitung the Themas
+* Code Qualität (z.B: wird eine HTML-Seite angezeigt, läuft der Code, ...)
+* Formales: Dokumentation, Konsistenz in Begriffen
 
-* Depth or breadth of exploration
-* Code validity (does the code actually run)
-* Packaging and documentation (sensible file names, formatting, ...)
+Weitere Punkte:
+
+* dies ist kein wissenschaftliches Projekt; fügen Sie gern Referenzen an aber sie müssen keinem speziellem Stil folgen
+* technisches Schreiben ist meist kurz und prägnant
+* die meisten Limits (wie Seitenzahlen) sind "soft limits", also Richtlinien - keine strengen Vorgaben
+* es ist gut, weniger mit etwas mehr Genauigkeit zu betrachten (als vieles oberflächlicher)
 
 ## P1: Datenanalyse
 
@@ -34,7 +39,7 @@ Abgabeformat:
 
 * der **Rohdatensatz** (eine oder mehrere Dateien, je nach Datensatz)
 * ein **Jupyter-Notebooks** die anhand der Rohdaten bestimmte Fragen beantworten
-* Kurzdokumentation (max. 3 Seiten) zur Bearbeitung: welche Probleme tauchten auf? Welche anderen Tools wurden verwendet (und warum)? ...
+* Kurzdokumentation (ca. 3 Seiten) zur Bearbeitung: welche Probleme tauchten auf? Welche anderen Tools wurden verwendet (und warum)? ...
 
 Manchmal ist es notwendig, bestimmte Daten zu Gruppieren (z.B. verschiedene
 Schreibweise eines Names zu normalisieren). Dazu eigenen sich u.a. Tools wie
@@ -80,7 +85,7 @@ Abgabeformat:
 * eine **Programmdatei** `game.py`, die ausführbar ist (ggfs. weitere Dateien, die zum Spiel gehören)
     * Code sollte Dokumentation enthalten
 * eine Kurzdokumentation der wichtigsten Entscheidungen hinsichtlich der
-  Implementierung (max. 3 Seiten)
+  Implementierung (ca. 3 Seiten)
 
 Kenntnisse:
 
@@ -123,7 +128,7 @@ Mögliche Metriken:
 
 Abgabeformat:
 
-* Ausarbeitung (max. 5 Seiten) welche folgende Punkte enthält:
+* Ausarbeitung (ca. 5 Seiten) welche folgende Punkte enthält:
     * Welche Tools kamen zur Prüfung zu Einsatz? Begründung der Auswahl, ggfs. Vorteile/Nachteile
     * Wie schneidet die untersuchte Seite/Domain ab?
     * Welche Verbesserungsvorschläge kann man formulieren?
@@ -163,12 +168,57 @@ Kenntnisse:
 Abgabeformat:
 
 * eine zip-Datei, die alle Dateien und Verzeichnisse des Projektes enthält
-* optional deployment auf bereitgestellten Server
+* optional: deployment auf bereitgestellten Server (exacloud.cc)
+
 
 ----
 
-Liste von Projektideen.
+# Feedback zu Einreichungen
 
+Anbei kurze Notizen zu eingereichten Projektvorschlägen.
+
+## Schulliste
+
+How many pages (approximately) under "schulliste.eu"
+
+* [https://www.google.com/search?q=site%3Aschulliste.eu](https://www.google.com/search?q=site%3Aschulliste.eu)
+
+> About 32.600 results (0,16 seconds)
+
+Any xml, json, csv file?
+
+* [https://www.google.com/search?q=site%3Aschulliste.eu+filetype%3Acsv](https://www.google.com/search?q=site%3Aschulliste.eu+filetype%3Acsv)
+
+Nope. There's only a single "xlsx" file (irrelevant).
+
+Some more compact information, but as PDF: [https://www.hamburg.de/contentblob/64534/7e2bfbd3dd1df4eec11f8cfee53dec36/data/bbs-br-zum-schulanfang.pdf](https://www.hamburg.de/contentblob/64534/7e2bfbd3dd1df4eec11f8cfee53dec36/data/bbs-br-zum-schulanfang.pdf)
+
+To view a PDF as text on the command line:
+
+Install pdftotext, which is part of the "poppler-utils" package:
+
+```
+$ sudo apt-get install poppler-utils
+```
+
+You can stream data into "pdftotext" command by using "-" for both input and
+output:
+
+```
+$ curl -s https://www.hamburg.de/contentblob/64534/7e2bfbd3dd1df4eec11f8cfee53dec36/data/bbs-br-zum-schulanfang.pdf | pdftotext - - | less
+```
+
+For example to extract (approximately) all (unique) URLs from the PDF on the fly:
+
+```
+$ curl -s https://www.hamburg.de/contentblob/64534/7e2bfbd3dd1df4eec11f8cfee53dec36/data/bbs-br-zum-schulanfang.pdf | pdftotext - - | grep -Eo '^http[^ ]*' | sort -u > urls.txt
+```
+
+## ...
+
+----
+
+# Ursprüngliche Liste von Projektideen
 
 ## Idee A: Erstellung eines Datensatzes
 
